@@ -3,7 +3,7 @@ title: home
 layout: default
 ---
 
-# Padel Events in Berlin:
+# Upcoming Padel Events in Berlin:
 
 {% assign events = site.data.events | sort: 'date' %}
 <table>
