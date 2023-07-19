@@ -1,0 +1,29 @@
+- id: Padel Lankwitz Fiesta
+  date: 2023-07-29
+  type: tournament
+  location: pl
+  description: >
+    Americano tournament:
+    <br/>
+      - Beginners, level 0-2.5: 18:00-20:00
+    <br/>
+      - Intermediate, level 2-7: 20:00-22:00
+    <br/><br/>
+    Don't miss this chance to compete! To participate, sign up via Playtomic (section Competitions)
+    See you on the court!
+- id: Americano for Beginners
+  date: 2023-07-30
+  type: tournament
+  location: wap
+  description: >
+    Still a few spots available, contact Julian (+49 163 2640865) if interested to sign up.
+  link:
+- id: Padel Essentials Ladies by Manu Soler
+  date: 2023-09-28
+  type: training
+  location: padelFC
+  description: >
+    Manu Soler is providing an exclusive Padel Essentials course dedicated to women players.
+    <br/>
+    Get ready for an unforgettable experience with 4.5 hours of intensive coaching and an hour of gameplay! 🎾🚀
+  link: https://www.manupadel.com/signups/ladies.html
