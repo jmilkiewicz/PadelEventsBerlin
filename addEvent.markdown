@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Add Event
+title: Add New Event
 ---
 
 ### Adding new event:
