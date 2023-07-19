@@ -3,15 +3,13 @@ title: home
 layout: default
 ---
 
-# Padel Events in Berlin
-
-##  Upcoming events:
+# Padel Events in Berlin:
 
 {% assign events = site.data.events | sort: 'date' %}
+<table>
 
- <ul class="post-list">
 {% for event in events %}
-  <li class="">
+<tr><td>
     <span class="post-list-heading">{{ event.date}} {% include eventType.html type=event.type %}
 {{ event.id }}
 </span>
@@ -25,9 +23,9 @@ layout: default
 <h4>
 {% include eventLink.html link=event.link %}
 </h4>
-
-  </li>
+</td></tr>
 {% endfor %}
-</ul>
+</table>
+
 
 
