@@ -1,5 +1,5 @@
 ---
-title: home 
+title: Padel Events in Berlin 
 layout: default
 ---
 
