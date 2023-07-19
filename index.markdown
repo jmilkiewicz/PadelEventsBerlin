@@ -11,7 +11,7 @@ layout: default
 
  <ul class="post-list">
 {% for event in events %}
-  <li>
+  <li class="">
     <span class="post-list-heading">{{ event.date}} {% include eventType.html type=event.type %}
 {{ event.id }}
 </span>
@@ -20,11 +20,12 @@ layout: default
  {{ event.description }}
 </h3>
 <h4>
-{% include eventLink.html link=event.link %}
-</h4>
-<h4>
 {% include locations.html id=event.location %}
 </h4>
+<h4>
+{% include eventLink.html link=event.link %}
+</h4>
+
   </li>
 {% endfor %}
 </ul>
