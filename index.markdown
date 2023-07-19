@@ -10,7 +10,7 @@ layout: default
 
 {% for event in events %}
 <tr><td>
-    <span class="post-list-heading">{{ event.date}} {% include eventType.html type=event.type %}
+    <span class="post-list-heading">{{ event.date | date: "%-d %b %Y"}} {% include eventType.html type=event.type %}
 {{ event.id }}
 </span>
 
