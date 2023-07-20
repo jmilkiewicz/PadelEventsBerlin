@@ -25,6 +25,7 @@ layout: default
 {% include eventLink.html link=event.link %}
 </h4>
 </td></tr>
+<tr><td></td></tr>
 {% endfor %}
 </table>
 
