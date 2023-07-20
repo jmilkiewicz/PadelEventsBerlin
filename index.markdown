@@ -2,14 +2,15 @@
 title: Padel Events in Berlin 
 layout: default
 ---
+<script src="{{ base.url | prepend: site.url }}/assets/js/filter-events.js"></script>
 
 # Upcoming Padel Events in Berlin:
 
 {% assign events = site.data.events | sort: 'date' %}
-<table>
+<table id="events">
 
 {% for event in events %}
-<tr><td>
+<tr event-date="{{ event.date}}"><td>
     <span class="post-list-heading">{{ event.date | date: "%-d %b %Y"}} {% include eventType.html type=event.type %}
 {{ event.id }}
 </span>
@@ -24,11 +25,6 @@ layout: default
 {% include eventLink.html link=event.link %}
 </h4>
 </td></tr>
-
-
-<tr><td></td></tr>
-
-
 {% endfor %}
 </table>
 
