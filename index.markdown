@@ -44,7 +44,7 @@ body, ul, li {
 
 /* Style event location link */
 .events-list li .event-location {
-  font-size: 16px;
+  font-size: 14px;
   color: #007bff; /* Choose a color that fits your design */
   text-decoration: none;
 }
@@ -52,16 +52,6 @@ body, ul, li {
 /* Style event location link on hover (optional) */
 .events-list li .event-location:hover {
   text-decoration: underline;
-}
-
-/* Style event kind */
-.events-list li .event-kind {
-  font-size: 16px;
-}
-
-/* Style event description */
-.events-list li .event-description {
-  font-size: 16px;
 }
 
 /* Style event link */
@@ -76,6 +66,11 @@ body, ul, li {
   text-decoration: underline;
 }
 
+/* Style event description */
+.events-list li .event-description {
+  font-size: 16px;
+}
+
 /* Mobile-friendly styles */
 @media (max-width: 767px) {
   .events-list li {
@@ -85,20 +80,11 @@ body, ul, li {
   .events-list li h2 {
     font-size: 20px; /* Decrease font size for smaller screens */
   }
- 
+
+  .events-list li .event-location,
   .events-list li .event-link {
-  font-size: 16px;
-  color: #fff; /* Text color for the link */
-  background-color: #007bff; /* Background color for the link */
-  padding: 8px 12px; /* Add some padding to create a button-like appearance */
-  border-radius: 4px; /* Add rounded corners */
-  text-decoration: none;
+    font-size: 14px; /* Decrease font size for smaller screens */
   }
-
-.events-list li .event-link:hover {
-  background-color: #ff5722; /* Change background color on hover */
-}
-
 }
 
 </style>
@@ -115,8 +101,9 @@ body, ul, li {
         <p class="event-date">{{ event.date | date: "%-d %b %Y"}}</p>
         {% include locations.html id=event.location %}
     </div>
+    <p class="event-link">{% include eventLink.html link=event.link %}</p>
     <p class="event-description">{{ event.description }}</p>
-    {% include eventLink.html link=event.link %}
+    
  </li>   
 {% endfor %}
 </ul>
