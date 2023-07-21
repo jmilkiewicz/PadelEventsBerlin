@@ -100,7 +100,7 @@ body, ul, li {
     <h2> {% include eventType.html type=event.type %}
 {{ event.id }}</h2>
     <div class="event-details">
-        <p class="event-date">{{ event.date | date: "%-d %b %Y"}}</p>
+        {% include eventDate.html date=event.date %} 
         {% include locations.html id=event.location %}
     </div>
     {% include eventLink.html link=event.link %}
