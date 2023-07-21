@@ -1,11 +1,11 @@
 function hideEventsBefore(beforeDate) {
-  const eventsTable = document.getElementById("events");
-  for (let row of eventsTable.rows) {
-    const dateAttribute = row.getAttribute("event-date")
+  const events = document.getElementById("events-list").getElementsByTagName('li');
+  for (let event of events) {
+    const dateAttribute = event.getAttribute("event-date")
     if (dateAttribute) {
       const dateEvent = Date.parse(dateAttribute)
       if(dateEvent < beforeDate){
-        row.style.display = 'none';
+        event.style.display = 'none';
       }
     }
   }
