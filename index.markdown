@@ -94,8 +94,6 @@ body, ul, li {
 
 # Upcoming Padel Events in Berlin
 {% assign events = site.data.events | sort: 'date' %}
-
-
 <ul class="events-list" id="events-list">
 {% for event in events %}
 <li event-date="{{ event.date}}">
@@ -107,7 +105,6 @@ body, ul, li {
     </div>
     {% include eventLink.html link=event.link %}
     <p class="event-description">{{ event.description }}</p>
-
  </li>   
 {% endfor %}
 </ul>
