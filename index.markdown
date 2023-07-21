@@ -1,5 +1,6 @@
 ---
-title: Padel Events in Berlin layout: default
+title: Padel Events in Berlin
+layout: default
 ---
 <script src="{{ base.url | prepend: site.url }}/assets/js/filter-events.js"></script>
 <script>
