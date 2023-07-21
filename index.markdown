@@ -2,10 +2,12 @@
 title: Padel Events in Berlin layout: default
 ---
 <script src="{{ base.url | prepend: site.url }}/assets/js/filter-events.js"></script>
-
-# Upcoming Padel Events in Berlin
-
-<style type="text/css">
+<script>
+window.onload = function(){
+    hideEventsBefore(Date.now());
+}
+</script>
+<style>
 /* Reset default padding and margin for list items and body */
 body, ul, li {
   margin: 0;
@@ -89,6 +91,7 @@ body, ul, li {
 
 </style>
 
+# Upcoming Padel Events in Berlin
 {% assign events = site.data.events | sort: 'date' %}
 
 
@@ -103,7 +106,7 @@ body, ul, li {
     </div>
     <p class="event-link">{% include eventLink.html link=event.link %}</p>
     <p class="event-description">{{ event.description }}</p>
-    
+
  </li>   
 {% endfor %}
 </ul>
