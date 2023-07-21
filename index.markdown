@@ -105,7 +105,7 @@ body, ul, li {
         <p class="event-date">{{ event.date | date: "%-d %b %Y"}}</p>
         {% include locations.html id=event.location %}
     </div>
-    <p class="event-link">{% include eventLink.html link=event.link %}</p>
+    {% include eventLink.html link=event.link %}
     <p class="event-description">{{ event.description }}</p>
 
  </li>   
