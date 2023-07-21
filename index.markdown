@@ -6,6 +6,12 @@ layout: default
 
 # Upcoming Padel Events in Berlin:
 
+<style type="text/css">
+table tr:nth-child(even) { background-color: #dedee1; }
+
+table tr:nth-child(odd) { background-color: #f7f7fa; }
+</style>
+
 {% assign events = site.data.events | sort: 'date' %}
 <table id="events">
 
@@ -25,7 +31,6 @@ layout: default
 {% include eventLink.html link=event.link %}
 </h4>
 </td></tr>
-<tr><td></td></tr>
 {% endfor %}
 </table>
 
