@@ -1,14 +1,17 @@
-
     {% if include.id == "wap" %}
-    <a href="https://wearepadel.com/de/berlin" target="_blank" class="event-location">We Are Padel - Berlin</a>
+        {% assign locationName = "We Are Padel - Berlin" %}
+        {% assign locationLink = "https://wearepadel.com/de/berlin" %}
     {% endif %}
     {% if include.id == "pl" %}
-    <a href="https://www.padellankwitz.de/de/berlin" target="_blank" class="event-location">Padel Lankwitz</a>
+        {% assign locationName = "Padel Lankwitz" %}
+        {% assign locationLink = "https://www.padellankwitz.de/" %}
     {% endif %}
     {% if include.id == "padelFC" %}
-    <a href="https://padelfc.com/" target="_blank" class="event-location">Padel FC</a>
+        {% assign locationName = "Padel FC" %}
+        {% assign locationLink = "https://padelfc.com/" %}
     {% endif %}
     {% if include.id == "beachMitte" %}
-    <a href="https://beachmitte.de/beachmitte/padel-tennis/" target="_blank" class="event-location">Beach Mitte</a>
+        {% assign locationName = "Beach Mitte" %}
+        {% assign locationLink = "https://beachmitte.de/beachmitte/padel-tennis" %}
     {% endif %}
-<!--<a href="https://wearepadel.com/de/berlin" target="_blank">We Are Padel - Berlin</a>-->
+    <a href="{{locationLink}}" target="_blank" class="event-location">📍 {{locationName}}</a>
