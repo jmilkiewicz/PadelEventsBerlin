@@ -3,12 +3,10 @@ layout: page
 title: Add New Event
 ---
 
-### Adding new event:
+Adding your event to *PadelEventsBerlin* is a breeze!<br/> 
+**Everyone** can submit their exciting padel events to be showcased to the entire community. 🎾🌟 
 
-
-Adding your event to *PadelEventsBerlin* is a breeze! 
-
-To showcase your exciting padel event to the entire community, follow these simple steps:
+To showcase your event, simply follow these easy steps:
 
 1. 📝 Fill Up the Form: Complete the event submission form below. Provide all the necessary details about your event, including the date, time, location, event description, and any other relevant information. 
 2. ✅ Types of Events: Please keep in mind that we only publish events that adhere to our guidelines. Check [here]({% link about.markdown %}#events) to  what kind of events are suitable for *PadelEventsBerlin*.
