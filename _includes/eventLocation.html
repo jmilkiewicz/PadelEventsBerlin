@@ -14,4 +14,8 @@
         {% assign locationName = "Beach Mitte" %}
         {% assign locationLink = "https://beachmitte.de/beachmitte/padel-tennis" %}
     {% endif %}
+    {% if include.id == "padelBerlin" %}
+        {% assign locationName = "PadelBerlin" %}
+        {% assign locationLink = "http://www.padelberlin.de/" %}
+    {% endif %}
     <a href="{{locationLink}}" target="_blank" class="event-location">📍 {{locationName}}</a>
