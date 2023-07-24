@@ -19,15 +19,15 @@ With this page, my aim is to keep you informed about ALL the fantastic padel eve
 
 *PadelEventsBerlin* is open to all types of events that revolve around padel and enrich the community experience. Here's a glimpse of the events *PadelEventsBerlin* is about:
 
-- Tournaments: Whether it's an intense championship or a friendly local tournament, we welcome all events that fuel the competitive spirit of padel.
+- 🏆 Tournaments: Whether it's an intense championship or a friendly local tournament, we welcome all events that fuel the competitive spirit of padel.
 
-- Skill-Building Workshops/Trainings/Courses: If your club hosts coaching sessions, training camps, or workshops to enhance players' skills, this is the perfect platform to promote them.
+- 🎓 Skill-Building Workshops/Trainings/Courses: If your club hosts coaching sessions, training camps, or workshops to enhance players' skills, this is the perfect platform to promote them.
 
-- Equipment Showcases: Introducing new padel gear? Let the community know about equipment testing and showcase events.
+- 👕 Equipment Showcases: Introducing new padel gear? Let the community know about equipment testing and showcase events.
 
-- Special Gatherings: Planning a social padel meetup, themed event, or padel-related celebration? Share the joy with our community.
+- 🎊 Special Gatherings: Planning a social padel meetup, themed event, or padel-related celebration? Share the joy with our community.
 
-- Charity Events: If you're organizing a padel event for a good cause, we'd love to support and spread the word.
+- 💖 Charity Events: If you're organizing a padel event for a good cause, we'd love to support and spread the word.
 
 *PadelEventsBerlin* is NOT:
 
