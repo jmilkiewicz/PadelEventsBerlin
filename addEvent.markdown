@@ -13,4 +13,4 @@ To showcase your event, simply follow these easy steps:
 3. 🧐 Event Review Process: Once you've submitted your event, our dedicated team will review the submission. We aim to ensure that all events align with the spirit of *PadelEventsBerlin* and contribute to the overall padel experience in Berlin.
 4. 🤝 Join the Vibrant Padel Community: By adding your event to *PadelEventsBerlin*, you become an integral part of our thriving padel community. Your event will be visible to padel enthusiasts, players, and club managers from across Berlin, fostering excitement and participation.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfxBYtH-ARdl4yfBVtVtb5cnlL_b_D0DObk7KiXBtGX_hs3AA/viewform?embedded=true" width="640" height="2150" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfxBYtH-ARdl4yfBVtVtb5cnlL_b_D0DObk7KiXBtGX_hs3AA/viewform?embedded=true" width="640" height="1993" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
