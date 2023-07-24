@@ -38,31 +38,31 @@
 #    <br/><br/>
 #    🚺 Ladies, limited spots. Early bird prices till 13th of August.
 #  link: https://www.manupadel.com/signups/ladies.html
-- id: Padel Essentials 🎯 and Padel Defence ⚔
-  date: 2023-09-30
-  type: training
-  location: wap
-  description: >
-    Manu Soler🇪🇸 is finally back in Berlin with power-packed training programs designed for players ranging from lower-intermediate to advanced levels: <br/>
-    - Padel Essentials 🎯<br/>
-    - Padel Defence ⚔️<br/><br/>
-    Immerse yourself in 7.5 hours of intensive training and enjoy 2 hours of gameplay.
-    Can't make all 4 days? Private lessons with Manu are also available.<br/><br/>
-    🌐 Explore the event page to unveil the skills, experiences, and enhancements you'll gain. It is time to elevate your game !🔥💪<br/>
-    Limited spots ⏳. Early bird prices till the end of July.
-  link: https://www.manupadel.com/signups/
-#- id: Hertha PSC Berlin Padel Championship
-#  date: 2023-08-12
-#  type: tournament
-#  location: padelBerlin
+#- id: Padel Essentials 🎯 and Padel Defence ⚔
+#  date: 2023-09-30
+#  type: training
+#  location: wap
 #  description: >
-#    Join us for an exciting padel tournament in Friedrichshain on August 12th!<br/> We'll have games, entertainment, drinks, and music, creating a fantastic atmosphere for everyone to enjoy! 🎾😎🎵🍕🥂<br/><br/>
-#
-#    Two registration types available:<br/>
-#     - for players who want to participate in the tournament,<br/>
-#     - for spectators who can come and cheer for their favorite teams<br/><br/>
-#
-#    Don't miss out on the fun! Secure your spot by registering now.<br/>
-#    We can't wait to welcome you to the event! 🎾<br/>
-#    See you there! - Hertha PSC
-#  link: https://www.eventbrite.com/e/hertha-psc-berlin-padel-championship-tickets-668286542037
+#    Manu Soler🇪🇸 is finally back in Berlin with power-packed training programs designed for players ranging from lower-intermediate to advanced levels: <br/>
+#    - Padel Essentials 🎯<br/>
+#    - Padel Defence ⚔️<br/><br/>
+#    Immerse yourself in 7.5 hours of intensive training and enjoy 2 hours of gameplay.
+#    Can't make all 4 days? Private lessons with Manu are also available.<br/><br/>
+#    🌐 Explore the event page to unveil the skills, experiences, and enhancements you'll gain. It is time to elevate your game !🔥💪<br/>
+#    Limited spots ⏳. Early bird prices till the end of July.
+#  link: https://www.manupadel.com/signups/
+- id: Hertha PSC Berlin Padel Championship
+  date: 2023-08-12
+  type: tournament
+  location: padelBerlin
+  description: >
+    Join us for an exciting padel tournament in Friedrichshain on August 12th!<br/> We'll have games, entertainment, drinks, and music, creating a fantastic atmosphere for everyone to enjoy! 🎾😎🎵🍕🥂<br/><br/>
+
+    Two registration types available:<br/>
+     - for players who want to participate in the tournament,<br/>
+     - for spectators who can come and cheer for their favorite teams<br/><br/>
+
+    Don't miss out on the fun! Secure your spot by registering now.<br/>
+    We can't wait to welcome you to the event! 🎾<br/>
+    See you there! - Hertha PSC
+  link: https://www.eventbrite.com/e/hertha-psc-berlin-padel-championship-tickets-668286542037
