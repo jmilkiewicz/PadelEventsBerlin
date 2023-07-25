@@ -73,7 +73,6 @@ body, ul, li {
 .events-list li .event-description {
   font-size: 16px;
 }
-
 /* Mobile-friendly styles */
 @media (max-width: 767px) {
   .events-list li {
