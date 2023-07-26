@@ -27,6 +27,13 @@ body, ul, li {
   padding: 10px;
 }
 
+/*.events-list li:nth-child(odd) {*/
+/*    background-color: #f0f5fa;*/
+/*}*/
+/*.events-list li:nth-child(even) {*/
+/*    background-color: #F0F8FF;*/
+/*}*/
+
 /* Style event name */
 .events-list li h2 {
   font-size: 24px;
@@ -73,6 +80,7 @@ body, ul, li {
 .events-list li .event-description {
   font-size: 16px;
 }
+
 /* Mobile-friendly styles */
 @media (max-width: 767px) {
   .events-list li {
