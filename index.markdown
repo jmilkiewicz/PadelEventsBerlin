@@ -96,7 +96,7 @@ body, ul, li {
 {% assign events = site.data.events | sort: 'date' %}
 <ul class="events-list" id="events-list">
 {% for event in events %}
-<li event-date="{{ event.date}}">
+<li event-date="{{ event.registration_till}}">
     <h2> {% include eventType.html type=event.type %}
 {{ event.id }}</h2>
     <div class="event-details">
