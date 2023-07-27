@@ -10,6 +10,12 @@ window.onload = function(){
 </script>
 
 # Upcoming Padel Events in Berlin
+
+**To receive notifications for ALL padel events in Berlin, join our
+<a href="https://chat.whatsapp.com/DMy3rVa6NHdDgQZi2pmtmi" class="global-whatsapp-link">
+<img src="/assets/images/whatsapp.png" alt="WhatsApp Icon">WhatsApp group.
+</a>**
+
 {% assign events = site.data.events | sort: 'date' %}
 <ul class="events-list" id="events-list">
 {% for event in events %}
@@ -25,11 +31,6 @@ window.onload = function(){
  </li>   
 {% endfor %}
 </ul>
-
-**To receive notifications for ALL padel events in Berlin, join our
-<a href="https://chat.whatsapp.com/DMy3rVa6NHdDgQZi2pmtmi" class="global-whatsapp-link">
-    <img src="/assets/images/whatsapp.png" alt="WhatsApp Icon">WhatsApp group.
-</a>**
 
 
 
