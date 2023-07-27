@@ -26,7 +26,10 @@ window.onload = function(){
 {% endfor %}
 </ul>
 
-**To receive notification on ALL padel events happening in Berlin join our <a href="https://chat.whatsapp.com/DMy3rVa6NHdDgQZi2pmtmi">whatsapp</a>** 
+**To receive notifications for ALL padel events in Berlin, join our
+<a href="https://chat.whatsapp.com/DMy3rVa6NHdDgQZi2pmtmi" class="global-whatsapp-link">
+    <img src="/assets/images/whatsapp.png" alt="WhatsApp Icon">WhatsApp group.
+</a>**
 
 
 

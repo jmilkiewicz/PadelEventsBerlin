@@ -78,3 +78,10 @@ body, ul, li {
         font-size: 14px; /* Decrease font size for smaller screens */
     }
 }
+
+    /* Style the WhatsApp icon image */
+    .global-whatsapp-link img {
+        width: 24px; /* Adjust the width as needed */
+        height: 24px; /* Adjust the height as needed */
+        margin-right: 5px; /* Add some space between the icon and the text */
+    }
