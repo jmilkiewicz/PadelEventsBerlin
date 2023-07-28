@@ -12,21 +12,21 @@
 #    <br/><br/>
 #    Don't miss this chance to compete! 💪<br/>
 #    To participate, sign up via Playtomic 📱 (section Competitions).
-- id: Padel FC Americano
-  date: 2023-07-28
-  registration_till: 2023-07-28 14:00 +02
-  type: tournament
-  location: padelFC
-  description: >
-    Americano Padel Tournament for all skill levels:<br/>
-      - level 0 - 1.5 : 16:00-18:00 ⏰<br/>
-      - level 1.5 - 2.5 : 18:00-20:00 ⏰<br/>
-      - level 2.5+ : 20:00-22:00 ⏰<br/><br/>
-
-     Don't miss your chance to shine on the padel court!<br/><br/>
-
-    The event is fully booked out! 🎾🎉<br/>
-    Don't worry if you missed the chance to sign up. Check the PadelFC WhatsApp group, as someone might release their spot. 📱💬
+#- id: Padel FC Americano
+#  date: 2023-07-28
+#  registration_till: 2023-07-28 14:00 +02
+#  type: tournament
+#  location: padelFC
+#  description: >
+#    Americano Padel Tournament for all skill levels:<br/>
+#      - level 0 - 1.5 : 16:00-18:00 ⏰<br/>
+#      - level 1.5 - 2.5 : 18:00-20:00 ⏰<br/>
+#      - level 2.5+ : 20:00-22:00 ⏰<br/><br/>
+#
+#     Don't miss your chance to shine on the padel court!<br/><br/>
+#
+#    The event is fully booked out! 🎾🎉<br/>
+#    Don't worry if you missed the chance to sign up. Check the PadelFC WhatsApp group, as someone might release their spot. 📱💬
 - id: Americano Beginner
   date: 2023-07-29
   registration_till: 2023-07-28 23:00 +02
