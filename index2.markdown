@@ -1,13 +1,19 @@
 ---
-title: Padel Events in Berlin
-layout: default
+title: Padel Events in Berlin layout: default
 ---
 <script src="{{ base.url | prepend: site.url }}/assets/js/filter-events.js"></script>
 <script>
 window.onload = function(){
     hideEventsBefore(Date.now());
     hideByType();
-}
+};
+
+document.onreadystatechange = () => {
+  if (document.readyState === "complete") {
+    hideEventsBefore(Date.now());
+  }
+};
+
 </script>
 
 # Upcoming Padel Events in Berlin
