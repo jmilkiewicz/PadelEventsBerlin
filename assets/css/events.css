@@ -71,7 +71,8 @@ body, ul, li {
 
 /* Style the filter links */
 .filter-link {
-    display: inline-block; /* Make the links appear in a row */
+    display: inline-flex; /* Use inline-flex for better control over emoji and text */
+    align-items: center; /* Align the emoji and text vertically */
     margin: 0 10px; /* Add some space between the links */
     padding: 5px 10px; /* Add padding to create a clickable area */
     /*background-color: #007bff; !* Choose a color that fits your design *!*/
@@ -116,11 +117,7 @@ body, ul, li {
     .filter-link {
         font-size: 14px; /* Decrease font size for better mobile layout */
         margin: 2px; /* Adjust spacing between links for better mobile layout */
-    }
-
-    /* Add spacing between emoji and text */
-    .filter-link span {
-        margin-right: 2px;
+        padding: 3px 5px; /* Decrease padding for better mobile layout */
     }
 }
 
