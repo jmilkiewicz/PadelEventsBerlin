@@ -1,4 +1,4 @@
-    /* Reset default padding and margin for list items and body */
+/* Reset default padding and margin for list items and body */
 body, ul, li {
     margin: 0;
     padding: 0;
@@ -62,6 +62,7 @@ body, ul, li {
 .events-list li .event-description {
     font-size: 16px;
 }
+
 /* Style the filter links container */
 .filter-links {
     text-align: center; /* Center the links horizontally */
@@ -83,6 +84,13 @@ body, ul, li {
 /*.filter-link:hover {*/
 /*    background-color: #0056b3; !* Change background color on hover *!*/
 /*}*/
+/* Style the WhatsApp icon image */
+.global-whatsapp-link img {
+    width: 24px; /* Adjust the width as needed */
+    height: 24px; /* Adjust the height as needed */
+    margin-right: 5px; /* Add some space between the icon and the text */
+}
+
 
 /* Mobile-friendly styles */
 @media (max-width: 767px) {
@@ -98,21 +106,23 @@ body, ul, li {
     .events-list li .event-link {
         font-size: 14px; /* Decrease font size for smaller screens */
     }
-}
 
-    /* Style the WhatsApp icon image */
-    .global-whatsapp-link img {
-        width: 24px; /* Adjust the width as needed */
-        height: 24px; /* Adjust the height as needed */
-        margin-right: 5px; /* Add some space between the icon and the text */
-    }
     .filter-links {
         display: flex; /* Use flexbox for mobile devices */
-        justify-content: center; /* Center the links horizontally */
         flex-wrap: wrap; /* Allow links to wrap into multiple rows */
+        justify-content: center; /* Center the links horizontally */
     }
 
     .filter-link {
-        margin: 5px; /* Adjust spacing between links for better mobile layout */
+        font-size: 14px; /* Decrease font size for better mobile layout */
+        margin: 2px; /* Adjust spacing between links for better mobile layout */
     }
+
+    /* Add spacing between emoji and text */
+    .filter-link span {
+        margin-right: 2px;
+    }
+}
+
+
 
