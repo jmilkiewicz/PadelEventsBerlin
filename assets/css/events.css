@@ -64,7 +64,7 @@ body, ul, li {
 }
 
 /* Style the filter links container */
-.filter-links {
+filter-links {
     text-align: center; /* Center the links horizontally */
     margin-bottom: 20px; /* Add some space below the links */
 }
@@ -75,8 +75,6 @@ body, ul, li {
     align-items: center; /* Align the emoji and text vertically */
     margin: 0 5px; /* Add some space between the links */
     padding: 5px 10px; /* Add padding to create a clickable area */
-    /*background-color: #007bff; !* Choose a color that fits your design *!*/
-    /*color: #fff; !* Text color for the links *!*/
     text-decoration: none;
     border-radius: 4px; /* Add rounded corners to the links */
 }
@@ -115,9 +113,9 @@ body, ul, li {
     }
 
     .filter-link {
-        font-size: 12px; /* Decrease font size for better mobile layout */
-        margin: 1px; /* Adjust spacing between links for better mobile layout */
-        padding: 1px 1px; /* Decrease padding for better mobile layout */
+        font-size: 14px; /* Decrease font size for better mobile layout */
+        margin: 3px; /* Adjust spacing between links for better mobile layout */
+        padding: 5px 4px; /* Decrease padding for better mobile layout */
         flex-grow: 1; /* Distribute available space evenly among links */
     }
 }
