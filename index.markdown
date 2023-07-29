@@ -6,6 +6,7 @@ layout: default
 <script>
 window.onload = function(){
     hideEventsBefore(Date.now());
+    hideByType();
 }
 </script>
 
@@ -16,10 +17,17 @@ window.onload = function(){
 <img src="/assets/images/whatsapp.png" alt="WhatsApp Icon">WhatsApp group.
 </a>**
 
+<div class="filter-links">
+    <a href="#all" class="filter-link" data-type="all">All 📅</a>
+    <a href="#tournaments" class="filter-link" data-type="tournament">Tournaments {% include eventType.html type='tournament' %}</a>
+    <a href="#courses" class="filter-link" data-type="course">Courses {% include eventType.html type='course' %}</a>
+    <a href="#other" class="filter-link" data-type="other">Others {% include eventType.html type='other' %}</a>
+</div>
+
 {% assign events = site.data.events | sort: 'date' %}
 <ul class="events-list" id="events-list">
 {% for event in events %}
-<li event-date="{{ event.registration_till}}">
+<li event-date="{{ event.registration_till}}" data-type="{{ event.type}}">
     <h2> {% include eventType.html type=event.type %}
 {{ event.id }}</h2>
     <div class="event-details">
