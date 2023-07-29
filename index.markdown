@@ -4,6 +4,21 @@ layout: default
 ---
 <script src="{{ base.url | prepend: site.url }}/assets/js/filter-events.js"></script>
 <script>
+function hideEventsBefore(beforeDate) {
+  const eventItems = document.querySelectorAll('.events-list li');
+  
+  eventItems.forEach(item => {
+    const dateAttribute = item.getAttribute("event-date");
+    if(dateAttribute){
+      const dateEvent = Date.parse(dateAttribute);
+      if(dateEvent < beforeDate){
+        item.style.display = 'none';
+      }
+    }
+  });
+}
+
+
 document.addEventListener('DOMContentLoaded', function () {
     hideEventsBefore(Date.now());
     hideByType();

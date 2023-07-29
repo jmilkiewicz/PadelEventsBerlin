@@ -1,17 +1,17 @@
 
-function hideEventsBefore(beforeDate) {
-  const eventItems = document.querySelectorAll('.events-list li');
-  
-  eventItems.forEach(item => {
-    const dateAttribute = item.getAttribute("event-date")
-    if(dateAttribute){
-      const dateEvent = Date.parse(dateAttribute)
-      if(dateEvent < beforeDate){
-        item.style.display = 'none';
-      }
-    }
-  });
-}
+// function hideEventsBefore(beforeDate) {
+//   const eventItems = document.querySelectorAll('.events-list li');
+//
+//   eventItems.forEach(item => {
+//     const dateAttribute = item.getAttribute("event-date")
+//     if(dateAttribute){
+//       const dateEvent = Date.parse(dateAttribute)
+//       if(dateEvent < beforeDate){
+//         item.style.display = 'none';
+//       }
+//     }
+//   });
+// }
 
 function hideByType(){
   const filterLinks = document.querySelectorAll('.filter-link');
