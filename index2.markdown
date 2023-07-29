@@ -19,9 +19,9 @@ window.onload = function(){
 
 <div class="filter-links">
     <a href="#all" class="filter-link" data-type="all">All 📅</a>
-    <a href="#tournaments" class="filter-link" data-type="tournament">Tournaments 🏆</a>
-    <a href="#courses" class="filter-link" data-type="course">Courses 🏋🏼‍</a>
-    <a href="#other" class="filter-link" data-type="other">Others 🎉</a>
+    <a href="#tournaments" class="filter-link" data-type="tournament">Tournaments {% include eventType.html type="tournament"}</a>
+    <a href="#courses" class="filter-link" data-type="course">Courses {% include eventType.html type="course"}</a>
+    <a href="#other" class="filter-link" data-type="other">Others {% include eventType.html type="other"}</a>
 </div>
 
 {% assign events = site.data.events | sort: 'date' %}
