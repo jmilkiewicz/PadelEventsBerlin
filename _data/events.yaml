@@ -29,20 +29,20 @@
 #
 #    The event is fully booked out! 🎾🎉<br/>
 #    Don't worry if you missed the chance to sign up. Check the PadelFC WhatsApp group, as someone might release their spot. 📱💬
-- id: Americano Beginner
-  date: 2023-07-29
-  registration_till: 2023-07-29 09:05 +02
-  type: tournament
-  location: wap
-  description: >
-    Americano tournament for beginners on Saturday: 11:00-13:00 ⏰<br/><br/>
-
-    Beginners, take the leap into padel at the Americano Tournament! 🏆<br/>
-    Discover the excitement of the sport and kick-start your padel journey. 🌟<br/><br/>
-
-    The event is fully booked out! 🎾🎉<br/>
-    Check the WAP WhatsApp group, as someone might release their spot. 📱💬 or  contact Julian (+49 163 2640865) if interested to join waitlist.
-  link:
+#- id: Americano Beginner
+#  date: 2023-07-29
+#  registration_till: 2023-07-29 09:05 +02
+#  type: tournament
+#  location: wap
+#  description: >
+#    Americano tournament for beginners on Saturday: 11:00-13:00 ⏰<br/><br/>
+#
+#    Beginners, take the leap into padel at the Americano Tournament! 🏆<br/>
+#    Discover the excitement of the sport and kick-start your padel journey. 🌟<br/><br/>
+#
+#    The event is fully booked out! 🎾🎉<br/>
+#    Check the WAP WhatsApp group, as someone might release their spot. 📱💬 or  contact Julian (+49 163 2640865) if interested to join waitlist.
+#  link:
 #- id: Padel Essentials Ladies 👭
 #  date: 2023-09-28
 #  type: course
