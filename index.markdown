@@ -4,10 +4,10 @@ layout: default
 ---
 <script src="{{ base.url | prepend: site.url }}/assets/js/filter-events.js"></script>
 <script>
-window.onload = function(){
+document.addEventListener('DOMContentLoaded', function () {
     hideEventsBefore(Date.now());
     hideByType();
-}
+});
 </script>
 
 # Upcoming Padel Events in Berlin
