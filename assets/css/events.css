@@ -73,7 +73,7 @@ body, ul, li {
 .filter-link {
     display: inline-flex; /* Use inline-flex for better control over emoji and text */
     align-items: center; /* Align the emoji and text vertically */
-    margin: 0 10px; /* Add some space between the links */
+    margin: 0 5px; /* Add some space between the links */
     padding: 5px 10px; /* Add padding to create a clickable area */
     /*background-color: #007bff; !* Choose a color that fits your design *!*/
     /*color: #fff; !* Text color for the links *!*/
@@ -115,9 +115,10 @@ body, ul, li {
     }
 
     .filter-link {
-        font-size: 14px; /* Decrease font size for better mobile layout */
-        margin: 2px; /* Adjust spacing between links for better mobile layout */
-        padding: 3px 5px; /* Decrease padding for better mobile layout */
+        font-size: 12px; /* Decrease font size for better mobile layout */
+        margin: 1px; /* Adjust spacing between links for better mobile layout */
+        padding: 1px 1px; /* Decrease padding for better mobile layout */
+        flex-grow: 1; /* Distribute available space evenly among links */
     }
 }
 
