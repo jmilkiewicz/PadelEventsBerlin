@@ -58,19 +58,20 @@
 #    <br/><br/>
 #    🚺 Ladies, limited spots. Early bird prices (individual and group) till 13th of August.
 #  link: https://www.manupadel.com/signups/ladies.html
-#- id: Padel Essentials 🎯 and Padel Defence ⚔
-#  date: 2023-09-30
-#  type: course
-#  location: wap
-#  description: >
-#    Manu Soler🇪🇸 is back in Berlin with power-packed training programs from <b>30th Sep to 3rd Oct</b>, designed for players ranging from lower-intermediate to advanced levels: <br/>
-#    - Padel Essentials 🎯<br/>
-#    - Padel Defence ⚔️<br/><br/>
-#    Immerse yourself in 7.5 hours of intensive training and enjoy 2 hours of gameplay.
-#    Can't make all 4 days? Private lessons with Manu are also available.<br/><br/>
-#    🌐 Explore the event page to unveil the skills, experiences, and enhancements you'll gain. It is time to elevate your game !🔥💪<br/><br/>
-#    Limited spots ⏳. Early bird prices till the end of July!
-#  link: https://www.manupadel.com/signups/
+- id: Padel Workshop by Manu Soler 🎾
+  date: 2023-09-30
+  type: course
+  location: wap
+  description: >
+    Manu Soler🇪🇸 is back in Berlin with power-packed training programs from <b>30th Sep to 3rd Oct</b>, designed for players ranging from lower-intermediate to advanced levels: <br/>
+    - Padel Essentials 🎯<br/>
+    - Padel Defence ⚔️<br/><br/>
+    Immerse yourself in 7.5 hours of intensive training and enjoy 2 hours of gameplay.<br/>
+    Can't make all 4 days? Private lessons with Manu are also available.<br/><br/>
+    🌐 Explore the event page to unveil the skills, experiences, and enhancements you'll gain.<br/>
+    It is time to elevate your game !🔥💪<br/><br/>
+    Limited spots ⏳. <b>Early bird prices till the end of July!</b>
+  link: https://www.manupadel.com/signups/
 - id: Hertha PSC Berlin Padel Championship
   date: 2023-08-12
   registration_till: 2023-08-11 00:00+02
