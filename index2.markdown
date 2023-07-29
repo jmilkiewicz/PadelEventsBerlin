@@ -18,10 +18,10 @@ window.onload = function(){
 </a>**
 
 <div class="filter-links">
-    <a href="#all" class="filter-link" data-type="all">All</a>
-    <a href="#tournaments" class="filter-link" data-type="tournament">Tournaments</a>
-    <a href="#courses" class="filter-link" data-type="course">Courses</a>
-    <a href="#other" class="filter-link" data-type="other">Others</a>
+    <a href="#all" class="filter-link" data-type="all">All 📅</a>
+    <a href="#tournaments" class="filter-link" data-type="tournament">Tournaments 🏆</a>
+    <a href="#courses" class="filter-link" data-type="course">Courses 🏋🏼‍</a>
+    <a href="#other" class="filter-link" data-type="other">Others 🎉</a>
 </div>
 
 {% assign events = site.data.events | sort: 'date' %}
