@@ -59,6 +59,7 @@
 #  link: https://www.manupadel.com/signups/ladies.html
 - id: Padel Workshop by Manu Soler 🎾
   date: 2023-09-30
+  registration_till: 2023-09-30 09:00 +02
   type: course
   location: wap
   description: >
@@ -71,6 +72,19 @@
     It is time to elevate your game !🔥💪<br/><br/>
     Limited spots ⏳. <b>Early bird prices till the end of July!</b>
   link: https://www.manupadel.com/signups/
+- id: Coaching with Pablo Franco Duran 🎾
+  date: 2023-08-19
+  registration_till: 2023-08-12 09:00 +02
+  type: course
+  location: padelFC
+  description: >
+    With Pablo Franco Duran we welcome a young but very experienced professional coach who will take your game to the next level.<br/><br/>
+    When: August 19th and 20th<br/>
+    What: 2 hours of daily training in groups of 4 players <br/>
+    Sunday Bonus: 1-hour supervised match + BBQ 🥩🍺 <br/>
+    Extras: Welcome gift by adidas & a chance to win an adidas Padel racket.<br/><br/>
+
+    Only 16 free seats. To participate, sign up via Playtomic (section Classess) and secure your spot!
 - id: Hertha PSC Berlin Padel Championship
   date: 2023-08-12
   registration_till: 2023-08-11 00:00+02
