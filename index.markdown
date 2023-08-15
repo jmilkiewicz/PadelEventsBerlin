@@ -6,7 +6,7 @@ layout: default
 <script>
 document.addEventListener('DOMContentLoaded', function () {
     hideEventsBefore(Date.now());
-    hideByType();
+    hideByType(Date.now());
 });
 </script>
 
