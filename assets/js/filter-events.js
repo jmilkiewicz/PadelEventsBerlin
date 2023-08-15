@@ -8,8 +8,6 @@ function hideEventsBefore(beforeDate) {
   events.forEach(event => {
     if (isEventAfter(event, beforeDate)) {
       event.style.display = 'block';
-    } else {
-      event.style.display = 'none';
     }
   });
 }
