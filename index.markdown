@@ -4,8 +4,7 @@ layout: default
 ---
 <script src="{{ base.url | prepend: site.url }}/assets/js/filter-events.js"></script>
 <script>
-document.addEventListener('DOMContentLoaded', function () {
-    hideEventsBefore(Date.now());
+document.addEventListener('DOMContentLoaded', function () { 
     hideByType(Date.now());
 });
 </script>
