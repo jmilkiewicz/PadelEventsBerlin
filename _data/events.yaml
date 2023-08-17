@@ -9,7 +9,8 @@
 #    <br/><br/>
 #    Don't miss this chance to compete! 💪<br/>
 #    To participate, sign up via Playtomic (Padel Lankwitz/Activities). 📝
-- id: Pádel Lankwitz Fiesta Friday
+- name: Pádel Lankwitz Fiesta Friday
+  id: fiesta
   date: 2023-08-25
   registration_till: 2023-08-24 20:00 +02
   type: tournament
@@ -24,7 +25,7 @@
     <br/>
     Don't miss this chance to compete and win ! 💪<br/>
     To participate, sign up via Playtomic (Padel Lankwitz/Activities). 📝
-#- id: Padel FC Americano
+#- name: Padel FC Americano
 #  date: 2023-08-18
 #  registration_till: 2023-08-16 09:00 +02
 #  type: tournament
@@ -36,7 +37,7 @@
 #
 #     16 participants in each level! Don't miss your chance to shine on the padel court!<br/>
 #     To participate, sign up via Playtomic (Padel FC/Activities). 📝 🎫🏅
-#- id: King of the Hills
+#- name: King of the Hills
 #  date: 2023-08-11
 #  registration_till: 2023-08-11 15:55 +02
 #  type: tournament
@@ -48,8 +49,9 @@
 #    Grab your racket and get ready to battle it out!🛡️🗡<br/><br/>
 #
 #    Seems like event is booked out. <br/> Contact Julian from WAP (+49 176 68266671)📱 for potential wait list.
-- id: Americano Beginner
+- name: Americano Beginner
   date: 2023-08-25
+  id: amerBeginner
   registration_till: 2023-08-25 9:55 +02
   type: tournament
   location: wap
@@ -61,7 +63,8 @@
 
     To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
   link:
-- id: Mexicano Spiel Ladies
+- name: Mexicano Spiel Ladies
+  id: mexicanoLadies
   date: 2023-08-19
   registration_till: 2023-08-19 9:55 +02
   type: tournament
@@ -73,7 +76,8 @@
     As we aim to crown the best among us, every match promises to be a test of skill and strategy.🤺<br/><br/>
 
     To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
-- id: GPS 500 DAMEN / HERREN
+- name: GPS 500 DAMEN / HERREN
+  id: gps500wap
   date: 2023-08-26
   registration_till: 2023-08-24 10:00 +02
   type: tournament
@@ -86,7 +90,8 @@
     🚀 Want to be part of this epic event? Visit <i>Event Details</i> to find out how to secure your spot in the competition!<br/>
     Remember, only licensed players are eligible, so make sure you've got your license in hand! 📋🎫
   link: https://rankedin.com/de/content/poster/28615?eventtype=4
-- id: Padel Essentials Ladies 👭
+- name: Padel Essentials Ladies 👭
+  id: essentialsLadies
   date: 2023-09-28
   type: course
   location: padelFC
@@ -99,7 +104,8 @@
     <br/><br/>
     🚺 Ladies, the last spot available!
   link: https://www.manupadel.com/signups/ladies.html
-- id: Padel Workshop by Manu Soler 🎾
+- name: Padel Workshop by Manu Soler 🎾
+  id: manuSeptember
   date: 2023-09-30
   registration_till: 2023-09-30 09:00 +02
   type: course
@@ -112,7 +118,7 @@
     It is time to elevate your game!🔥💪 <br/>
     ⚠️ Hurry, only the last 2 spots are left! ⚠️
   link: https://www.manupadel.com/signups/
-- id: Coaching with Pablo Franco Duran 🎾
+- name: Coaching with Pablo Franco Duran 🎾
   date: 2023-08-19
   registration_till: 2023-08-18 09:00 +02
   type: course

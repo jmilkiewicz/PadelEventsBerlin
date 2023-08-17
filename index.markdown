@@ -26,9 +26,9 @@ document.addEventListener('DOMContentLoaded', function () {
 {% assign events = site.data.events | sort: 'date' %}
 <ul class="events-list" id="events-list">
 {% for event in events %}
-<li event-date="{{ event.registration_till}}" data-type="{{ event.type}}">
+<li event-date="{{ event.registration_till}}" data-type="{{ event.type}}" id="{{ event.id }}">
     <h2> {% include eventType.html type=event.type %}
-{{ event.id }}</h2>
+{{ event.name }}</h2>
     <div class="event-details">
         {% include eventDate.html date=event.date %} 
         {% include eventLocation.html id=event.location %}
