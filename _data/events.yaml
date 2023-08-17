@@ -1,14 +1,14 @@
-- id: Pádel Lankwitz Fiesta Friday
-  date: 2023-09-01
-  registration_till: 2023-08-31 23:00 +02
-  type: tournament
-  location: pl
-  description: >
-    Americano tournament for beginners (level 0-2.5): 18:00-20:00 ⏰
-
-    <br/><br/>
-    Don't miss this chance to compete! 💪<br/>
-    To participate, sign up via Playtomic (Padel Lankwitz/Activities). 📝
+#- id: Pádel Lankwitz Fiesta Friday
+#  date: 2023-09-01
+#  registration_till: 2023-08-31 23:00 +02
+#  type: tournament
+#  location: pl
+#  description: >
+#    Americano tournament for beginners (level 0-2.5): 18:00-20:00 ⏰
+#
+#    <br/><br/>
+#    Don't miss this chance to compete! 💪<br/>
+#    To participate, sign up via Playtomic (Padel Lankwitz/Activities). 📝
 - id: Pádel Lankwitz Fiesta Friday
   date: 2023-08-25
   registration_till: 2023-08-24 20:00 +02
