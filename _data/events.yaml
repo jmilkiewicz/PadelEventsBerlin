@@ -51,7 +51,7 @@
 #    Seems like event is booked out. <br/> Contact Julian from WAP (+49 176 68266671)📱 for potential wait list.
 - name: Americano Beginner
   date: 2023-08-25
-  id: amerBeginner
+  id: amerBeginnerWap
   registration_till: 2023-08-25 9:55 +02
   type: tournament
   location: wap
