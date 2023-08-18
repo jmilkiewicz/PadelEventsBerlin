@@ -63,19 +63,19 @@
 
     To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
   link:
-- name: Mexicano Spiel Ladies
-  id: mexicanoLadies
-  date: 2023-08-19
-  registration_till: 2023-08-19 9:55 +02
-  type: tournament
-  location: wap
-  description: >
-    <a href="https://americano-padel.com/mexicano-americano/en">Mexicano</a> tournament for ladies: 11:00-13:00<br/><br/>
-
-    Embrace the dynamic gameplay, where you'll have the chance to play both with and against various opponents, all based on the current top list.<br/>
-    As we aim to crown the best among us, every match promises to be a test of skill and strategy.🤺<br/><br/>
-
-    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
+#- name: Mexicano Spiel Ladies
+#  id: mexicanoLadies
+#  date: 2023-08-19
+#  registration_till: 2023-08-19 9:55 +02
+#  type: tournament
+#  location: wap
+#  description: >
+#    <a href="https://americano-padel.com/mexicano-americano/en">Mexicano</a> tournament for ladies: 11:00-13:00<br/><br/>
+#
+#    Embrace the dynamic gameplay, where you'll have the chance to play both with and against various opponents, all based on the current top list.<br/>
+#    As we aim to crown the best among us, every match promises to be a test of skill and strategy.🤺<br/><br/>
+#
+#    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
 - name: GPS 500 DAMEN / HERREN
   id: gps500wap
   date: 2023-08-26
@@ -118,17 +118,17 @@
     It is time to elevate your game!🔥💪 <br/>
     ⚠️ Hurry, only the last 2 spots are left! ⚠️
   link: https://www.manupadel.com/signups/
-- name: Coaching with Pablo Franco Duran 🎾
-  date: 2023-08-19
-  id: pabloFrancoDuran
-  registration_till: 2023-08-18 09:00 +02
-  type: course
-  location: padelFC
-  description: >
-    With Pablo Franco Duran we welcome a young but very experienced professional coach who will take your game to the next level.<br/><br/>
-    When: August 19th and 20th<br/>
-    What: 2 hours of daily training in groups of 4 players <br/>
-    Sunday Bonus: 1-hour supervised match + BBQ 🥩🍺 <br/>
-    Extras: Welcome gift by adidas & a chance to win an adidas Padel racket.<br/><br/>
-
-    Last 2 spots. To participate, sign up via Playtomic (Padel FC/Activities). 📝
+#- name: Coaching with Pablo Franco Duran 🎾
+#  date: 2023-08-19
+#  id: pabloFrancoDuran
+#  registration_till: 2023-08-18 09:00 +02
+#  type: course
+#  location: padelFC
+#  description: >
+#    With Pablo Franco Duran we welcome a young but very experienced professional coach who will take your game to the next level.<br/><br/>
+#    When: August 19th and 20th<br/>
+#    What: 2 hours of daily training in groups of 4 players <br/>
+#    Sunday Bonus: 1-hour supervised match + BBQ 🥩🍺 <br/>
+#    Extras: Welcome gift by adidas & a chance to win an adidas Padel racket.<br/><br/>
+#
+#    Last 2 spots. To participate, sign up via Playtomic (Padel FC/Activities). 📝
