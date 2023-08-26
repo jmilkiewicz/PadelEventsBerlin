@@ -80,20 +80,20 @@
 #    As we aim to crown the best among us, every match promises to be a test of skill and strategy.🤺<br/><br/>
 #
 #    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
-- name: GPS 500 DAMEN / HERREN
-  id: gps500wap
-  date: 2023-08-26
-  registration_till: 2023-08-24 10:00 +02
-  type: tournament
-  location: wap
-  description: >
-    Get your paddles ready because the GPS Padel Tournament (German Padel Series) is finally heading to Berlin! 🏆🎉 <br/><br/>
-
-    It's time to show off your skills and compete in an adrenaline-pumping showdown! The tournament will feature thrilling categories for both men and women! 💪👫 <br/><br/>
-
-    🚀 Want to be part of this epic event? Visit <i>Event Details</i> to find out how to secure your spot in the competition!<br/>
-    Remember, only licensed players are eligible, so make sure you've got your license in hand! 📋🎫
-  link: https://rankedin.com/de/content/poster/28615?eventtype=4
+#- name: GPS 500 DAMEN / HERREN
+#  id: gps500wap
+#  date: 2023-08-26
+#  registration_till: 2023-08-24 10:00 +02
+#  type: tournament
+#  location: wap
+#  description: >
+#    Get your paddles ready because the GPS Padel Tournament (German Padel Series) is finally heading to Berlin! 🏆🎉 <br/><br/>
+#
+#    It's time to show off your skills and compete in an adrenaline-pumping showdown! The tournament will feature thrilling categories for both men and women! 💪👫 <br/><br/>
+#
+#    🚀 Want to be part of this epic event? Visit <i>Event Details</i> to find out how to secure your spot in the competition!<br/>
+#    Remember, only licensed players are eligible, so make sure you've got your license in hand! 📋🎫
+#  link: https://rankedin.com/de/content/poster/28615?eventtype=4
 - name: Padel Essentials Ladies 👭
   id: essentialsLadies
   date: 2023-09-28
