@@ -55,20 +55,39 @@
 #    Grab your racket and get ready to battle it out!🛡️🗡<br/><br/>
 #
 #    Seems like event is booked out. <br/> Contact Julian from WAP (+49 176 68266671)📱 for potential wait list.
-#- name: Americano Beginner
-#  date: 2023-08-25
-#  id: amerBeginnerWap
-#  registration_till: 2023-08-25 9:55 +02
-#  type: tournament
-#  location: wap
-#  description: >
-#    Americano tournament for beginners on Friday: 19:00-21:00<br/><br/>
-#
-#    Beginners, take the leap into padel at the Americano Tournament! 🏆<br/>
-#    Discover the excitement of the sport and kick-start your padel journey. 🌟<br/><br/>
-#
-#    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
-#  link:
+- name: Americano Beginner 🔰
+  date: 2023-09-16
+  id: amerBeginnerWap
+  registration_till: 2023-09-15 22:00 +02
+  type: tournament
+  location: wap
+  description: >
+    Americano tournament for beginners on Saturday: 11:00-13:00<br/><br/>
+
+    Beginners, take the leap into padel at the Americano Tournament! 🏆<br/>
+    Discover the excitement of the sport and kick-start your padel journey. 🌟<br/><br/>
+
+    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
+- name: Americano Intermediate 🎾
+  date: 2023-09-22
+  id: amerIntermediateWap
+  registration_till: 2023-09-21 22:00 +02
+  type: tournament
+  location: wap
+  description: >
+    Americano tournament for intermediate on Friday: 19:00-21:00<br/><br/>  
+
+    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
+- name: Americano for Ladies ♀
+  date: 2023-09-08
+  id: amerLadiesWap
+  registration_till: 2023-07-21 22:00 +02
+  type: tournament
+  location: wap
+  description: >
+    Americano tournament for ladies on Friday: 19:00-21:00<br/><br/>  
+
+    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
 #- name: Mexicano Spiel Ladies
 #  id: mexicanoLadies
 #  date: 2023-08-19
