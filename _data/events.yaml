@@ -1,36 +1,19 @@
-#- name: Pádel Lankwitz Fiesta Friday
-#  id: fiesta
-#  date: 2023-09-01
-#  registration_till: 2023-08-31 23:00 +02
-#  type: tournament
-#  location: pl
-#  link: https://playtomic.io/tournaments/f3aa6ba8-47d7-4ef8-87e5-ac4fd9b23d31
-#  description: >
-#    Americano tournament with prizes for: <br/>
-#    - beginners (📊 level 0-2.5): 18:00-20:00 ⏰,<br/>
-#    - intermediate (📊 level 2.3-3.7): 20:00-22:00 ⏰<br/><br/>
-#    Don't miss this chance to compete! 💪<br/>
-#    🏆 1.Platz: 15€ Wallet Guthaben + 10€ Tennis-Point Gutschein<br/>
-#    🥈 2.Platz: 1 Dose Padelbälle + 10€ Tennis-Point Gutschein<br/>
-#    🥉 3.Platz: 10€ Tennis-Point Gutschein<br/><br/>
-#
-#    To participate, sign up via Playtomic (Padel Lankwitz/Activities). 📝
-#- name: Pádel Lankwitz Fiesta Friday
-#  id: fiesta
-#  date: 2023-08-25
-#  registration_till: 2023-08-24 20:00 +02
-#  type: tournament
-#  location: pl
-#  link: https://playtomic.io/tournaments/99afccff-ade8-4c04-8645-7a8a7b330857
-#  description: >
-#    Americano tournament for beginners (level 0-2.5): 19:30-21:30 ⏰<br/>
-#    Experience the excitement of exclusive tournament:<br/>
-#    - 12 spots,<br/>
-#    - 2 courts,<br/>
-#    - prizes for the top 3 winners<br/>
-#    <br/>
-#    Don't miss this chance to compete and win ! 💪<br/>
-#    To participate, sign up via Playtomic (Padel Lankwitz/Activities). 📝
+- name: Pádel Lankwitz Fiesta Friday
+  id: fiesta
+  date: 2023-09-08
+  registration_till: 2023-09-07 20:00 +02
+  type: tournament
+  location: pl
+  description: >
+    Americano tournament with prizes for: <br/>
+    - beginners (📊 level 0-2.5): 18:00-20:00 ⏰,<br/>
+    - intermediate (📊 level 2.2-3.7): 20:00-22:00 ⏰<br/><br/>
+    Don't miss this chance to compete! 💪<br/>
+    🏆 1.Platz: 15€ Wallet Guthaben + 10€ Tennis-Point Gutschein<br/>
+    🥈 2.Platz: 1 Dose Padelbälle + 10€ Tennis-Point Gutschein<br/>
+    🥉 3.Platz: 10€ Tennis-Point Gutschein<br/><br/>
+
+    To participate, sign up via Playtomic (Padel Lankwitz/Activities). 📝
 #- name: Padel FC Americano
 #  date: 2023-08-18
 #  registration_till: 2023-08-16 09:00 +02
