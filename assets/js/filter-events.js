@@ -13,10 +13,16 @@ function hideEventsBefore(beforeDate) {
 }
 
 function isEventAfter(event, date) {
+  console.log("now is "+ date)
+
   const dateAttribute = event.getAttribute("event-date")
   if (dateAttribute) {
+
     const dateEvent = Date.parse(dateAttribute)
-    return dateEvent > date
+
+    const result = dateEvent > date
+    console.log("event: "+ event.getAttribute("id") + " has time " + dateEvent +" and shall be shown " + result)
+    return result
   }
   return true;
 }
