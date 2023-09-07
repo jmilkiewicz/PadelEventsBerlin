@@ -46,9 +46,9 @@ function hideByType(now) {
 
       // Show the filtered events
       eventsToShow.forEach(event => {
-        // if (isEventAfter(event, now)) {
-        //   event.style.display = 'block';
-        // }
+        if (isEventAfter(event, now)) {
+          event.style.display = 'block';
+        }
         event.style.display = 'block';
       });
     });
