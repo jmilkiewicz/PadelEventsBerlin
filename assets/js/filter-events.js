@@ -17,7 +17,7 @@ function isEventAfter(event, date) {
 
   const dateAttribute = event.getAttribute("event-date")
   console.log("raw event: "+ event.getAttribute("id") + " has date attribute:" + dateAttribute)
-  if (dateAttribute) {
+  if (dateAttribute && !isNaN(Date.parse(dateAttribute))) {
 
     const dateEvent = Date.parse(dateAttribute)
 

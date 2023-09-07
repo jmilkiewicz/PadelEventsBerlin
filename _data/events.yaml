@@ -1,7 +1,7 @@
 - name: Pádel Lankwitz Fiesta Friday
   id: fiesta
   date: 2023-09-08
-  registration_till: 2023-09-07 20:00 +02
+  registration_till: 2023-09-07T20:00+02:00
   type: tournament
   location: pl
   description: >
@@ -16,7 +16,7 @@
     To participate, sign up via Playtomic (Padel Lankwitz/Activities). 📝
 #- name: Padel FC Americano
 #  date: 2023-08-18
-#  registration_till: 2023-08-16 09:00 +02
+#  registration_till: 2023-08-16T09:00+02:00
 #  type: tournament
 #  location: padelFC
 #  description: >
@@ -28,7 +28,7 @@
 #     To participate, sign up via Playtomic (Padel FC/Activities). 📝 🎫🏅
 #- name: King of the Hills
 #  date: 2023-08-11
-#  registration_till: 2023-08-11 15:55 +02
+#  registration_till: 2023-08-11T15:55+02:00
 #  type: tournament
 #  location: wap
 #  description: >
@@ -41,7 +41,7 @@
 - name: Americano Beginner 🔰
   date: 2023-09-29
   id: amerBeginnerWap
-  registration_till: 2023-09-28 22:00 +02
+  registration_till: 2023-09-28T22:00+02:00
   type: tournament
   location: wap
   description: >
@@ -54,7 +54,7 @@
 - name: Americano Intermediate 🎾
   date: 2023-09-15
   id: amerIntermediateWap
-  registration_till: 2023-09-14 22:00 +02
+  registration_till: 2023-09-14T22:00+02:00
   type: tournament
   location: wap
   description: >
@@ -64,7 +64,7 @@
 - name: Americano for Ladies ♀
   date: 2023-09-08
   id: amerLadiesWap
-  registration_till: 2023-07-21 22:00 +02
+  registration_till: 2023-07-21T22:00+02:00
   type: tournament
   location: wap
   description: >
@@ -74,7 +74,7 @@
 #- name: Mexicano Spiel Ladies
 #  id: mexicanoLadies
 #  date: 2023-08-19
-#  registration_till: 2023-08-19 9:55 +02
+#  registration_till: 2023-08-19T9:55+02:00
 #  type: tournament
 #  location: wap
 #  description: >
@@ -87,7 +87,7 @@
 - name: GPS 500 DAMEN / HERREN
   id: gps500wap
   date: 2023-09-23
-  registration_till: 2023-09-22 22:00 +02
+  registration_till: 2023-09-22T22:00+02:00
   type: tournament
   location: wap
   link: https://rankedin.com/en/tournament/30906/gps-500-damen-herren-wap-berlin-open
@@ -100,6 +100,7 @@
 - name: Padel Essentials Ladies 👭
   id: essentialsLadies
   date: 2023-09-28
+  registration_till: 2023-09-28T18:00+02:00
   type: course
   location: padelFC
   description: >
@@ -114,7 +115,7 @@
 - name: Padel Workshop by Manu Soler 🎾
   id: manuSeptember
   date: 2023-09-30
-  registration_till: 2023-09-30 09:00 +02
+  registration_till: 2023-09-30T09:00+02:00
   type: course
   location: wap
   description: >
@@ -128,7 +129,7 @@
 - name: Americano fixed teams 🎾
   date: 2023-09-13
   id: pfcamerTeams
-  registration_till: 2023-09-11 09:00 +02
+  registration_till: 2023-09-11T09:00+02:00
   type: tournament
   location: padelFC
   description: >
@@ -140,7 +141,7 @@
 #- name: Coaching with Pablo Franco Duran 🎾
 #  date: 2023-08-19
 #  id: pabloFrancoDuran
-#  registration_till: 2023-08-18 09:00 +02
+#  registration_till: 2023-08-18T09:00+02:00
 #  type: course
 #  location: padelFC
 #  description: >

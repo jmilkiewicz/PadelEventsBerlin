@@ -16,7 +16,7 @@
     To participate, sign up via Playtomic (Padel Lankwitz/Activities). 📝
 #- name: Padel FC Americano
 #  date: 2023-08-18
-#  registration_till: 2023-08-16 09:00 +02
+#  registration_till: 2023-08-16 09:00+02:00
 #  type: tournament
 #  location: padelFC
 #  description: >
@@ -28,7 +28,7 @@
 #     To participate, sign up via Playtomic (Padel FC/Activities). 📝 🎫🏅
 #- name: King of the Hills
 #  date: 2023-08-11
-#  registration_till: 2023-08-11 15:55 +02
+#  registration_till: 2023-08-11 15:55+02:00
 #  type: tournament
 #  location: wap
 #  description: >
@@ -74,7 +74,7 @@
 #- name: Mexicano Spiel Ladies
 #  id: mexicanoLadies
 #  date: 2023-08-19
-#  registration_till: 2023-08-19 9:55 +02
+#  registration_till: 2023-08-19 9:55+02:00
 #  type: tournament
 #  location: wap
 #  description: >
@@ -141,7 +141,7 @@
 #- name: Coaching with Pablo Franco Duran 🎾
 #  date: 2023-08-19
 #  id: pabloFrancoDuran
-#  registration_till: 2023-08-18 09:00 +02
+#  registration_till: 2023-08-18 09:00+02:00
 #  type: course
 #  location: padelFC
 #  description: >
