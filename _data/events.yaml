@@ -64,7 +64,7 @@
 - name: Americano for Ladies ♀
   date: 2023-09-08
   id: amerLadiesWap
-  registration_till: 2023-07-21T22:00+02:00
+  registration_till: 2023-09-03T22:00+02:00
   type: tournament
   location: wap
   description: >
