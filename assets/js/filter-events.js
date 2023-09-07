@@ -49,7 +49,6 @@ function hideByType(now) {
         if (isEventAfter(event, now)) {
           event.style.display = 'block';
         }
-        event.style.display = 'block';
       });
     });
   });
