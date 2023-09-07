@@ -92,6 +92,31 @@ body, ul, li {
     margin-right: 5px; /* Add some space between the icon and the text */
 }
 
+.german-description {
+    display: none;
+}
+
+.toggle-language {
+    background-color: #007bff; /* Button background color */
+    color: #fff; /* Text color */
+    border: none;
+    padding: 8px 12px; /* Adjust padding to your preference */
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer;
+    font-size: 14px; /* Font size */
+    margin-right: 5px; /* Add spacing between buttons */
+}
+
+/* Style the buttons on hover (optional) */
+.toggle-language:hover {
+    background-color: #0056b3; /* Change background color on hover */
+}
+
+/* Style the selected button differently */
+.toggle-language.active {
+    background-color: #28a745; /* Selected button background color */
+}
+
 
 /* Mobile-friendly styles */
 @media (max-width: 767px) {

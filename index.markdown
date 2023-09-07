@@ -3,10 +3,12 @@ title: Padel Events in Berlin
 layout: default
 ---
 <script src="{{ base.url | prepend: site.url }}/assets/js/filter-events.js"></script>
+<script src="{{ base.url | prepend: site.url }}/assets/js/change-description-lang.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function () {
     hideEventsBefore(Date.now());
     hideByType(Date.now());
+    addChangeLanguage();
 });
 </script>
 
@@ -35,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function () {
         {% include eventLocation.html id=event.location %}
     </div>
     {% include eventLink.html link=event.link %}
-    <p class="event-description">{{ event.description }}</p>
+    {% include eventDescription.html description=event.description %} 
  </li>   
 {% endfor %}
 </ul>

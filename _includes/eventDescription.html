@@ -1,0 +1,36 @@
+<!--<p class="event-description">-->
+<!--    {% if include.description.en %}-->
+<!--    <span class="english-description">-->
+<!--             {% if include.description.de %}-->
+<!--                <a href="#" class="toggle-language" data-language="german">DE</a>-->
+<!--             {% endif %}-->
+<!--            {{ include.description.en }}-->
+<!--        </span>-->
+<!--    {% endif %}-->
+
+<!--    {% if include.description.de %}-->
+<!--    <span class="german-description" style="display: none;">-->
+<!--        {% if include.description.en %}-->
+<!--            <a href="#" class="toggle-language" data-language="english">EN</a>-->
+<!--        {% endif %}-->
+<!--         {{ include.description.de }}-->
+<!--        </span>-->
+<!--    {% endif %}-->
+<!--</p>-->
+
+{% if include.description.en and include.description.de %}
+<div class="language-toggle">
+          <button class="toggle-language" data-lang="en">EN</button>
+          <button class="toggle-language" data-lang="de">DE</button>
+</div>
+{% endif %}
+{% if include.description.en %}
+<div class="event-description english-description" data-lang="en">
+     {{ include.description.en }}
+</div>
+{% endif %}
+{% if include.description.de %}
+<div class="event-description german-description" data-lang="de">
+     {{ include.description.de }}
+</div>
+{% endif %}
