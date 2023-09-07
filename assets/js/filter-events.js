@@ -13,17 +13,10 @@ function hideEventsBefore(beforeDate) {
 }
 
 function isEventAfter(event, date) {
-  console.log("now is "+ date)
-
   const dateAttribute = event.getAttribute("event-date")
-  console.log("raw event: "+ event.getAttribute("id") + " has date attribute:" + dateAttribute)
   if (dateAttribute && !isNaN(Date.parse(dateAttribute))) {
-
     const dateEvent = Date.parse(dateAttribute)
-
-    const result = dateEvent > date
-    console.log("event: "+ event.getAttribute("id") + " has time " + dateEvent +" and shall be shown " + result)
-    return result
+    return dateEvent > date
   }
   return true;
 }
