@@ -1,0 +1,153 @@
+- name: Pádel Lankwitz Fiesta Friday
+  id: fiesta
+  date: 2023-09-08
+  registration_till: 2023-09-07 20:00 +02
+  type: tournament
+  location: pl
+  description: >
+    Americano tournament with prizes for: <br/>
+    - beginners (📊 level 0-2.5): 18:00-20:00 ⏰,<br/>
+    - intermediate (📊 level 2.2-3.7): 20:00-22:00 ⏰<br/><br/>
+    Don't miss this chance to compete! 💪<br/>
+    🏆 1.Platz: 15€ Wallet Guthaben + 10€ Tennis-Point Gutschein<br/>
+    🥈 2.Platz: 1 Dose Padelbälle + 10€ Tennis-Point Gutschein<br/>
+    🥉 3.Platz: 10€ Tennis-Point Gutschein<br/><br/>
+
+    To participate, sign up via Playtomic (Padel Lankwitz/Activities). 📝
+#- name: Padel FC Americano
+#  date: 2023-08-18
+#  registration_till: 2023-08-16 09:00 +02
+#  type: tournament
+#  location: padelFC
+#  description: >
+#    Americano Padel Tournament for all skill levels:<br/>
+#      - level 1.5 - 2.5 : 17:00-19:30 ⏰<br/>
+#      - level 2.5+ : 19:30-22:00 ⏰<br/><br/>
+#
+#     16 participants in each level! Don't miss your chance to shine on the padel court!<br/>
+#     To participate, sign up via Playtomic (Padel FC/Activities). 📝 🎫🏅
+#- name: King of the Hills
+#  date: 2023-08-11
+#  registration_till: 2023-08-11 15:55 +02
+#  type: tournament
+#  location: wap
+#  description: >
+#    <i>King of the hill format </i> tournament for intermediates: 19:00-21:00 ⏰<br/><br/>
+#
+#    Don't miss your chance to become the Padel King of the Hill and showcase your skills on the court.<br/>
+#    Grab your racket and get ready to battle it out!🛡️🗡<br/><br/>
+#
+#    Seems like event is booked out. <br/> Contact Julian from WAP (+49 176 68266671)📱 for potential wait list.
+- name: Americano Beginner 🔰
+  date: 2023-09-29
+  id: amerBeginnerWap
+  registration_till: 2023-09-28 22:00 +02
+  type: tournament
+  location: wap
+  description: >
+    Americano tournament for beginners on Friday: 19:00-21:00<br/><br/>
+
+    Beginners, take the leap into padel at the Americano Tournament! 🏆<br/>
+    Discover the excitement of the sport and kick-start your padel journey. 🌟<br/><br/>
+
+    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
+- name: Americano Intermediate 🎾
+  date: 2023-09-15
+  id: amerIntermediateWap
+  registration_till: 2023-09-14 22:00 +02
+  type: tournament
+  location: wap
+  description: >
+    Americano tournament for intermediate on Friday: 19:00-21:00<br/><br/>  
+
+    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
+- name: Americano for Ladies ♀
+  date: 2023-09-08
+  id: amerLadiesWap
+  registration_till: 2023-09-06 22:00 +02
+  type: tournament
+  location: wap
+  description: >
+    Americano tournament for ladies on Friday: 19:00-21:00<br/>
+    What could be better than playing padel on a Friday evening? 🎾🌟<br/><br/> 
+    To reserve your spot, contact Julian from WAP at (+49 176 68266671)
+#- name: Mexicano Spiel Ladies
+#  id: mexicanoLadies
+#  date: 2023-08-19
+#  registration_till: 2023-08-19 9:55 +02
+#  type: tournament
+#  location: wap
+#  description: >
+#    <a href="https://americano-padel.com/mexicano-americano/en">Mexicano</a> tournament for ladies: 11:00-13:00<br/><br/>
+#
+#    Embrace the dynamic gameplay, where you'll have the chance to play both with and against various opponents, all based on the current top list.<br/>
+#    As we aim to crown the best among us, every match promises to be a test of skill and strategy.🤺<br/><br/>
+#
+#    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
+- name: GPS 500 DAMEN / HERREN
+  id: gps500wap
+  date: 2023-09-23
+  registration_till: 2023-09-22 22:00 +02
+  type: tournament
+  location: wap
+  link: https://rankedin.com/en/tournament/30906/gps-500-damen-herren-wap-berlin-open
+  description: >
+    Get your paddles ready because of GPS Padel Tournament (German Padel Series) September edition in Berlin! 🏆🎉 <br/>
+    This time GPS Padel Tournament has been extended to two days to provide players with essential rest between matches 🛏️<br/><br/>
+    🚀 Want to be part of this epic event? Signups from 4th of September !<br/> 
+    Remember, only licensed players are eligible, so make sure you've got your license in hand! 📋🎫
+#  link: https://rankedin.com/de/content/poster/28615?eventtype=4
+- name: Padel Essentials Ladies 👭
+  id: essentialsLadies
+  date: 2023-09-28
+  type: course
+  location: padelFC
+  description: >
+    Join us for an empowering Padel Essentials 🎯 training exclusively for women👭 at Padel FC, open to all skill levels! 🎾💪<br/><br/>
+    Experience 4.5 hours of padel coaching and 1 hour of gameplay, set in a fun and supportive environment during our evening sessions, all provided by Manu Soler🇪🇸.
+    <br/><br/>
+    Uncover training details, see what you'll learn – check out the event page now!<br/>
+    Treat yourself to an amazing training opportunity exclusively for women and elevate your padel game to new heights!🎾🚀
+    <br/><br/>
+    🚺 Ladies, the last spot available!
+  link: https://www.manupadel.com/signups/ladies.html
+- name: Padel Workshop by Manu Soler 🎾
+  id: manuSeptember
+  date: 2023-09-30
+  registration_till: 2023-09-30 09:00 +02
+  type: course
+  location: wap
+  description: >
+    Manu Soler🇪🇸 is back in Berlin with power-packed training programs, designed for players ranging from beginner+ to advanced levels: <br/>
+    - Padel Essentials 🎯<br/>
+    - Padel Defence ⚔️<br/><br/>
+    🌐 Explore the event page to unveil the skills, experiences, and enhancements you'll gain.<br/>
+    It is time to elevate your game!🔥💪 <br/>
+    ⚠️ Hurry, the last spot left! ⚠️
+  link: https://www.manupadel.com/signups/
+- name: Americano fixed teams 🎾
+  date: 2023-09-13
+  id: pfcamerTeams
+  registration_till: 2023-09-11 09:00 +02
+  type: tournament
+  location: padelFC
+  description: >
+    For the first time Americano for pairs, not for individuals! <br/>
+    - avg team level < 2.5 : 16:00-19:00 ⏰<br/>
+    - avg team level > 2.5 : 19:00-22:00 ⏰<br/><br/>
+    
+    To participate, sign up via Playtomic (Padel FC/Activities). 📝
+#- name: Coaching with Pablo Franco Duran 🎾
+#  date: 2023-08-19
+#  id: pabloFrancoDuran
+#  registration_till: 2023-08-18 09:00 +02
+#  type: course
+#  location: padelFC
+#  description: >
+#    With Pablo Franco Duran we welcome a young but very experienced professional coach who will take your game to the next level.<br/><br/>
+#    When: August 19th and 20th<br/>
+#    What: 2 hours of daily training in groups of 4 players <br/>
+#    Sunday Bonus: 1-hour supervised match + BBQ 🥩🍺 <br/>
+#    Extras: Welcome gift by adidas & a chance to win an adidas Padel racket.<br/><br/>
+#
+#    Last 2 spots. To participate, sign up via Playtomic (Padel FC/Activities). 📝
