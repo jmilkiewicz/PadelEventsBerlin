@@ -16,6 +16,7 @@ function isEventAfter(event, date) {
   console.log("now is "+ date)
 
   const dateAttribute = event.getAttribute("event-date")
+  console.log("raw event: "+ event.getAttribute("id") + " has date attribute:" + dateAttribute)
   if (dateAttribute) {
 
     const dateEvent = Date.parse(dateAttribute)
