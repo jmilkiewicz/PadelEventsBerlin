@@ -1,7 +1,7 @@
 - name: Pádel Lankwitz Fiesta Friday
   id: fiesta
-  date: 2023-09-08
-  registration_till: 2023-09-07T20:00+02:00
+  date: 2023-09-15
+  registration_till: 2023-09-14T20:00+02:00
   type: tournament
   location: pl
   description:
@@ -9,19 +9,13 @@
       Americano tournament with prizes for: <br/>
       - beginners (📊 level 0-2.5): 18:00-20:00 ⏰,<br/>
       - intermediate (📊 level 2.2-3.7): 20:00-22:00 ⏰<br/><br/>
-      Don't miss this chance to compete! 💪<br/>
-      🏆 1.Platz: 15€ Wallet Guthaben + 10€ Tennis-Point Gutschein<br/>
-      🥈 2.Platz: 1 Dose Padelbälle + 10€ Tennis-Point Gutschein<br/>
-      🥉 3.Platz: 10€ Tennis-Point Gutschein<br/><br/>
+      Don't miss this chance to compete! 💪<br/><br/>    
       To participate, sign up via Playtomic (Padel Lankwitz/Activities). 📝
     de: >
       Americano Turnier mit Preisen für:<br /> 
       - Anfänger (📊 Level 0-2,5): 18:00-20:00 ⏰,<br /> 
       - Fortgeschrittene (📊 Level 2,2-3,7): 20:00-22:00 ⏰<br /><br />
-      Verpassen Sie nicht diese Chance zu konkurrieren! 💪<br />
-      🏆 1. Platz: €15 Wallet-Guthaben + €10 Tennis-Point Gutschein<br />
-      🥈 2. Platz: 1 Dose Padelbälle + €10 Tennis-Point Gutschein<br />
-      🥉 3. Platz: €10 Tennis-Point Gutschein<br /><br />
+      Verpassen Sie nicht diese Chance zu konkurrieren! 💪<br /><br/>      
       Zur Teilnahme melden Sie sich über Playtomic (Padel Lankwitz/Activities) an. 📝
 #- name: Padel FC Americano
 #  date: 2023-08-18
