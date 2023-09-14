@@ -17,18 +17,19 @@
       - Fortgeschrittene (📊 Level 2,2-3,7): 20:00-22:00 ⏰<br /><br />
       Verpassen Sie nicht diese Chance zu konkurrieren! 💪<br /><br/>      
       Zur Teilnahme melden Sie sich über Playtomic (Padel Lankwitz/Activities) an. 📝
-#- name: Padel FC Americano
-#  date: 2023-08-18
-#  registration_till: 2023-08-16T09:00+02:00
-#  type: tournament
-#  location: padelFC
-#  description: >
-#    Americano Padel Tournament for all skill levels:<br/>
-#      - level 1.5 - 2.5 : 17:00-19:30 ⏰<br/>
-#      - level 2.5+ : 19:30-22:00 ⏰<br/><br/>
-#
-#     16 participants in each level! Don't miss your chance to shine on the padel court!<br/>
-#     To participate, sign up via Playtomic (Padel FC/Activities). 📝 🎫🏅
+- name: Berlin Open
+  id: berOpen
+  date: 2023-10-03
+  registration_till: 2023-09-28T09:00+02:00
+  type: tournament
+  location: padelFC
+  description:
+    en: >
+      Celebrate German Unity Day with a tournament that includes music and a BBQ, welcoming participants of all skill levels and open to all Padel enthusiasts:<br/>
+      - Beginner 📊 0 - 2<br/>
+      - Intermediate 📊 2 - 3.5<br/>
+      - Advanced 📊 3.5 - 7<br/><br/>
+      To join the event, please register through Playtomic (under Padel FC/Activities). 📝
 #- name: King of the Hills
 #  date: 2023-08-11
 #  registration_till: 2023-08-11T15:55+02:00
