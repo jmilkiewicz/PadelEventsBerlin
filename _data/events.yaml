@@ -1,7 +1,7 @@
 - name: Pádel Lankwitz Fiesta Friday
   id: fiesta
-  date: 2023-09-15
-  registration_till: 2023-09-14T20:00+02:00
+  date: 2023-09-22
+  registration_till: 2023-09-21T20:00+02:00
   type: tournament
   location: pl
   description:
