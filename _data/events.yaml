@@ -1,21 +1,44 @@
-- name: Pádel Lankwitz Fiesta Friday
-  id: fiesta
-  date: 2023-09-29
-  registration_till: 2023-09-28T20:00+02:00
+#- name: Pádel Lankwitz Fiesta Friday
+#  id: fiesta
+#  date: 2023-09-29
+#  registration_till: 2023-09-28T20:00+02:00
+#  type: tournament
+#  location: pl
+#  description:
+#    en: >
+#      Americano tournament with prizes for: <br/>
+#      - beginners (📊 level 0-2.2): 18:00-20:00 ⏰,<br/>
+#      - intermediate (📊 level 1.7-3.7): 20:00-22:00 ⏰<br/><br/>
+#      Don't miss this chance to compete! 💪<br/><br/>
+#      To participate, sign up via Playtomic (Padel Lankwitz/Activities). 📝
+#    de: >
+#      Americano Turnier mit Preisen für:<br />
+#      - Anfänger (📊 Level 0-2.2): 18:00-20:00 ⏰,<br />
+#      - Fortgeschrittene (📊 Level 1.7-3.7): 20:00-22:00 ⏰<br /><br />
+#      Verpassen Sie nicht diese Chance zu konkurrieren! 💪<br /><br/>
+#      Zur Teilnahme melden Sie sich über Playtomic (Padel Lankwitz/Activities) an. 📝
+- name: Pádel Lankwitz Mexicano
+  id: plMex
+  date: 2023-10-06
+  registration_till: 2023-10-05T20:00+02:00
   type: tournament
   location: pl
   description:
     en: >
-      Americano tournament with prizes for: <br/>
-      - beginners (📊 level 0-2.2): 18:00-20:00 ⏰,<br/>
-      - intermediate (📊 level 1.7-3.7): 20:00-22:00 ⏰<br/><br/>
-      Don't miss this chance to compete! 💪<br/><br/>    
+      Mexicano tournament with prizes for: <br/>
+      - beginners (📊 level 0-2.5): 18:00-20:00 ⏰,<br/>
+      - intermediate (📊 level 1.5-3.5): 20:00-22:00 ⏰<br/><br/>
+      Take your best friend, better half or your favorite partner and sign up.
+      You will have a fixed partner and will get new opponents or a break every 15 minutes.
+      Hurry up fill the seats and let's have fun together. 💪<br/><br/>    
       To participate, sign up via Playtomic (Padel Lankwitz/Activities). 📝
     de: >
       Americano Turnier mit Preisen für:<br /> 
-      - Anfänger (📊 Level 0-2.2): 18:00-20:00 ⏰,<br /> 
-      - Fortgeschrittene (📊 Level 1.7-3.7): 20:00-22:00 ⏰<br /><br />
-      Verpassen Sie nicht diese Chance zu konkurrieren! 💪<br /><br/>      
+      - Anfänger (📊 Level 0-2.5): 18:00-20:00 ⏰,<br /> 
+      - Fortgeschrittene (📊 Level 1.5-3.5): 20:00-22:00 ⏰<br /><br/>
+      Nimmt euren besten Freund, die bessere Hälfte oder euren Lieblingspartner und tragt euch ein.
+      Ihr habt einen festen Partner und kriegt alle 15 Minuten neue Gegner oder eine Pause.
+      Beeilt euch füllt die Plätze und lasst uns gemeinsam Spaß haben. 💪<br /><br/>      
       Zur Teilnahme melden Sie sich über Playtomic (Padel Lankwitz/Activities) an. 📝
 - name: Berlin Open
   id: berOpen
