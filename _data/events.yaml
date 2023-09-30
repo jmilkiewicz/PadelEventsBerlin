@@ -189,6 +189,18 @@
       - durchschnittliches Teamniveau < 2,5: 16:00–19:00 Uhr ⏰<br/>
       - durchschnittliches Teamniveau > 2,5: 19:00–22:00 Uhr ⏰<br/><br/>
       Um teilzunehmen, melden Sie sich über Playtomic (Padel FC/Aktivitäten) an. 📝
+- name: Americano in Padel FC 🎾
+  date: 2023-10-25
+  id: pfcamer
+  registration_till: 2023-10-18T09:00+02:00
+  type: tournament
+  location: padelFC
+  description:
+    en: >
+      October Americano in Padel FC<br/>
+      - level 📊 2.5 - 7 : 19:30-22:00 ⏰<br/>
+      - level 📊 > 2.5 : 17:00-19:30 ⏰<br/><br/>
+      To participate, sign up via Playtomic (Padel FC/Activities). 📝
 #- name: Coaching with Pablo Franco Duran 🎾
 #  date: 2023-08-19
 #  id: pabloFrancoDuran
