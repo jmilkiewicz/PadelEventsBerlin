@@ -154,24 +154,18 @@
 #    As we aim to crown the best among us, every match promises to be a test of skill and strategy.🤺<br/><br/>
 #
 #    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
-- name: GPS 500 DAMEN / HERREN
-  id: gps500wap
-  date: 2023-09-23
-  registration_till: 2023-09-22T22:00+02:00
+- name: GPS 1200 DAMEN / HERREN
+  id: gps1200wap
+  date: 2023-10-28
+  registration_till: 2023-10-28T22:00+02:00
   type: tournament
   location: wap
-  link: https://rankedin.com/en/tournament/30906/gps-500-damen-herren-wap-berlin-open
+  link: https://rankedin.com/en/tournament/25454/cupra-german-masters-gps-1200-wap-berlin-damen-herren
   description:
     en: >
-      Get your paddles ready because of GPS Padel Tournament (German Padel Series) September edition in Berlin! 🏆🎉 <br/>
-      This time GPS Padel Tournament has been extended to two days to provide players with essential rest between matches 🛏️<br/><br/>
-      🚀 Want to be part of this epic event? Signups from 4th of September !<br/> 
+      Get your paddles ready because of CUPRA German Masters GPS 1200 in Berlin WAP 🏆🎉 <br/>
+      Total prize money: 5000 💰<br/><br/>       
       Remember, only licensed players are eligible, so make sure you've got your license in hand! 📋🎫
-    de: >
-      Bereiten Sie Ihre Paddel für das GPS Padel Tournament (Deutsche Padel-Serie) im September in Berlin vor! 🏆🎉<br/>
-      Dieses Mal wurde das GPS Padel-Turnier auf zwei Tage verlängert, um den Spielern zwischen den Spielen die nötige Ruhe zu bieten 🛏️<br/><br/>
-      🚀 Möchten Sie Teil dieses epischen Events sein? Anmeldungen ab 4. September!<br/> 
-      Denken Sie daran, dass nur lizenzierte Spieler teilnahmeberechtigt sind. Stellen Sie also sicher, dass Sie Ihre Lizenz zur Hand haben! 📋🎫
 - name: Padel Essentials Ladies 👭
   id: essentialsLadies
   date: 2023-09-28
