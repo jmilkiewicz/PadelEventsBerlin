@@ -17,7 +17,7 @@
       <br/><br/>
       Lass es uns zusammen realisieren! Ich stehe dir zur Seite, um deine Veranstaltung zu bewerben. 🚀<br/>
       Klicke auf den Link für die Veranstaltungsdetails ☝️, fülle das Formular aus, und voilà!
-- name: Pádel Lankwitz "End of Season" Americano
+- name: Pádel Lankwitz Americano
   id: plEnd
   date: 2023-10-13
   registration_till: 2023-10-12T20:00+02:00
@@ -33,42 +33,6 @@
       
       Verpassen Sie nicht diese Chance zu konkurrieren! 💪<br/>
       Zur Teilnahme melden Sie sich über Playtomic (Padel Lankwitz/Activities) an. 📝
-- name: Pádel Lankwitz Mexicano
-  id: plMex
-  date: 2023-10-06
-  registration_till: 2023-10-05T20:00+02:00
-  type: tournament
-  location: pl
-  description:
-    en: >
-      Mexicano tournament with prizes for: <br/>
-      - beginners (📊 level 0-2.5): 18:00-20:00 ⏰,<br/>
-      - intermediate (📊 level 1.5-3.5): 20:00-22:00 ⏰<br/><br/>
-      Take your best friend, better half or your favorite partner and sign up.
-      You will have a fixed partner and will get new opponents or a break every 15 minutes.
-      Hurry up fill the seats and let's have fun together. 💪<br/><br/>    
-      To participate, sign up via Playtomic (Padel Lankwitz/Activities). 📝
-    de: >
-      Americano Turnier mit Preisen für:<br /> 
-      - Anfänger (📊 Level 0-2.5): 18:00-20:00 ⏰,<br /> 
-      - Fortgeschrittene (📊 Level 1.5-3.5): 20:00-22:00 ⏰<br /><br/>
-      Nimmt euren besten Freund, die bessere Hälfte oder euren Lieblingspartner und tragt euch ein.
-      Ihr habt einen festen Partner und kriegt alle 15 Minuten neue Gegner oder eine Pause.
-      Beeilt euch füllt die Plätze und lasst uns gemeinsam Spaß haben. 💪<br /><br/>      
-      Zur Teilnahme melden Sie sich über Playtomic (Padel Lankwitz/Activities) an. 📝
-- name: Berlin Open
-  id: berOpen
-  date: 2023-10-03
-  registration_till: 2023-09-28T09:00+02:00
-  type: tournament
-  location: padelFC
-  description:
-    en: >
-      Celebrate German Unity Day with a tournament that includes music and a BBQ, welcoming participants of all skill levels and open to all Padel enthusiasts:<br/>
-      - Beginner 📊 0 - 2<br/>
-      - Intermediate 📊 2 - 3.5<br/>
-      - Advanced 📊 3.5 - 7<br/><br/>
-      To join the event, please register through Playtomic (under Padel FC/Activities). 📝
 #- name: King of the Hills
 #  date: 2023-08-11
 #  registration_till: 2023-08-11T15:55+02:00
@@ -115,36 +79,36 @@
     de: >
       Americano-Turnier für Fortgeschrittene am Freitag: 19:00–21:00 Uhr<br/><br/>
       Um Ihren Platz zu reservieren, kontaktieren Sie Julian von WAP (+49 176 68266671)📱
-- name: Golden Court Intermediate 🎾
-  date: 2023-10-08
-  id: goldIntermediate
-  registration_till: 2023-10-07T22:00+02:00
-  type: tournament
-  location: wap
-  description:
-    en: >
-      Golden court tournament with prize for intermediate on Sunday: 11:00-13:00<br/><br/>  
-      To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
-    de: >
-      Golden-Court-Turnier für Fortgeschrittene am Samstag: 11:00–13:00 Uhr<br/><br/>
-      Es ist ein Turniermodus mit Auf- und Abstieg. Man meldet sich im 2er Team an.
-      Platz 1 ist der Golden Court und das höchste Level, was man erreichen kann, wo alle Teams hinmöchten. Durch Losverfahren bekommt man seinen Platz zugewiesen. Das Team, was am meisten Siege auf dem Golden Court D1 macht, gewinnt das Turnier. Spielzeit ca. 10-11min und danach steigen die Sieger auf und die Verlierer steigen einen Court ab. Einen kleinen Preis gibt es am Ende auch!<br/><br/>
-      Um Ihren Platz zu reservieren, kontaktieren Sie Julian von WAP (+49 176 68266671)📱
-- name: Golden Court Mixed Teams (🧔‍/👩)
-  date: 2023-10-21
-  id: goldMixed
-  registration_till: 2023-10-20T22:00+02:00
-  type: tournament
-  location: wap
-  description:
-    en: >
-      Golden court tournament with prize for mixed teams (♂️ and ♀️) on Saturday: 11:00-13:00<br/><br/>  
-      To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
-    de: >
-      Golden-Court-Turnier für Fortgeschrittene am Samstag: 11:00–13:00 Uhr<br/><br/>
-      Es ist ein Turniermodus mit Auf- und Abstieg. Man meldet sich im 2er Team an.
-      Platz 1 ist der Golden Court und das höchste Level, was man erreichen kann, wo alle Teams hinmöchten. Durch Losverfahren bekommt man seinen Platz zugewiesen. Das Team, was am meisten Siege auf dem Golden Court D1 macht, gewinnt das Turnier. Spielzeit ca. 10-11min und danach steigen die Sieger auf und die Verlierer steigen einen Court ab. Einen kleinen Preis gibt es am Ende auch!<br/><br/>
-      Um Ihren Platz zu reservieren, kontaktieren Sie Julian von WAP (+49 176 68266671)📱
+#- name: Golden Court Intermediate 🎾
+#  date: 2023-10-08
+#  id: goldIntermediate
+#  registration_till: 2023-10-07T22:00+02:00
+#  type: tournament
+#  location: wap
+#  description:
+#    en: >
+#      Golden court tournament with prize for intermediate on Sunday: 11:00-13:00<br/><br/>
+#      To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
+#    de: >
+#      Golden-Court-Turnier für Fortgeschrittene am Samstag: 11:00–13:00 Uhr<br/><br/>
+#      Es ist ein Turniermodus mit Auf- und Abstieg. Man meldet sich im 2er Team an.
+#      Platz 1 ist der Golden Court und das höchste Level, was man erreichen kann, wo alle Teams hinmöchten. Durch Losverfahren bekommt man seinen Platz zugewiesen. Das Team, was am meisten Siege auf dem Golden Court D1 macht, gewinnt das Turnier. Spielzeit ca. 10-11min und danach steigen die Sieger auf und die Verlierer steigen einen Court ab. Einen kleinen Preis gibt es am Ende auch!<br/><br/>
+#      Um Ihren Platz zu reservieren, kontaktieren Sie Julian von WAP (+49 176 68266671)📱
+#- name: Golden Court Mixed Teams (🧔‍/👩)
+#  date: 2023-10-21
+#  id: goldMixed
+#  registration_till: 2023-10-20T22:00+02:00
+#  type: tournament
+#  location: wap
+#  description:
+#    en: >
+#      Golden court tournament with prize for mixed teams (♂️ and ♀️) on Saturday: 11:00-13:00<br/><br/>
+#      To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
+#    de: >
+#      Golden-Court-Turnier für Fortgeschrittene am Samstag: 11:00–13:00 Uhr<br/><br/>
+#      Es ist ein Turniermodus mit Auf- und Abstieg. Man meldet sich im 2er Team an.
+#      Platz 1 ist der Golden Court und das höchste Level, was man erreichen kann, wo alle Teams hinmöchten. Durch Losverfahren bekommt man seinen Platz zugewiesen. Das Team, was am meisten Siege auf dem Golden Court D1 macht, gewinnt das Turnier. Spielzeit ca. 10-11min und danach steigen die Sieger auf und die Verlierer steigen einen Court ab. Einen kleinen Preis gibt es am Ende auch!<br/><br/>
+#      Um Ihren Platz zu reservieren, kontaktieren Sie Julian von WAP (+49 176 68266671)📱
 
 - name: Americano for Ladies ♀
   date: 2023-09-08
@@ -183,37 +147,37 @@
       💰Total prize pool: 5000 €<br/>
       See event details for more information.<br/>
       ⚠️ Remember, only licensed players are eligible, so make sure you've got your license in hand! 📋🎫<br/>
-- name: Padel Essentials Ladies 👭
-  id: essentialsLadies
-  date: 2023-09-28
-  registration_till: 2023-09-28T18:00+02:00
-  type: course
-  location: padelFC
-  description:
-    en: >
-      Join us for an empowering Padel Essentials 🎯 training exclusively for women👭 at Padel FC, open to all skill levels! 🎾💪<br/><br/>
-      Experience 4.5 hours of padel coaching and 1 hour of gameplay, set in a fun and supportive environment during our evening sessions, all provided by Manu Soler🇪🇸.
-      <br/><br/>
-      Uncover training details, see what you'll learn – check out the event page now!<br/>
-      Treat yourself to an amazing training opportunity exclusively for women and elevate your padel game to new heights!🎾🚀
-      <br/><br/>
-      🚺 Ladies, the last spot available!
-  link: https://www.manupadel.com/signups/ladies.html
-- name: Padel Workshop by Manu Soler 🎾
-  id: manuSeptember
-  date: 2023-09-30
-  registration_till: 2023-09-30T09:00+02:00
-  type: course
-  location: wap
-  description:
-    en: >
-      Manu Soler🇪🇸 is back in Berlin with power-packed training programs, designed for players ranging from beginner+ to advanced levels: <br/>
-      - Padel Essentials 🎯<br/>
-      - Padel Defence ⚔️<br/><br/>
-      🌐 Explore the event page to unveil the skills, experiences, and enhancements you'll gain.<br/>
-      It is time to elevate your game!🔥💪 <br/>
-      ⚠️ Hurry, the last spot left! ⚠️
-  link: https://www.manupadel.com/signups/
+#- name: Padel Essentials Ladies 👭
+#  id: essentialsLadies
+#  date: 2023-09-28
+#  registration_till: 2023-09-28T18:00+02:00
+#  type: course
+#  location: padelFC
+#  description:
+#    en: >
+#      Join us for an empowering Padel Essentials 🎯 training exclusively for women👭 at Padel FC, open to all skill levels! 🎾💪<br/><br/>
+#      Experience 4.5 hours of padel coaching and 1 hour of gameplay, set in a fun and supportive environment during our evening sessions, all provided by Manu Soler🇪🇸.
+#      <br/><br/>
+#      Uncover training details, see what you'll learn – check out the event page now!<br/>
+#      Treat yourself to an amazing training opportunity exclusively for women and elevate your padel game to new heights!🎾🚀
+#      <br/><br/>
+#      🚺 Ladies, the last spot available!
+#  link: https://www.manupadel.com/signups/ladies.html
+#- name: Padel Workshop by Manu Soler 🎾
+#  id: manuSeptember
+#  date: 2023-09-30
+#  registration_till: 2023-09-30T09:00+02:00
+#  type: course
+#  location: wap
+#  description:
+#    en: >
+#      Manu Soler🇪🇸 is back in Berlin with power-packed training programs, designed for players ranging from beginner+ to advanced levels: <br/>
+#      - Padel Essentials 🎯<br/>
+#      - Padel Defence ⚔️<br/><br/>
+#      🌐 Explore the event page to unveil the skills, experiences, and enhancements you'll gain.<br/>
+#      It is time to elevate your game!🔥💪 <br/>
+#      ⚠️ Hurry, the last spot left! ⚠️
+#  link: https://www.manupadel.com/signups/
 - name: Americano fixed teams 🎾
   date: 2023-09-13
   id: pfcamerTeams
