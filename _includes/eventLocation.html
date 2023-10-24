@@ -18,4 +18,9 @@
         {% assign locationName = "PadelBerlin" %}
         {% assign locationLink = "http://www.padelberlin.de/" %}
     {% endif %}
+    {% if include.id == "other" %}
+        {% assign locationName = "Your place" %}
+        {% assign locationLink = "/about.html" %}
+    {% endif %}
+
     <a href="{{locationLink}}" target="_blank" class="event-location">📍 {{locationName}}</a>

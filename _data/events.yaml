@@ -1,3 +1,22 @@
+- name: Your Padel event 🫵
+  id: yourOwnEvent
+  date: 2023-10-01
+  type: other
+  location: other
+  link: /addEvent.html
+  description:
+    en: >
+      Whether it's a tournament 🏆, equipment test-out 🧪, or a casual get-together 👥 (like watching WPT), 
+      if you want to organize your own padel event and welcome fellow enthusiasts, we've got your back 😌<br/><br/> 
+      
+      Let's make it happen together! I'm here to help you promote your event.🚀 <br/>
+      Click the event details link ☝️, fill out the form, and voilà
+    de: >
+      Ob es sich um ein Turnier 🏆, eine Ausrüstungstestveranstaltung 🧪 oder einfach ein zwangloses Treffen 👥 (zum Anschauen der WPT)
+      handelt, wenn du dein eigenes Padel-Event organisieren möchtest und andere Padel-Begeisterte willkommen heißen möchtest, sind wir für dich da 😌. 
+      <br/><br/>
+      Lass es uns zusammen realisieren! Ich stehe dir zur Seite, um deine Veranstaltung zu bewerben. 🚀<br/>
+      Klicke auf den Link für die Veranstaltungsdetails ☝️, fülle das Formular aus, und voilà!
 - name: Pádel Lankwitz "End of Season" Americano
   id: plEnd
   date: 2023-10-13
