@@ -94,32 +94,32 @@
 #      Es ist ein Turniermodus mit Auf- und Abstieg. Man meldet sich im 2er Team an.
 #      Platz 1 ist der Golden Court und das höchste Level, was man erreichen kann, wo alle Teams hinmöchten. Durch Losverfahren bekommt man seinen Platz zugewiesen. Das Team, was am meisten Siege auf dem Golden Court D1 macht, gewinnt das Turnier. Spielzeit ca. 10-11min und danach steigen die Sieger auf und die Verlierer steigen einen Court ab. Einen kleinen Preis gibt es am Ende auch!<br/><br/>
 #      Um Ihren Platz zu reservieren, kontaktieren Sie Julian von WAP (+49 176 68266671)📱
-#- name: Golden Court Mixed Teams (🧔‍/👩)
-#  date: 2023-10-21
-#  id: goldMixed
-#  registration_till: 2023-10-20T22:00+02:00
-#  type: tournament
-#  location: wap
-#  description:
-#    en: >
-#      Golden court tournament with prize for mixed teams (♂️ and ♀️) on Saturday: 11:00-13:00<br/><br/>
-#      To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
-#    de: >
-#      Golden-Court-Turnier für Fortgeschrittene am Samstag: 11:00–13:00 Uhr<br/><br/>
-#      Es ist ein Turniermodus mit Auf- und Abstieg. Man meldet sich im 2er Team an.
-#      Platz 1 ist der Golden Court und das höchste Level, was man erreichen kann, wo alle Teams hinmöchten. Durch Losverfahren bekommt man seinen Platz zugewiesen. Das Team, was am meisten Siege auf dem Golden Court D1 macht, gewinnt das Turnier. Spielzeit ca. 10-11min und danach steigen die Sieger auf und die Verlierer steigen einen Court ab. Einen kleinen Preis gibt es am Ende auch!<br/><br/>
-#      Um Ihren Platz zu reservieren, kontaktieren Sie Julian von WAP (+49 176 68266671)📱
-
-- name: Americano for Ladies ♀
-  date: 2023-09-08
-  id: amerLadiesWap
-  registration_till: 2023-09-06T18:00+02:00
+- name: Golden Court Mixed Teams (🧔‍/👩)
+  date: 2023-11-12
+  id: goldMixed
+  registration_till: 2023-11-10T22:00+02:00
   type: tournament
   location: wap
   description:
     en: >
-      Americano tournament for ladies on Friday: 19:00-21:00<br/>
-      What could be better than playing padel on a Friday evening? 🎾🌟<br/><br/> 
+      Golden court tournament with prize for mixed teams (♂️ and ♀️) on Sunday: 17:00-19:00<br/><br/>
+      To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
+    de: >
+      Golden-Court-Turnier für Fortgeschrittene am Sonntag: 17:00–19:00 Uhr<br/><br/>
+      Es ist ein Turniermodus mit Auf- und Abstieg. Man meldet sich im 2er Team an.
+      Platz 1 ist der Golden Court und das höchste Level, was man erreichen kann, wo alle Teams hinmöchten. Durch Losverfahren bekommt man seinen Platz zugewiesen. Das Team, was am meisten Siege auf dem Golden Court D1 macht, gewinnt das Turnier. Spielzeit ca. 10-11min und danach steigen die Sieger auf und die Verlierer steigen einen Court ab. Einen kleinen Preis gibt es am Ende auch!<br/><br/>
+      Um Ihren Platz zu reservieren, kontaktieren Sie Julian von WAP (+49 176 68266671)📱
+
+- name: Americano for Ladies ♀
+  date: 2023-11-04
+  id: amerLadiesWap
+  registration_till: 2023-11-03T18:00+02:00
+  type: tournament
+  location: wap
+  description:
+    en: >
+      Americano tournament for ladies on Saturday: 14:00-16:00<br/>
+      What could be better than playing padel on a Saturday afternoon? 🎾🌟<br/><br/> 
       To reserve your spot, contact Julian from WAP at (+49 176 68266671)
 #- name: Mexicano Spiel Ladies
 #  id: mexicanoLadies
