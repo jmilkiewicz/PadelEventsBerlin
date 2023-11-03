@@ -134,6 +134,18 @@
 #    As we aim to crown the best among us, every match promises to be a test of skill and strategy.🤺<br/><br/>
 #
 #    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
+- name: GPS 500 Damen & Herren WAP Berlin Open
+  date: 2023-11-25
+  id: gps500wap
+  registration_till: 2023-11-24 22:00 +02
+  type: tournament
+  location: wap
+  link: https://rankedin.com/en/tournament/33054/gps-500-damen-herren-wap-berlin-open
+  description:
+    en: >
+      Get ready for the November edition of the GPS Padel Tournament (part of the German Padel Series) in Berlin at WAP! 🏆🎉<br/><br/>
+      Join us for two exciting days of watching top Berlin padel players in action or competing with them.<br/>
+      Just a quick reminder: Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫
 - name: CUPRA German Masters GPS 1200
   id: gps1200wap
   date: 2023-10-28
