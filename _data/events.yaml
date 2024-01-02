@@ -94,22 +94,31 @@
 #      Es ist ein Turniermodus mit Auf- und Abstieg. Man meldet sich im 2er Team an.
 #      Platz 1 ist der Golden Court und das höchste Level, was man erreichen kann, wo alle Teams hinmöchten. Durch Losverfahren bekommt man seinen Platz zugewiesen. Das Team, was am meisten Siege auf dem Golden Court D1 macht, gewinnt das Turnier. Spielzeit ca. 10-11min und danach steigen die Sieger auf und die Verlierer steigen einen Court ab. Einen kleinen Preis gibt es am Ende auch!<br/><br/>
 #      Um Ihren Platz zu reservieren, kontaktieren Sie Julian von WAP (+49 176 68266671)📱
-- name: Golden Court Mixed Teams (🧔‍/👩)
-  date: 2023-12-22
-  id: goldMixed
-  registration_till: 2023-12-21T22:00+02:00
+- name: GPS 250 Teams (🧔‍/👩)
+  date: 2024-01-27
+  id: gps250Mixed
+  registration_till: 2024-01-21T22:00+02:00
+  link: https://rankedin.com/en/tournament/35493/gps-250-mixed-wap-berlin
   type: tournament
   location: wap
   description:
     en: >
-      Golden court tournament with prize for mixed teams (♂️ and ♀️) on Friday: 19:00-21:00<br/><br/>
-      To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
-    de: >
-      Golden-Court-Turnier für Fortgeschrittene am Freitag: 19:00–21:00 Uhr<br/><br/>
-      Es ist ein Turniermodus mit Auf- und Abstieg. Man meldet sich im 2er Team an.
-      Platz 1 ist der Golden Court und das höchste Level, was man erreichen kann, wo alle Teams hinmöchten. Durch Losverfahren bekommt man seinen Platz zugewiesen. Das Team, was am meisten Siege auf dem Golden Court D1 macht, gewinnt das Turnier. Spielzeit ca. 10-11min und danach steigen die Sieger auf und die Verlierer steigen einen Court ab. Einen kleinen Preis gibt es am Ende auch!<br/><br/>
-      Um Ihren Platz zu reservieren, kontaktieren Sie Julian von WAP (+49 176 68266671)📱
-
+      GPS level torunament for mixed teams(♂️ and ♀️) on Saturday evening.<br/>
+      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+      Signup and more information in event details link.
+- name: GPS 100 (Beginners) Damen & Herren WAP Berlin Open
+  date: 2024-01-13
+  id: gps100wap
+  registration_till: 2024-01-07T22:00+02:00
+  type: tournament
+  location: wap
+  link: https://rankedin.com/en/tournament/35492/gps-100-damen-und-herren-wap-berlin
+  description:
+    en: >
+      Get ready for the January edition of the GPS Padel Tournament (part of the German Padel Series) in Berlin at WAP! 🏆🎉<br/>
+      This round, we encourage less experienced players to join and showcase their skills.<br/>
+      Participation is open exclusively to licensed players, so make sure you have your license ready!📋🎫<br/><br/>      
+      Signup and more information in event details link.
 - name: Americano for Ladies ♀
   date: 2023-11-04
   id: amerLadiesWap
