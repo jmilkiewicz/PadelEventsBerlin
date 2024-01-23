@@ -201,7 +201,7 @@
 #  link: https://www.manupadel.com/signups/
 - name: Playtomic Level Evaluation 📈
   date: 2024-01-30
-  id: levelEva;
+  id: levelEval
   registration_till: 2024-01-28T09:00+02:00
   type: other
   location: padelFC
