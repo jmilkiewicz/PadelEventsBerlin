@@ -1,6 +1,6 @@
 - name: Your Padel event 🫵
   id: yourOwnEvent
-  date: 2023-10-01
+  date: 2024-02-01
   type: other
   location: other
   link: /addEvent.html
@@ -199,23 +199,19 @@
 #      It is time to elevate your game!🔥💪 <br/>
 #      ⚠️ Hurry, the last spot left! ⚠️
 #  link: https://www.manupadel.com/signups/
-- name: Americano fixed teams 🎾
-  date: 2023-09-13
-  id: pfcamerTeams
-  registration_till: 2023-09-11T09:00+02:00
-  type: tournament
+- name: Playtomic Level Evaluation 📈
+  date: 2024-01-30
+  id: levelEva;
+  registration_till: 2024-01-28T09:00+02:00
+  type: other
   location: padelFC
   description:
     en: >
-      For the first time Americano for pairs, not for individuals! <br/>
-      - avg team level < 2.5 : 16:00-19:00 ⏰<br/>
-      - avg team level > 2.5 : 19:00-22:00 ⏰<br/><br/>
-      To participate, sign up via Playtomic (Padel FC/Activities). 📝
-    de: >
-      Zum ersten Mal Americano für Paare, nicht für Einzelpersonen! <br/>
-      - durchschnittliches Teamniveau < 2,5: 16:00–19:00 Uhr ⏰<br/>
-      - durchschnittliches Teamniveau > 2,5: 19:00–22:00 Uhr ⏰<br/><br/>
-      Um teilzunehmen, melden Sie sich über Playtomic (Padel FC/Aktivitäten) an. 📝
+      If you think you perform at a higher level than your current Playtomic rating, there's an opportunity to adjust it effortlessly! <br/><br/>
+      PadelFC offers Playtomic Level Evaluation sessions 📈 where your level can be calibrated. <br/>
+      This session, led by a certified coach, accommodates three players and includes 30 minutes of ball feeding 🎾 and 30 minutes of gameplay 🏆.<br/><br/>
+      To participate, sign up via Playtomic (Padel FC/Activities/Leveling Evaluation). 📝<br/>
+      Expecxt more evaluation session to be open soon. ⏰
 - name: Americano in Padel FC 🎾
   date: 2023-10-25
   id: pfcamer
