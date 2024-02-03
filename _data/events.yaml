@@ -1,6 +1,6 @@
 - name: Your Padel event 🫵
   id: yourOwnEvent
-  date: 2024-03-01
+  date: 2024-05-01
   type: other
   location: other
   link: /addEvent.html
@@ -191,6 +191,18 @@
       Get ready for the December edition of the GPS Padel Tournament (part of the German Padel Series) in Berlin at WAP! 🏆🎉<br/><br/>
       Join us for two exciting days of watching top Berlin padel players in action or competing with them.<br/>
       Just a quick reminder: Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫
+- name: Hiring Trainers for 2024 Summer Season in Padel Lankwitz
+  date: 2024-04-01
+  id: plTrain
+  registration_till: 2024-03-31 22:00 +02
+  type: other
+  location: pl
+  description:
+    en: >
+      Join the Padel Revolution in Berlin with Padel Lankwitz! <br/> 
+      As the exclusive padel destination in the south of Berlin, we're excited to announce our search for passionate padel trainers for the upcoming 2024 summer season starting in April.<br/> 
+      This season, we're expanding our facility to include more courts, dedicating one almost exclusively for trainers. It's an incredible opportunity for trainers to join our mission in promoting padel and elevating the sport to unprecedented heights in Berlin. Whether you're an experienced trainer looking to make your mark or a padel enthusiast keen on developing your coaching skills, we invite you to be a part of our vibrant community.<br/><br/>       
+      Contact us at pr@padellankwitz.de or reach out to Estani at +4915234043437 for more information.
 - name: CUPRA German Masters GPS 1200
   id: gps1200wap
   date: 2023-10-28
