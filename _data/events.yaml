@@ -289,7 +289,7 @@
 - name: 9 weeks Padel course 🎾
   date: 2024-01-19
   id: 9week
-  registration_till: 2024-02-18T09:00+02:00
+  registration_till: 2024-01-18T09:00+02:00
   type: course
   location: wap
   link: https://www.buchsys.de/fu-berlin/angebote/aktueller_zeitraum/_Padel.html
