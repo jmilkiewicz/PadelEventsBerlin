@@ -1,6 +1,6 @@
 - name: Your Padel event 🫵
   id: yourOwnEvent
-  date: 2024-05-01
+  date: 2024-12-01
   type: other
   location: other
   link: /addEvent.html
@@ -97,7 +97,7 @@
 - name: GPS 100 Teams (🧔‍/👩)
   date: 2024-03-09
   id: gps100Mixed
-  registration_till: 2024-03-03T22:00+02:00
+  registration_till: 2024-03  -03T22:00+02:00
   link: https://rankedin.com/en/tournament/37330/gps-100-mixed-wap-berlin
   type: tournament
   location: wap
@@ -332,3 +332,16 @@
       Freie Universität Berlin is hosting a 9-week padel course that is open to everyone. <br/><br/>
       The sessions, held on Tuesdays and Wednesdays, cater to two different skill levels.<br/> 
       Find all the details in the event information.
+- name: Padel Pro Luxury experience
+  id: hernan
+  date: 2024-05-03
+  registration_till: 2024-05-02T18:00+02:00
+  type: course
+  location: padelFC
+  description:
+    en: >
+      Experience the ultimate Padel Pro Luxury with renowned coach Hernan Flores in Berlin. This exclusive event offers participants 6 hours of intensive padel coaching along with supervised matches and personalized feedback to enhance your game.<br/><br/>
+      💰 Price: 290 euros per participant<br/>
+      🚀 Limited Spots Available: Reserve your spot now to ensure your participation in this premium padel experience.<br/><br/>
+      🎁 Special Offer: Hernan is preparing an Adidas Racquet Metalbone raffle for participants, adding an exciting element to the event.<br/><br/>
+      📧 Contact Information: For inquiries and reservations, please contact Hernan Flores at hernan@hernanflores.com.
