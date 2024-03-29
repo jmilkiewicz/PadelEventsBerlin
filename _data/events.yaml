@@ -33,6 +33,21 @@
 
       💰 €60 per person.<br/> 
        Contact Julian from WAP (+49 176 68266671)📱
+- name: Padel Coach category C training.
+  id: coach_c
+  date: 2024-06-08
+  registration_till: 2024-05-22T20:00+02:00
+  type: course
+  location: padelFC
+  link: https://www.dpv-padel.de/trainerausbildung/
+  description:
+    en: >
+      Join the Deutscher Padel Verband (DPV) in Berlin on June 8-9 for an exciting opportunity to kickstart your journey as a padel coach! 🎾<br/><br/>
+      Hosted at PadelFC, this training program offers a comprehensive curriculum designed to equip participants with the skills and knowledge needed to excel in coaching padel.
+      <br/><br/>
+      📅 With limited spots available, aspiring coaches are encouraged to secure their spot soon.<br/> 
+      🔒 For further details and registration, click on event details link.🌟 
+
 #- name: King of the Hills
 #  date: 2023-08-11
 #  registration_till: 2023-08-11T15:55+02:00
