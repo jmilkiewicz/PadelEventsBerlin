@@ -109,16 +109,16 @@
 #      Es ist ein Turniermodus mit Auf- und Abstieg. Man meldet sich im 2er Team an.
 #      Platz 1 ist der Golden Court und das höchste Level, was man erreichen kann, wo alle Teams hinmöchten. Durch Losverfahren bekommt man seinen Platz zugewiesen. Das Team, was am meisten Siege auf dem Golden Court D1 macht, gewinnt das Turnier. Spielzeit ca. 10-11min und danach steigen die Sieger auf und die Verlierer steigen einen Court ab. Einen kleinen Preis gibt es am Ende auch!<br/><br/>
 #      Um Ihren Platz zu reservieren, kontaktieren Sie Julian von WAP (+49 176 68266671)📱
-- name: GPS 100 Teams (🧔‍/👩)
-  date: 2024-03-09
-  id: gps100Mixed
-  registration_till: 2024-03-03T22:00+02:00
-  link: https://rankedin.com/en/tournament/37330/gps-100-mixed-wap-berlin
+- name: GPS 250 Teams (🧔‍/👩)
+  date: 2024-04-28
+  id: gps250mixed
+  registration_till: 2024-04-22T22:00+02:00
+  link: https://rankedin.com/en/tournament/38583/gps-250-mixed-wap-berlin
   type: tournament
   location: wap
   description:
     en: >
-      GPS level tournament for mixed teams(♂️ and ♀️) on Saturday evening.<br/>
+      GPS level tournament for mixed teams(♂️ and ♀️) on Sunday evening.<br/>
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
 - name: GPS 250 Teams (🧔‍/👩)
@@ -134,27 +134,41 @@
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
 - name: GPS 500 Men Edition 🧔
-  date: 2024-02-24
+  date: 2024-04-21
   id: gps500Men
-  registration_till: 2024-02-19T22:00+02:00
-  link: https://rankedin.com/en/tournament/36436/gps-500-herren-wap-berlin
+  registration_till: 2024-04-15T22:00+02:00
+  link: https://rankedin.com/en/tournament/38581/gps-500-herren-wap-berlin
   type: tournament
   location: wap
   description:
     en: >
-      GPS level 500 tournament for man ♂️ on Saturday evening.<br/>
-      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+      GPS 500 Padel Tournament in Berlin, where you'll have the chance to compete at a higher level. 
+      These 500-level tournaments aren't happening every month, making this event a noteworthy occasion.
+      With top-tier players and intense matches guaranteed, secure your place now to be part of this prestigious tournament.<br/><br/>          
       Signup and more information in event details link.
+- name: GPS 500 Women Edition 👩
+  date: 2024-04-20
+  id: gps500Women
+  registration_till: 2024-04-15T22:00+02:00
+  link: https://rankedin.com/en/tournament/38580/gps-500-damen-wap-berlin
+  type: tournament
+  location: wap
+  description:
+    en: >
+      The GPS 500 Padel Tournament in Berlin offers women the opportunity to compete at an elevated level.<br/> 
+      These 500-level tournaments occur less frequently, heightening the significance of this event.
+      With top-tier players and intense matches assured, we encourage you to secure your place now to partake in this prestigious tournament.<br/><br/>       
+      Sign up and find more information at the event details link.
 - name: GPS 100 (Beginners) Women Edition 👩
-  date: 2024-03-17
+  date: 2024-04-13
   id: gps100Women
-  registration_till: 2024-03-11T22:00+02:00
+  registration_till: 2024-04-08T22:00+02:00
   link: https://rankedin.com/en/tournament/37333/gps-100-damen-wap-berlin
   type: tournament
   location: wap
   description:
     en: >
-      GPS level 100 (beginners) tournament for women ♀ on Sunday morning.<br/>
+      GPS level 100 (beginners) tournament for women ♀ on Saturday evening.<br/>
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
 - name: GPS 500 Women 👩
@@ -169,16 +183,16 @@
       GPS level 500 tournament for women ♀️ on Sunday evening.<br/>
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
-- name: GPS 100 (Beginners) Damen & Herren WAP Berlin Open
-  date: 2024-01-13
+- name: GPS 100 (Beginners)  Herren WAP Berlin Open
+  date: 2024-04-14
   id: gps100wap
-  registration_till: 2024-01-07T22:00+02:00
+  registration_till: 2024-04-08T22:00+02:00
   type: tournament
   location: wap
-  link: https://rankedin.com/en/tournament/35492/gps-100-damen-und-herren-wap-berlin
+  link: https://rankedin.com/en/tournament/38579/gps-100-herren-wap-berlin
   description:
     en: >
-      Get ready for the January edition of the GPS Padel Tournament (part of the German Padel Series) in Berlin at WAP! 🏆🎉<br/>
+      Get ready for the April edition of the GPS Padel Tournament (part of the German Padel Series) for beginners in Berlin WAP! 🏆🎉<br/>
       This round, we encourage less experienced players to join and showcase their skills.<br/>
       Participation is open exclusively to licensed players, so make sure you have your license ready!📋🎫<br/><br/>      
       Signup and more information in event details link.
@@ -207,16 +221,16 @@
 #
 #    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
 - name: GPS 250 Herren WAP Berlin Open
-  date: 2024-03-16
+  date: 2024-04-27
   id: gps250wapMen
-  registration_till: 2024-03-11 22:00 +02
+  registration_till: 2024-04-22 22:00 +02
   type: tournament
   location: wap
-  link: https://rankedin.com/en/tournament/37332/gps-250-herren-wap-berlin
+  link: https://rankedin.com/en/tournament/38582/gps-250-herren-wap-berlin
   description:
     en: >      
       Gear up for the Saturday edition of the GPS Padel Tournament 250, a part of the German Padel Series, happening in Berlin at WAP!🏆🎉<br/><br/>      
-      Just a quick reminder: Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫
+      Signup and more information in event details link. 📋🎫
 - name: GPS 250 Herren WAP Berlin Open
   date: 2024-03-10
   id: gps250wapMen2
