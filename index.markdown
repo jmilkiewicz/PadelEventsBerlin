@@ -2,8 +2,8 @@
 title: Padel Events in Berlin
 layout: default
 ---
-<script src="{{ base.url | prepend: site.url }}/assets/js/filter-events.js"></script>
-<script src="{{ base.url | prepend: site.url }}/assets/js/change-description-lang.js"></script>
+<script src="/assets/js/filter-events.js"></script>
+<script src="/assets/js/change-description-lang.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function () {
     hideEventsBefore(Date.now());
