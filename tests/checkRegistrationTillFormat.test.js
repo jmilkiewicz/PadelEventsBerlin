@@ -11,7 +11,6 @@ test('check registration date format', () => {
 
   const x = eventsYamlFile.map(x => [x["registration_till"], x["name"]])
     .filter(x => x[0])
-    .filter(x => !isValidDate(x[0]))
     .reduce((acc, cur) => {
       if (isValidDate(cur[0])) {
         return acc
