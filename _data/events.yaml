@@ -63,7 +63,7 @@
 - name: Americano Beginner 🔰
   date: 2023-10-13
   id: amerBeginnerWap
-  registration_till: 2023-10-13T12:00+02:00
+  registration_till: 2023-10-13T12:00 02:00
   type: tournament
   location: wap
   description:
