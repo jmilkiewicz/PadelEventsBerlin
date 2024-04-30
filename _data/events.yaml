@@ -134,16 +134,15 @@
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
 - name: GPS 500 Men Edition 🧔
-  date: 2024-04-21
+  date: 2024-05-26
   id: gps500Men
-  registration_till: 2024-04-15T22:00+02:00
-  link: https://rankedin.com/en/tournament/38581/gps-500-herren-wap-berlin
+  registration_till: 2024-05-25T22:00+02:00
+  link: https://rankedin.com/en/tournament/39830/gps-500-herren
   type: tournament
   location: wap
   description:
     en: >
-      GPS 500 Padel Tournament in Berlin, where you'll have the chance to compete at a higher level. 
-      These 500-level tournaments aren't happening every month, making this event a noteworthy occasion.
+      GPS 500 Padel Tournament in Berlin, where you'll have the chance to compete at a higher level.<br/>       
       With top-tier players and intense matches guaranteed, secure your place now to be part of this prestigious tournament.<br/><br/>          
       Signup and more information in event details link.
 - name: GPS 500 Women Edition 👩
@@ -155,8 +154,7 @@
   location: wap
   description:
     en: >
-      The GPS 500 Padel Tournament in Berlin offers women the opportunity to compete at an elevated level.<br/> 
-      These 500-level tournaments occur less frequently, heightening the significance of this event.
+      The GPS 500 Padel Tournament in Berlin offers women the opportunity to compete at an elevated level.<br/>       
       With top-tier players and intense matches assured, we encourage you to secure your place now to partake in this prestigious tournament.<br/><br/>       
       Sign up and find more information at the event details link.
 - name: GPS 100 (Beginners) Women Edition 👩
