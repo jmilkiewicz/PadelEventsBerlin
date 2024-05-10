@@ -264,6 +264,19 @@
 #      Padel Lankwitz, the exclusive padel destination in the south of Berlin, is excited to announce our search for passionate padel trainers for the upcoming 2024 summer season starting in April!🌞<br/><br/>
 #      This season, we're expanding our facility to include more courts, dedicating one almost exclusively for trainers. It's an incredible opportunity for trainers to join our mission in promoting padel and elevating the sport to unprecedented heights in Berlin. Whether you're an experienced trainer looking to make your mark or a padel enthusiast keen on developing your coaching skills, we invite you to be a part of our vibrant community.🤝<br/><br/>
 #      For more details, reach out to us at team@padellankwitz, ‭WhatsApp +49 30 77328905,‬ or contact Estani at +49 152 3404 3437.
+- name: Pádel Lankwitz Fiesta Friday
+  id: fiesta1
+  date: 2024-05-17
+  registration_till: 2024-05-16T22:00+02:00
+  type: tournament
+  location: pl
+  description:
+    en: >
+      Americano tournament with prizes for: <br/>
+      - beginners (📊 level 0-1.7): 18:00-20:00 ⏰,<br/>
+      - intermediate (📊 level 1.5-3.7): 20:00-22:00 ⏰<br/><br/>
+      Don't miss this chance to compete! 💪<br/><br/>    
+      To participate, sign up via Playtomic (Padel Lankwitz/Competitions). 📝
 - name: CUPRA German Masters GPS 1200
   id: gps1200wap
   date: 2023-10-28
