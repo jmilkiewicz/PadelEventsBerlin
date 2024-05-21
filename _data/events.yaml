@@ -285,6 +285,18 @@
       Padel Lankwitz, in cooperation with Nox, is hosting a Nox padel racket test event starting around 16:00.<br/><br/>   
       Prior to the event, there will be a session shootout showcasing experiences with Nox padel rackets.<br/><br/>
       For further details and inquiries, please contact Eddie at +4915782304902.
+- name: Padel WeekEnd WAP BERLIN
+  id: weekendWAP
+  date: 2024-09-13
+  registration_till: 2024-09-13T16:00+02:00
+  type: course
+  location: wap
+  link: https://www.padelmatchevents.com/en/product-page/padel-weekend-berlin
+  description:
+    en: >    
+      PADEL MATCH presents a 3-day 'Padel WeekEnd' Clinic at We Are Padel Berlin, featuring a team of top coaches from Madrid, the world capital of Padel.<br/> 
+      Our 'train like a pro' methodology is tailored to players of all levels, from beginners to advanced.<br/>
+      Intrigued? Visit the event details link
 - name: CUPRA German Masters GPS 1200
   id: gps1200wap
   date: 2023-10-28
