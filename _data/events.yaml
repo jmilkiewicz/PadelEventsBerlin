@@ -273,6 +273,17 @@
       - intermediate (📊 level 1.5-3.7): 20:00-22:00 ⏰<br/><br/>
       Don't miss this chance to compete! 💪<br/><br/>    
       To participate, sign up via Playtomic (Padel Lankwitz/Competitions). 📝
+- name: Pádel Lankwitz Nox rackets testout
+  id: noxtestout
+  date: 2024-05-25
+  registration_till: 2024-05-25T16:00+02:00
+  type: testout
+  location: pl
+  description:
+    en: >
+      Thinking about getting a new padel racket? Wouldn't it be nice to try it out before buying? <br/> 
+      Padel Lankwitz, in cooperation with Nox, is hosting a Nox padel racket test event starting around 16:00.<br/><br/>   
+      Prior to the event, there will be a session shootout showcasing experiences with Nox padel rackets.
 - name: CUPRA German Masters GPS 1200
   id: gps1200wap
   date: 2023-10-28
