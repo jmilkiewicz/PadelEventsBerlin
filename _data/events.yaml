@@ -105,18 +105,18 @@
       Golden court tournament on Friday evening: 20:00-22:00<br/>
       This time teams with average level above 3.5 📊 are welcome.<br/><br/>
       Signup in Playtomic (Padel FC/Competitions). 📝
-#- name: GPS 500 Teams (🧔‍/👩)
-#  date: 2024-05-11
-#  id: gps500mixed
-#  registration_till: 2024-05-11T16:00+02:00
-#  link: https://rankedin.com/en/tournament/39818/gps-500-mixed-wap-berlin
-#  type: tournament
-#  location: wap
-#  description:
-#    en: >
-#      GPS level tournament for mixed teams(♂️ and ♀️) on Saturday evening.<br/>
-#      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
-#      Signup and more information in event details link.
+- name: GPS 500 Teams (🧔‍/👩)
+  date: 2024-06-09
+  id: gps500mixed
+  registration_till: 2024-06-03T16:00+02:00
+  link: https://rankedin.com/en/tournament/40560/gps-500-mixed-wap-berlin
+  type: tournament
+  location: wap
+  description:
+    en: >
+      GPS level tournament for mixed teams(♂️ and ♀️) on Sunday evening.<br/>
+      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+      Signup and more information in event details link.
 - name: GPS 250 Teams (🧔‍/👩)
   date: 2024-03-30
   id: gps250mixed
@@ -178,12 +178,12 @@
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
 - name: GPS 100 (Beginners) Herren WAP Berlin Open
-  date: 2024-05-11
+  date: 2024-06-02
   id: gps100wap1
-  registration_till: 2024-05-06T22:00+02:00
+  registration_till: 2024-05-27T22:00+02:00
   type: tournament
   location: wap
-  link: https://rankedin.com/en/tournament/39818/gps-100-herren-wap-berlin
+  link: https://rankedin.com/en/tournament/40548/gps-100-herren-wap-berlin
   description:
     en: >
       Get ready for the May edition of the GPS Padel Tournament (part of the German Padel Series) for beginners in Berlin WAP! 🏆🎉<br/>
@@ -228,15 +228,15 @@
 #
 #    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
 - name: GPS 250 Herren WAP Berlin Open
-  date: 2024-05-19
+  date: 2024-06-01
   id: gps250wapMen
-  registration_till: 2024-05-13T22:00+02:00
+  registration_till: 2024-05-27T22:00+02:00
   type: tournament
   location: wap
-  link: https://rankedin.com/en/tournament/39920/gps-250-herren-wap-berlin
+  link: https://rankedin.com/en/tournament/40547/gps-250-herren-wap-berlin
   description:
     en: >
-      Gear up for the Sunday edition of the GPS Padel Tournament 250, a part of the German Padel Series, happening in Berlin at WAP!🏆🎉<br/><br/>
+      Gear up for the Saturday edition of the GPS Padel Tournament 250, a part of the German Padel Series, happening in Berlin at WAP!🏆🎉<br/><br/>
       Signup and more information in event details link. 📋🎫
 #- name: GPS 250 Damen WAP Berlin Open
 #  date: 2024-03-24
