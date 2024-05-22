@@ -229,7 +229,7 @@
 #    To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
 - name: GPS 250 Herren WAP Berlin Open
   date: 2024-06-01
-  id: gps250wapMen
+  id: gps250wapMen1
   registration_till: 2024-05-27T22:00+02:00
   type: tournament
   location: wap
@@ -238,17 +238,28 @@
     en: >
       Gear up for the Saturday edition of the GPS Padel Tournament 250, a part of the German Padel Series, happening in Berlin at WAP!🏆🎉<br/><br/>
       Signup and more information in event details link. 📋🎫
-#- name: GPS 250 Damen WAP Berlin Open
-#  date: 2024-03-24
-#  id: gps250wapWomen
-#  registration_till: 2024-03-18 22:00 +02
-#  type: tournament
-#  location: wap
-#  link: https://rankedin.com/en/tournament/37400/gps-250-damen-wap-berlin
-#  description:
-#    en: >
-#      Join us for the GPS 250 Padel Tournament for women, taking place in Berlin at WAP! 🏆🎉 🏆🎉<br/><br/>
-#      Just a quick reminder: Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫
+- name: GPS 250 Herren WAP Berlin Open
+  date: 2024-06-23
+  id: gps250wapMen2
+  registration_till: 2024-06-17T22:00+02:00
+  type: tournament
+  location: wap
+  link: https://rankedin.com/en/tournament/40562/gps-250-herren-wap-berlin
+  description:
+    en: >
+      Gear up for the Sunday edition of the GPS Padel Tournament 250, a part of the German Padel Series, happening in Berlin at WAP!🏆🎉<br/><br/>
+      Signup and more information in event details link. 📋🎫
+- name: GPS 250 Damen WAP Berlin Open
+  date: 2024-06-08
+  id: gps250wapWomen
+  registration_till: 2024-06-03T22:00+02:00
+  type: tournament
+  location: wap
+  link: https://rankedin.com/en/tournament/40559/gps-250-damen-wap-berlin
+  description:
+    en: >
+      Join us for the GPS 250 Padel Tournament for women, taking place in Berlin at WAP! 🏆🎉 🏆🎉<br/><br/>
+      Just a quick reminder: Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫
 #- name: Hiring Trainers for 2024 Summer Season in Padel Lankwitz
 #  date: 2024-04-01
 #  id: plTrain
