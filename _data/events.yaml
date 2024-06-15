@@ -350,21 +350,22 @@
 #      <br/><br/>
 #      🚺 Ladies, the last spot available!
 #  link: https://www.manupadel.com/signups/ladies.html
-#- name: Padel Workshop by Manu Soler 🎾
-#  id: manuSeptember
-#  date: 2023-09-30
-#  registration_till: 2023-09-30T09:00+02:00
-#  type: course
-#  location: wap
-#  description:
-#    en: >
-#      Manu Soler🇪🇸 is back in Berlin with power-packed training programs, designed for players ranging from beginner+ to advanced levels: <br/>
-#      - Padel Essentials 🎯<br/>
-#      - Padel Defence ⚔️<br/><br/>
-#      🌐 Explore the event page to unveil the skills, experiences, and enhancements you'll gain.<br/>
-#      It is time to elevate your game!🔥💪 <br/>
-#      ⚠️ Hurry, the last spot left! ⚠️
-#  link: https://www.manupadel.com/signups/
+- name: Padel Workshop by Manu Soler 🎾
+  id: manuSeptember
+  date: 2024-09-05
+  registration_till: 2024-09-04T09:00+02:00
+  type: course
+  location: wap
+  description:
+    en: >
+      Manu Soler🇪🇸 is back in Berlin at the beginning of September with power-packed training programs, designed for players ranging from beginner to advanced levels:<br/>
+      - Padel Essentials 🎯<br/>
+      - Padel Oveheads 💥 <br/>
+      - Padel Defence ⚔️<br/>
+      - custom course for 4 <br/><br/>
+      📅Training will start on 5th September (4 days) or 7th September (3 days), depending on the course.<br/><br/>
+      🌐 Explore the event page to unveil the comprehensive training plan, detailed schedule, and the skills, experiences, and enhancements you'll gain.<br/>
+  link: https://www.manupadel.com/signups/
 - name: Playtomic Level Evaluation 📈
   date: 2024-01-30
   id: levelEval
