@@ -117,6 +117,18 @@
       GPS level tournament for mixed teams(♂️ and ♀️) on Sunday evening.<br/>
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
+- name: Tropical Padel Event 🌴
+  date: 2024-09-07
+  id: tropicalPadelEvent
+  registration_till: 2024-09-06T16:00+02:00
+  link: https://project9857215.tilda.ws/
+  type: tournament
+  location: wap
+  description:
+    en: >
+      Join us on September 7th for the Americano Tournament Tropical 🌴 Padel Event. <br> Featuring mixed Americano (🧔‍/👩) tournaments for all skill levels, 
+      exciting prizes, and fun activities including a costume contest, raffle, and flea market. <br/><br/> 
+      Enjoy a day of padel, delicious breakfast, and tropical vibes starting at 9:00 am.
 - name: GPS 250 Teams (🧔‍/👩)
   date: 2024-03-30
   id: gps250mixed
