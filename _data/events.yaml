@@ -354,6 +354,18 @@
       📅Training will start on 5th September (4 days) or 7th September (3 days), depending on the course.<br/><br/>
       🌐 Explore the event page to unveil the comprehensive training plan, detailed schedule, and the skills, experiences, and enhancements you'll gain.<br/>
   link: https://www.manupadel.com/signups/
+- name: Minerva Padel Clinic 2024 🎾
+  id: minerva
+  date: 2024-09-08
+  registration_till: 2024-09-05T09:00+02:00
+  type: course
+  location: minerva
+  description:
+    en: >
+      Join the Minerva Padel Clinic, a holiday resort in Italy, from 8th - 15th September 2024 for daily professional lessons and athletic training with bilingual instructors 🎾💪.<br/> 
+      Enjoy world-class facilities including padel courts, tennis courts, a lagoon swimming pool, and more 🏊‍♂️🏖️.<br/><br/> 
+      Special <a href="/assets/doc/Minerva Padel Clinic_Berlino2024.docx.pdf" target="_blank">discount code</a> for the Berlin padel community 🏨
+  link: /assets/doc/A5_MInerva_PadelClinicWeek_rev02_ENG_rev01.pdf
 - name: Playtomic Level Evaluation 📈
   date: 2024-01-30
   id: levelEval

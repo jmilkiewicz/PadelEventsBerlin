@@ -22,5 +22,9 @@
         {% assign locationName = "Your place" %}
         {% assign locationLink = "/about.html" %}
     {% endif %}
+    {% if include.id == "minerva" %}
+        {% assign locationName = "Minerva" %}
+        {% assign locationLink = "https://www.minervaclubresort.it/" %}
+    {% endif %}
 
     <a href="{{locationLink}}" target="_blank" class="event-location">📍 {{locationName}}</a>
