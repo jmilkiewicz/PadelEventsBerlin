@@ -274,8 +274,8 @@
 #      For more details, reach out to us at team@padellankwitz, ‭WhatsApp +49 30 77328905,‬ or contact Estani at +49 152 3404 3437.
 - name: Pádel Lankwitz Fiesta Friday
   id: fiesta1
-  date: 2024-05-17
-  registration_till: 2024-05-16T22:00+02:00
+  date: 2024-08-02
+  registration_till: 2024-08-02T16:00+02:00
   type: tournament
   location: pl
   description:
