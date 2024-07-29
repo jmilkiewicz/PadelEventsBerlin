@@ -285,6 +285,22 @@
       - intermediate (📊 level 1.5-3.7): 20:00-22:00 ⏰<br/><br/>
       Don't miss this chance to compete! 💪<br/><br/>    
       To participate, sign up via Playtomic (Padel Lankwitz/Competitions). 📝
+- name: Smash & Grill 🍔🎾
+  id: smash
+  date: 2024-08-18
+  registration_till: 2024-08-16T10:00+02:00
+  type: tournament
+  location: tio
+  description:
+    en: >
+      Time for Smash & Grill no.2 at TIOTIO. Join us for a Sunday afternoon filled with good vibes, chill matches, and delicious BBQ over the rooftops of Berlin.<br/>
+      
+      🏅Round 1: Intermediate Americano (4-6pm) <br/>
+      🏆 Round 2: Advanced Americano (6-8pm)<br/>
+      🎾Play: 2h of Americano + BBQ after<br/>
+      🔥BBQ: Bring your own grill products! We bring Salads, Sauces and Bread <br/>    
+      💰Price: 28€ - 2h Play, fresh Balls, BBQ, Sauces and Salads<br/><br/>
+
 - name: Pádel Lankwitz Nox rackets testout
   id: noxtestout
   date: 2024-05-25
