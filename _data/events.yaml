@@ -94,17 +94,28 @@
     de: >
       Americano-Turnier für Fortgeschrittene am Freitag: 19:00–21:00 Uhr<br/><br/>
       Um Ihren Platz zu reservieren, kontaktieren Sie Julian von WAP (+49 176 68266671)📱
-- name: Golden Court fixed teams 🎾
-  date: 2024-05-24
-  id: goldFC
-  registration_till: 2024-05-22T20:00+02:00
+- name: Golden Court Beginners 🎾
+  date: 2024-08-17
+  id: gold1
+  registration_till: 2024-08-16T20:00+02:00
   type: tournament
-  location: padelFC
+  location: wap
   description:
     en: >
-      Golden court tournament on Friday evening: 20:00-22:00<br/>
+      Golden court tournament for beginner players on Saturday afternoon: 12:30-14:30<br/>
       This time teams with average level above 3.5 📊 are welcome.<br/><br/>
-      Signup in Playtomic (Padel FC/Competitions). 📝
+      To reserve your spot, contact Julian from WAP at (+49 176 68266671)
+- name: Golden Court Intermediate 🎾
+  date: 2024-08-18
+  id: gold2
+  registration_till: 2024-08-17T20:00+02:00
+  type: tournament
+  location: wap
+  description:
+    en: >
+      Golden court tournament for intermediate players on Sunday afternoon: 12:30-14:30<br/>
+      This time teams with average level above 3.5 📊 are welcome.<br/><br/>
+      To reserve your spot, contact Julian from WAP at (+49 176 68266671)
 - name: GPS 500 Teams (🧔‍/👩)
   date: 2024-07-21
   id: gps500mixed
