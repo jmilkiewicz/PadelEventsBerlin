@@ -61,26 +61,19 @@
 #
 #    Seems like event is booked out. <br/> Contact Julian from WAP (+49 176 68266671)📱 for potential wait list.
 - name: Americano Beginner 🔰
-  date: 2023-10-13
+  date: 2024-08-25
   id: amerBeginnerWap
-  registration_till: 2023-10-13T12:00+02:00
+  registration_till: 2024-08-24T12:00+02:00
   type: tournament
   location: wap
   description:
     en: >
-      Americano tournament for beginners on Friday: 19:00-21:00<br/><br/>
+      Americano tournament for beginners on Sunday afternoon: 12:30-14:30<br/><br/>
   
       Beginners, take the leap into padel at the Americano Tournament! 🏆<br/>
       Discover the excitement of the sport and kick-start your padel journey. 🌟<br/><br/>
   
       To reserve your spot, contact Julian from WAP (+49 176 68266671)📱
-    de: >
-      Americano-Turnier für Anfänger am Freitag: 19:00-21:00 Uhr<br/><br/>
-
-      Anfänger, wagen Sie den Sprung ins Padel beim Americano-Turnier! 🏆<br/>
-      Entdecken Sie die Spannung des Sports und starten Sie Ihre Padel-Reise. 🌟<br/><br/>
-
-      Um Ihren Platz zu reservieren, kontaktieren Sie Julian von WAP (+49 176 68266671)📱
 - name: Americano Intermediate 🎾
   date: 2023-09-15
   id: amerIntermediateWap
