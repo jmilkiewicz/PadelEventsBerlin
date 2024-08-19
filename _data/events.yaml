@@ -255,7 +255,7 @@
   date: 2024-08-31
   id: gps250wapWomen
   registration_till: 2024-08-26T22:00+02:00
-  type: tournament
+  type: tournamentPl
   location: wap
   link: https://rankedin.com/en/tournament/42615/gps-250-damen-wap-berlin
   description:
@@ -275,15 +275,15 @@
 #      For more details, reach out to us at team@padellankwitz, ‭WhatsApp +49 30 77328905,‬ or contact Estani at +49 152 3404 3437.
 - name: Pádel Lankwitz Fiesta Friday
   id: fiesta1
-  date: 2024-08-02
-  registration_till: 2024-08-02T16:00+02:00
+  date: 2024-08-30
+  registration_till: 2024-08-29T16:00+02:00
   type: tournament
   location: pl
   description:
     en: >
       Americano tournament with prizes for: <br/>
-      - beginners (📊 level 0-1.7): 18:00-20:00 ⏰,<br/>
-      - intermediate (📊 level 1.5-3.7): 20:00-22:00 ⏰<br/><br/>
+      - beginners (📊 level 0-1.5): 18:00-20:00 ⏰,<br/>
+      - intermediate (📊 level 1.5-3.5): 20:00-22:00 ⏰<br/><br/>
       Don't miss this chance to compete! 💪<br/><br/>    
       To participate, sign up via Playtomic (Padel Lankwitz/Competitions). 📝
 - name: Smash & Grill 🍔🎾
