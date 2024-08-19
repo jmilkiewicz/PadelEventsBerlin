@@ -302,6 +302,16 @@
       🔥BBQ: Bring your own grill products! We bring Salads, Sauces and Bread <br/>    
       💰Price: 28€ - 2h Play, fresh Balls, BBQ, Sauces and Salads<br/><br/>
 
+- name: Morning Americano
+  id: morAmer
+  date: 2024-08-22
+  registration_till: 2024-08-21T10:00+02:00
+  type: tournament
+  location: tio
+  description:
+    en: >
+      The "Morning Americano Tournament" at TIO TIO is happening on Thursday, August 22, from 11 AM to 1 PM. <br/><br/> 
+      It's open to players with levels between 1.5 and 3.7. Sign up on Playtomic and join the fun!
 - name: Pádel Lankwitz Nox rackets testout
   id: noxtestout
   date: 2024-05-25
