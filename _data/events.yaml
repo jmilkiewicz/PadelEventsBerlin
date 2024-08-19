@@ -251,6 +251,17 @@
     en: >
       Gear up for the Saturday edition of the GPS Padel Tournament 250, a part of the German Padel Series, happening in Berlin at WAP!🏆🎉<br/><br/>
       Signup and more information in event details link. 📋🎫
+- name: GPS 250 Herren WAP Berlin Open
+  date: 2024-09-21
+  id: gps250wapMen2
+  registration_till: 2024-09-16T22:00+02:00
+  type: tournament
+  location: wap
+  link: https://rankedin.com/en/tournament/43159/gps-250-herren
+  description:
+    en: >
+      Gear up for another September edition of the GPS Padel Tournament 250, a part of the German Padel Series, happening in Berlin at WAP!🏆🎉<br/><br/>
+      Signup and more information in event details link. 📋🎫
 - name: GPS 250 Damen WAP Berlin Open
   date: 2024-08-31
   id: gps250wapWomen
@@ -272,6 +283,17 @@
   description:
     en: >
       Join us for the GPS 250 Padel Tournament for women, taking place in Berlin at WAP! 🏆🎉 🏆🎉<br/><br/>
+      Just a quick reminder: Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫
+- name: GPS 250 Damen WAP Berlin Open
+  date: 2024-09-22
+  id: gps250wapWomen2
+  registration_till: 2024-09-16T22:00+02:00
+  type: tournamentPl
+  location: wap
+  link: https://rankedin.com/en/tournament/43157/gps-250-damen
+  description:
+    en: >
+      Join us for another edition of the GPS 250 Padel Tournament for women, taking place in Berlin at WAP! 🏆🎉 🏆🎉<br/><br/>
       Just a quick reminder: Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫
 #- name: Hiring Trainers for 2024 Summer Season in Padel Lankwitz
 #  date: 2024-04-01
