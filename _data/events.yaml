@@ -342,6 +342,19 @@
       Enjoy world-class facilities including padel courts, tennis courts, a lagoon swimming pool, and more 🏊‍♂️🏖️.<br/><br/> 
       Special <a href="/assets/doc/Minerva Padel Clinic_Berlino2024.docx.pdf" target="_blank">discount code</a> for the Berlin padel community 🏨
   link: /assets/doc/A5_MInerva_PadelClinicWeek_rev02_ENG_rev01.pdf
+- name: KST Padel Final
+  id: kst
+  date: 2024-08-25
+  registration_till: 2024-08-25T18:00+02:00
+  type: other
+  location: tio
+  description:
+    en: >
+      🎾 KST Padel Final Day on Sunday August 25, 2024, is the ultimate event for padel enthusiasts!<br/><br/> 
+      Watch the finals of the KST League and KST Premier 🏆, test Babolat rackets 🎾, join in on skill challenges, free play and more!<br/> 
+      🎉 Enjoy a day filled with delicious drinks and barbecue 🍔, exciting raffles 🎁, and live streaming on YouTube 📺. Bring your family and friends for a fun-filled day at Tio Tio Social Sports in Berlin! 🇩🇪<br/><br/>
+      See the event details link ☝️ for the detailed schedule and all attractions.
+  link: /assets/doc/kts-final.jpg
 - name: Playtomic Level Evaluation 📈
   date: 2024-01-30
   id: levelEval
