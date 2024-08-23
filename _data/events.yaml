@@ -290,18 +290,6 @@
       Padel Lankwitz, in partnership with Nox, is hosting a Nox padel racket test event starting at 14:00, featuring Americano. It's the perfect opportunity to see these new rackets in action!<br/><br/>
       Signup for americano on playtomic.<br/>
       For further details and inquiries, please contact Eddie at +4915782304902.
-- name: Padel WeekEnd WAP BERLIN
-  id: weekendWAP
-  date: 2024-09-13
-  registration_till: 2024-09-13T16:00+02:00
-  type: course
-  location: wap
-  link: https://www.padelmatchevents.com/en/product-page/padel-weekend-berlin
-  description:
-    en: >    
-      PADEL MATCH presents a 3-day 'Padel WeekEnd' Clinic at We Are Padel Berlin, featuring a team of top coaches from Madrid, the world capital of Padel.<br/> 
-      Our 'train like a pro' methodology is tailored to players of all levels, from beginners to advanced.<br/>
-      Intrigued? Visit the event details link
 - name: CUPRA German Masters GPS 1200
   id: gps1200wap
   date: 2023-10-28
@@ -330,6 +318,18 @@
       📅Training will start on 5th September (4 days) or 7th September (3 days), depending on the course.<br/><br/>
       🌐 Explore the event page to unveil the comprehensive training plan, detailed schedule, and the skills, experiences, and enhancements you'll gain.<br/>
   link: https://www.manupadel.com/signups/
+- name: Padel Master Class WAP Berlin  🎾
+  id: manuSeptember
+  date: 2024-09-13
+  registration_till: 2024-09-12T22:00+02:00
+  type: course
+  location: wap
+  description:
+    en: >
+      🎾 Join the Padel Master Class in Berlin on September 13-15, 2024, for 575€, including 7 hours of padel, 3 hours of fitness training, 1 hour of recovery, and more.<br/>   
+      🌟 Led by top coaches Joël Losana Lopez and Riccardo Piras, this exclusive event has only 4 spots left!<br/>   
+      Use promo code MASTERCLASS0824 for a 50€ discount, valid until August 31st for PadelEventsBerlin users.
+  link: https://www.padelmatchevents.com/en/product-page/padel-weekend-berlin
 - name: Minerva Padel Clinic 2024 🎾
   id: minerva
   date: 2024-09-08
