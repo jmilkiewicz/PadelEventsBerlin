@@ -65,11 +65,11 @@
     en: >
       Golden court tournament for intermediate players on Sunday afternoon: 12:30-14:30<br/><br/>      
       To reserve your spot, contact Julian from WAP at (+49 176 68266671)
-- name: GPS 500 Teams (🧔‍/👩)
-  date: 2024-07-21
-  id: gps500mixed
-  registration_till: 2024-07-15T16:00+02:00
-  link: https://rankedin.com/en/tournament/41621/gps-500-mixed-wap-berlin
+- name: GPS 250 Teams (🧔‍/👩)
+  date: 2024-09-15
+  id: gps250mixed
+  registration_till: 2024-09-09T16:00+02:00
+  link: https://rankedin.com/en/tournament/43167/gps-250-mixed-wap-berlin
   type: tournament
   location: wap
   description:
