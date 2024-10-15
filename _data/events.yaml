@@ -251,19 +251,16 @@
 #      Padel Lankwitz, the exclusive padel destination in the south of Berlin, is excited to announce our search for passionate padel trainers for the upcoming 2024 summer season starting in April!🌞<br/><br/>
 #      This season, we're expanding our facility to include more courts, dedicating one almost exclusively for trainers. It's an incredible opportunity for trainers to join our mission in promoting padel and elevating the sport to unprecedented heights in Berlin. Whether you're an experienced trainer looking to make your mark or a padel enthusiast keen on developing your coaching skills, we invite you to be a part of our vibrant community.🤝<br/><br/>
 #      For more details, reach out to us at team@padellankwitz, ‭WhatsApp +49 30 77328905,‬ or contact Estani at +49 152 3404 3437.
-- name: Pádel Lankwitz Fiesta Friday
-  id: fiesta1
-  date: 2024-08-30
-  registration_till: 2024-08-29T16:00+02:00
+- name: Early bird Americano
+  id: earlyAmericano
+  date: 2024-10-18
+  registration_till: 2024-10-16T16:00+02:00
   type: tournament
-  location: pl
+  location: padelFC
   description:
     en: >
-      Americano tournament with prizes for: <br/>
-      - beginners (📊 level 0-1.5): 18:00-20:00 ⏰,<br/>
-      - intermediate (📊 level 1.5-3.5): 20:00-22:00 ⏰<br/><br/>
-      Don't miss this chance to compete! 💪<br/><br/>    
-      To participate, sign up via Playtomic (Padel Lankwitz/Competitions). 📝
+      Early bird Americano tournament lvl 2.0-3.5, 10:00-12:00<br/>            
+      📝Registrations via playtomic: PadelFC -> Competitions
 - name: Smash & Grill 🍔🎾
   id: smash
   date: 2024-08-18
