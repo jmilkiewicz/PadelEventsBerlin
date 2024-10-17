@@ -261,22 +261,19 @@
     en: >
       Early bird Americano tournament lvl 2.0-3.5, 10:00-12:00<br/>            
       📝Registrations via playtomic: PadelFC -> Competitions
-- name: Smash & Grill 🍔🎾
-  id: smash
-  date: 2024-08-18
-  registration_till: 2024-08-16T10:00+02:00
+- name: Slice & Dine 🍔🎾
+  id: sliceDine
+  date: 2024-11-03
+  registration_till: 2024-11-02T10:00+02:00
   type: tournament
-  location: tio
+  location: padelFC
+  link: https://lu.ma/13fk8ndc
   description:
     en: >
-      Time for Smash & Grill no.2 at TIOTIO. Join us for a Sunday afternoon filled with good vibes, chill matches, and delicious BBQ over the rooftops of Berlin.<br/>
-      
-      🏅Round 1: Intermediate Americano (4-6pm) <br/>
-      🏆 Round 2: Advanced Americano (6-8pm)<br/>
-      🎾Play: 2h of Americano + BBQ after<br/>
-      🔥BBQ: Bring your own grill products! We bring Salads, Sauces and Bread <br/>    
-      💰Price: 28€ - 2h Play, fresh Balls, BBQ, Sauces and Salads<br/><br/>
-
+      The "Slice & Dine" event combines tennis and a Latin American dinner featuring Lasagna Azteca, salad, and baguette, prepared by Cafe at Marla<br/>
+      Schedule:<br/> 
+      - Intermediate Low (1.5 - 2.5): 16:00-18:00<br/>
+      - Intermediate High (2.5 - 3.5): 18:00-20:00<br/><br/>
 - name: Morning Americano
   id: morAmer
   date: 2024-08-22
