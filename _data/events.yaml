@@ -264,6 +264,16 @@
       - lvl 📈 2.0-3.5  12:00-14:00 ⏰<br/>
       - lvl 📈 3.5 + 14:00-16:00 ⏰<br/><br/>                  
       📝Registrations via playtomic: PadelFC -> Competitions
+- name: Padel bundesliga in WAP
+  id: bundesliga
+  date: 2024-11-23
+  registration_till: 2024-11-24T16:00+02:00
+  type: other
+  location: wap
+  description:
+    en: >
+      Join us and cheer on the Berlin Men's Team as they compete in an exciting 2-day event at WAP!<br/>
+      Matches take place daily from 10:00 to 19:00 at WAP. <br/>Don't miss it! 📅🔥
 - name: Slice & Dine 🍔🎾
   id: sliceDine
   date: 2024-11-03
