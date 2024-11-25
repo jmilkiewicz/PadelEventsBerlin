@@ -1,6 +1,6 @@
 - name: Your Padel event 🫵
   id: yourOwnEvent
-  date: 2024-12-01
+  date: 2025-12-01
   type: other
   location: other
   link: /addEvent.html
@@ -272,8 +272,19 @@
   location: wap
   description:
     en: >
-      Join us and cheer on the Berlin Men's Team as they compete in an exciting 2-day event at WAP!<br/>
+      Join us and cheer on the Berlin Men's Team as they compete in an exciting 2-day event at WAP! <br/>
       Matches take place daily from 10:00 to 19:00 at WAP. <br/>Don't miss it! 📅🔥
+- name: Padel Campus Berlin
+  id: campus
+  date: 2025-01-17
+  registration_till: 2025-01-16T16:00+02:00
+  link: https://worldenjoyerpadel.com/evento/campus-padel-berlin/
+  type: course
+  location: wap
+  description:
+    en: >
+      The 2nd edition of Padel Campus Berlin returns from January 17 to 19, 2025, offering an 8-hour intensive course at We Are Padel Berlin. <br/>
+      This weekend event focuses on refining your technique, strategy, movement, and mental preparation, helping you build confidence for competitive play. 💪✨🏆
 - name: Slice & Dine 🍔🎾
   id: sliceDine
   date: 2024-11-03
