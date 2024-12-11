@@ -263,6 +263,22 @@
       - lvl 📈 0.5-2  10:00-12:00 ⏰<br/>
       - lvl 📈 2.0-3.5  12:00-14:00 ⏰<br/>                        
       📝Registrations via playtomic: PadelFC -> Competitions
+- name: Back In Shape Tournament
+  id: backInShape
+  date: 2025-01-11
+  link: https://forms.gle/Q3rQU5MkHrc2FJs98
+  registration_till: 2025-01-10T16:00+02:00
+  type: tournament
+  location: wap
+  description:
+    en: >
+      Padel Tournament in WAP:<br/>
+      - Open Group: 4 teams 🌟<br/>
+      - Women’s Group: 6 teams 💪<br/>
+      - Men’s Group: 4 teams 🏆<br/>
+      - 💰 Entry Fee: 60 EUR<br/><br/>
+
+      Includes: 3 matches 🎯, prizes 🏅, snacks 🥪, drinks 🥤, and a mini afterparty 🎉"
 - name: Padel bundesliga in WAP
   id: bundesliga
   date: 2024-11-23
