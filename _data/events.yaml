@@ -279,6 +279,22 @@
       - 💰 Entry Fee: 60 EUR<br/><br/>
 
       Includes: 3 matches 🎯, prizes 🏅, snacks 🥪, drinks 🥤, and a mini afterparty 🎉"
+
+- name: Valentine's Day Tournament 💕
+  id: valentine
+  date: 2025-02-15
+  link: https://forms.gle/7rJuUU8hgt3hvYfGA
+  registration_till: 2025-02-15T16:00+02:00
+  type: tournament
+  location: wap
+  description:
+    en: >
+      Special Valentine's-themed Padel event hosted by Padelista:<br/>
+      - Delicious snacks <br/>
+      - Trophies & exciting gifts for the winners <br/>
+      - Drinks & water <br/>      
+      - Professional photographer & stunning photos <br/>
+      - Entry Fee: €60 <br/><br/>
 - name: Padel bundesliga in WAP
   id: bundesliga
   date: 2024-11-23
