@@ -351,19 +351,32 @@
       Padel Lankwitz, in partnership with Nox, is hosting a Nox padel racket test event starting at 14:00, featuring Americano. It's the perfect opportunity to see these new rackets in action!<br/><br/>
       Signup for americano on playtomic.<br/>
       For further details and inquiries, please contact Eddie at +4915782304902.
-- name: CUPRA German Masters GPS 1200
-  id: gps1200wap
-  date: 2023-10-28
-  registration_till: 2023-10-28T22:00+02:00
+- name: Men GPS 250
+  id: gps250men
+  date: 2025-02-03
+  registration_till: 2025-01-31T22:00+02:00
   type: tournament
-  location: wap
-  link: https://rankedin.com/en/tournament/25454/cupra-german-masters-gps-1200-wap-berlin-damen-herren/draws/56100
+  location: padelFC
+  link: https://rankedin.com/en/tournament/48570/gps-250-herren-padel-fc
   description:
     en: >
-      Get your paddles ready because of CUPRA German Masters GPS 1200 in Berlin WAP 🏆🎉 <br/>
-      💰Total prize pool: 5000 €<br/>
-      See event details for more information.<br/>
-      ⚠️ Remember, only licensed players are eligible, so make sure you've got your license in hand! 📋🎫<br/>
+      GPS-level tournaments are coming to Padel FC! 🌟<br/>
+      Earn DPV ranking points in this official series by the German Padel Federation.<br/>
+      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+      Signup and more information in event details link.
+- name: Women GPS 250
+  id: gps250men
+  date: 2025-02-06
+  registration_till: 2025-01-31T22:00+02:00
+  type: tournament
+  location: padelFC
+  link: https://rankedin.com/en/tournament/48571/gps-250-damen-padel-fc
+  description:
+    en: >
+      GPS-level tournaments are coming to Padel FC! 🌟<br/>
+      Earn DPV ranking points in this official series by the German Padel Federation.<br/>      
+      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+      Signup and more information in event details link.
 - name: Padel Workshop by Manu Soler 🎾
   id: manuSeptember
   date: 2024-09-05
