@@ -364,6 +364,19 @@
       Earn DPV ranking points in this official series by the German Padel Federation.<br/>
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
+- name: Men GPS 250
+  id: gps250men
+  date: 2025-02-22
+  registration_till: 2025-02-17T22:00+02:00
+  type: tournament
+  location: WAP
+  link: https://rankedin.com/en/tournament/49472/gps-250-herren-wap-berlin
+  description:
+    en: >
+      GPS-level tournaments are back to WAP! 🌟<br/>
+      Earn DPV ranking points in this official series by the German Padel Federation.<br/>
+      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+      Signup and more information in event details link.
 - name: Women GPS 250
   id: gps250women
   date: 2025-02-06
