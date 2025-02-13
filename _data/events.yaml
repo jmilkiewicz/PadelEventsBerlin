@@ -355,18 +355,54 @@
       Padel Lankwitz, in partnership with Nox, is hosting a Nox padel racket test event starting at 14:00, featuring Americano. It's the perfect opportunity to see these new rackets in action!<br/><br/>
       Signup for americano on playtomic.<br/>
       For further details and inquiries, please contact Eddie at +4915782304902.
-- name: Men GPS 250
-  id: gps250men
-  date: 2025-02-03
-  registration_till: 2025-01-31T22:00+02:00
+- name: Men GPS 350 in PadelFC
+  id: gps350menPadelFC
+  date: 2025-03-24
+  registration_till: 2025-03-21T22:00+02:00
   type: tournament
   location: padelFC
-  link: https://rankedin.com/en/tournament/48570/gps-250-herren-padel-fc
+  link: https://rankedin.com/en/tournament/49748/gps-350-men-padel-fc-berlin
   description:
     en: >
-      GPS-level tournaments are coming to Padel FC! 🌟<br/>
+      GPS-350 level tournaments in Padel FC! 🌟<br/>
       Earn DPV ranking points in this official series by the German Padel Federation.<br/>
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+      Signup and more information in event details link.
+- name: Men GPS 350 in WAP
+  id: gps350menWAP
+  date: 2025-03-08
+  registration_till: 2025-03-03T22:00+02:00
+  type: tournament
+  location: WAP
+  link: https://rankedin.com/en/tournament/49781/gps-350-herren-wap-berlin
+  description:
+    en: >
+      GPS-350 level tournaments in WAP for Men 👨<br/>       
+      ⚠️ Participation is based on the total ranking points of the team – make sure to check your standings!<br/><br/>      
+      Signup and more information in event details link.
+- name: Women GPS 350 in WAP
+  id: gps350womenWAP
+  date: 2025-03-15
+  registration_till: 2025-03-10T22:00+02:00
+  type: tournament
+  location: WAP
+  link: https://rankedin.com/en/tournament/49785/gps-350-damen-wap-berlin
+  description:
+    en: >
+      GPS-350 level tournaments in WAP for Women 👩<br/>       
+      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>      
+      Signup and more information in event details link.
+- name: Man and Women GPS 100 in PadelFC
+  id: gps100
+  date: 2025-03-03
+  registration_till: 2025-02-28T22:00+02:00
+  type: tournament
+  location: padelFC
+  link: https://rankedin.com/en/tournament/49746/gps-100-men-women-padel-fc-berlin
+  description:
+    en: >    
+      Join the GPS100 (beginner level) Men's & Women's 6-Team Tournaments – separate competitions for men 👨 and women 👩!<br/>      
+      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>      
       Signup and more information in event details link.
 - name: Men GPS 250
   id: gps250men
