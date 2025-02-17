@@ -316,19 +316,20 @@
     en: >
       The 2nd edition of Padel Campus Berlin returns from January 17 to 19, 2025, offering an 8-hour intensive course at We Are Padel Berlin. <br/>
       This weekend event focuses on refining your technique, strategy, movement, and mental preparation, helping you build confidence for competitive play. 💪✨🏆
-- name: Slice & Dine 🍔🎾
-  id: sliceDine
-  date: 2024-11-03
-  registration_till: 2024-11-02T10:00+02:00
+- name: Slice & Slices 🍕🎾
+  id: sliceSlices
+  date: 2025-02-03
+  registration_till: 2025-02-26T10:00+02:00
   type: tournament
   location: padelFC
-  link: https://lu.ma/13fk8ndc
+  link: https://padel-tournament.com/en/tournament/9fd755cb-419a-4654-8b91-8d4123c65473
   description:
     en: >
-      The "Slice & Dine" event combines tennis and a Latin American dinner featuring Lasagna Azteca, salad, and baguette, prepared by Cafe at Marla<br/>
-      Schedule:<br/> 
-      - Intermediate Low (1.5 - 2.5): 16:00-18:00<br/>
-      - Intermediate High (2.5 - 3.5): 18:00-20:00<br/><br/>
+      Enjoy two hours of Padel:<br/>
+      - beginners (lvl 1-2) (4:00-6:00 PM) with Golden Court <br/>
+      - intermediate (lvl 2.5-3.5) (6:00-8:00 PM) with Team Americano <br/><br/>
+      
+      All followed by a relaxed sit-down with delicious pizza included. Don’t miss out on fun matches, great company, and tasty slices 🍕!
 - name: Morning Americano
   id: morAmer
   date: 2025-02-21
