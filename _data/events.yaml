@@ -31,19 +31,22 @@
       <br/><br/>
       📅 With limited spots available, aspiring coaches are encouraged to secure their spot soon.<br/> 
       🔒 For further details and registration, click on event details link.🌟
-- name: Blossom Padel Cup
-  date: 2025-03-22
-  id: blossom
-  registration_till: 2025-03-21T12:00+02:00
-  link: https://forms.gle/V56NQbmz6zev6zse6
+- name: Court Collective Open #1
+  date: 2025-04-12
+  id: collective1
+  registration_till: 2025-04-11T12:00+02:00
+  link: https://lu.ma/crtcollectiveopen1
   type: tournament
-  location: wap
+  location: padelFC
   description:
     en: >
-      With spring in full swing, it's the perfect moment to hit the courts with enthusiasm! 🌿🎾 <br/>
-      Get ready for a great day of padel, fun, and friendly competition at the Blossom Padel Cup 2025 in Berlin. 🌸🏆<br/> 
-      Whether you're in it to win or just playing for the love of the game, this tournament is for you! 💪😃<br/><br/>      
-      Signup and more information in event details link.
+      Berlin’s padel scene is heating up! On April 12, 2025, Padel FC Berlin will host an electrifying tournament where 16 top teams battle for glory!<br/><br/>
+      🏆 Two competitive brackets – matched to your skill level<br/>
+      🎤 Live commentary & music – feel the energy<br/>
+      ⚡ Fast-paced action – group stages, semifinals & finals<br/>
+      👥 Limited spots – secure yours now!<br/><br/>
+      
+      To register click on event details
 - name: Golden Court Beginners 🎾
   date: 2024-08-17
   id: gold1
