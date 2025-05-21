@@ -105,30 +105,31 @@
       Join us on September 7th for the Americano Tournament Tropical 🌴 Padel Event. <br> Featuring mixed Americano (🧔‍/👩) tournaments for all skill levels, 
       exciting prizes, and fun activities including a costume contest, raffle, and flea market. <br/><br/> 
       Enjoy a day of padel, delicious breakfast, and tropical vibes starting at 9:00 am.
-- name: GPS 250 Teams (🧔‍/👩)
-  date: 2024-03-30
-  id: gps250mixed
-  registration_till: 2024-03-25T22:00+02:00
-  link: https://rankedin.com/en/tournament/37335/gps-250-mixed-wap-berlin
-  type: tournament
-  location: wap
-  description:
-    en: >
-      GPS level tournament for mixed teams(♂️ and ♀️) on Saturday evening.<br/>
-      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
-      Signup and more information in event details link.
-- name: GPS 500 Woman Edition 👩
-  date: 2025-04-19
-  id: gps500Women
-  registration_till: 2025-04-14T22:00+02:00
-  link: https://rankedin.com/en/tournament/50590/gps-500-damen-padel-fc-berlin
+- name: GPS 350 Teams (🧔‍/👩)
+  date: 2025-05-31
+  id: gps350mixed
+  registration_till: 2025-05-26T22:00+02:00
+  link: https://rankedin.com/en/tournament/52751/cupra-gps-350-mixed-padel-fc-berlin
   type: tournament
   location: padelFC
   description:
     en: >
-      GPS 500 Padel Tournament in Berlin, where you'll have the chance to compete at a higher level.<br/>       
-      With top-tier players and intense matches guaranteed, secure your place now to be part of this prestigious tournament.<br/><br/>          
+      GPS level tournament for mixed teams(♂️ and ♀️) on Sunday evening.<br/>
+      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
+- name: GPS 500 Woman Edition 👩
+  date: 2025-06-01
+  id: gps500Women
+  registration_till: 2025-05-26T22:00+02:00
+  link: https://rankedin.com/en/tournament/53127/cupra-gps-500-damen-wap-berlin
+  type: tournament
+  location: wap
+  description:
+    en: >
+      Join the GPS 500 Women’s Padel Tournament in Berlin on Monday evening for a chance to compete at a higher level.<br/>
+      This women-only event promises top-tier competition and thrilling matches—don’t miss your opportunity to be part of this prestigious tournament.<br/>.<br/>
+
+      Click the event details link to sign up and learn more.
 - name: GPS 500 Mixed Edition 👩🧔
   date: 2024-07-21
   id: gps500Mixed
