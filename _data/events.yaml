@@ -166,6 +166,20 @@
       GPS level 500 tournament for women ♀️ on Sunday afternoon.<br/>
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
+
+- name: GPS 500 Men 🧔
+  date: 2025-06-15
+  id: gps500Men
+  registration_till: 2025-06-09T22:00+02:00
+  link: https://rankedin.com/en/tournament/53816/cupra-gps-500-herren-wap-berlin
+  type: tournament
+  location: wap
+  description:
+    en: >
+      GPS level 500 tournament for men️ on Sunday afternoon in WAP<br/>
+      This time a chance to compete to compete at a higher level.<br/><br/>
+      
+      Signup and more information in event details link.
 - name: GPS 100 (Beginners) Herren WAP Berlin Open
   date: 2024-07-06
   id: gps100mwap1
@@ -259,6 +273,7 @@
 
 - name: Pádel Lankwitz Americano Friday
   date: 2025-05-30
+  id: amerLankwitz
   registration_till: 2025-05-30T14:00+02:00
   type: tournament
   location: pl
@@ -376,11 +391,11 @@
       For further details and inquiries, please contact Eddie at +4915782304902.
 - name: Men GPS 350 in PadelFC
   id: gps350menPadelFC
-  date: 2025-04-20
-  registration_till: 2025-04-14T22:00+02:00
+  date: 2025-06-02
+  registration_till: 2025-05-30T22:00+02:00
   type: tournament
   location: padelFC
-  link: https://rankedin.com/en/tournament/50591/gps-350-herren-padel-fc-berlin
+  link: https://rankedin.com/en/tournament/53619/cupra-gps-350-herren-padel-fc-berlin
   description:
     en: >
       GPS-350 level tournaments in Padel FC! 🌟<br/>
@@ -399,29 +414,29 @@
       GPS-350 level tournaments in WAP for Men 👨<br/>       
       ⚠️ Participation is based on the total ranking points of the team – make sure to check your standings!<br/><br/>      
       Signup and more information in event details link.
-- name: Women GPS 350 in WAP
+- name: Women GPS 350 in PadelFC
   id: gps350womenWAP
-  date: 2025-03-15
-  registration_till: 2025-03-10T22:00+02:00
+  date: 2025-06-05
+  registration_till: 2025-05-30T22:00+02:00
   type: tournament
-  location: WAP
-  link: https://rankedin.com/en/tournament/49785/gps-350-damen-wap-berlin
+  location: padelFC
+  link: https://rankedin.com/en/tournament/53620/cupra-gps-350-damen-padel-fc-berlin
   description:
     en: >
       GPS-350 level tournaments in WAP for Women 👩<br/>       
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>      
       Signup and more information in event details link.
-- name: Man and Women GPS 100 in PadelFC
+- name: Men GPS 100 in PadelFC
   id: gps100
-  date: 2025-04-26
-  registration_till: 2025-04-21T22:00+02:00
+  date: 2025-06-12
+  registration_till: 2025-06-06T22:00+02:00
   type: tournament
   location: padelFC
-  link: https://rankedin.com/en/tournament/49746/gps-100-men-women-padel-fc-berlin
+  link: https://rankedin.com/en/tournament/53621/cupra-gps-100-herren-padel-fc-berlin
   description:
     en: >    
-      Join the GPS100 (beginner level) Men's & Women's 6-Team Tournaments – separate competitions for men 👨 and women 👩!<br/>      
-      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>      
+      Join the GPS100 (beginner level) Men's Tournaments - the best way to start earning your DPV points!<br/><br/>      
+      
       Signup and more information in event details link.
 - name: Men GPS 250
   id: gps250men
