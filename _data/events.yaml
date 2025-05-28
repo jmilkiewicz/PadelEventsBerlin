@@ -526,8 +526,21 @@
       Join for an exciting week of training at Padel FC from September 23-27, 
       where coach Pablo Pablo Franco Duran will help elevate your game! 
       Enjoy 2 hours of top-level training each day with flexible booking options and the chance for private lessons <br/><br/>          
-      📝Registrations via playtomic: PadelFC -> Academy -> Courses   
-
+      📝Registrations via playtomic: PadelFC -> Academy -> Courses
+- name: Smash & Grill
+  id: smashGrill
+  date: 2025-06-08
+  registration_till: 2025-06-07T10:00+02:00
+  type: tournament
+  location: tio
+  link: https://www.outbyfour.de/products/smash-grill-no-3
+  description:
+    en: >
+      Smash & Grill Americano tournament.<br/>
+      Schedule:<br/> 
+      - Intermediate Low (1.5 - 2.5): 16:00-18:00<br/>
+      - Intermediate High (2.5 - 3.5): 18:00-20:00<br/><br/>
+      Enjoy two hours of Padel and BBQ afterwards
 - name: WAP League
   id: wapLeague
   date: 2024-09-29
