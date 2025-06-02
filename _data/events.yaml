@@ -117,17 +117,17 @@
       GPS level tournament for mixed teams(♂️ and ♀️) on Saturday evening.<br/>
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
-- name: GPS 500 Women Edition 👩
-  date: 2025-06-01
+- name: CUPRA GPS 500 Women Edition 👩
+  date: 2025-06-22
   id: gps500Women
-  registration_till: 2025-05-26T22:00+02:00
-  link: https://rankedin.com/en/tournament/53127/cupra-gps-500-damen-wap-berlin
+  registration_till: 2025-06-16T22:00+02:00
+  link: https://rankedin.com/en/tournament/53752/cupra-gps-500-damen-padel-fc-berlin
   type: tournament
-  location: wap
+  location: padelFC
   description:
     en: >
       Join the GPS 500 Women’s Padel Tournament in Berlin on Sunday evening for a chance to compete at a higher level.<br/>
-      This women-only event promises top-tier competition and thrilling matches—don’t miss your opportunity to be part of this prestigious tournament.<br/>.<br/>
+      This women-only event promises top-tier competition and thrilling matches—don’t miss your opportunity to be part of this prestigious tournament.<br/><br/>
 
       Click the event details link to sign up and learn more.
 - name: GPS 500 Mixed Edition 👩🧔
@@ -142,16 +142,16 @@
       The GPS 500 Padel Tournament in Berlin offers women the opportunity to compete at an elevated level.<br/>       
       With top-tier players and intense matches assured, we encourage you to secure your place now to partake in this prestigious tournament.<br/><br/>       
       Sign up and find more information at the event details link.
-- name: GPS 100 (Beginners) Women Edition 👩
-  date: 2024-07-07
+- name: CUPRA GPS 100 (Beginners) Women Edition 👩
+  date: 2025-06-26
   id: gps100Women
-  registration_till: 2024-07-01T22:00+02:00
+  registration_till: 2025-06-20T22:00+02:00
   link: https://rankedin.com/en/tournament/41617/gps-100-damen-wap-berlin
   type: tournament
-  location: wap
+  location: padelFC
   description:
     en: >
-      GPS level 100 (beginners) tournament for women ♀ on Sunday evening.<br/>
+      GPS level 100 (beginners) tournament for women ♀ on Thursday  evening.<br/>
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
 - name: GPS 500 Women 👩
@@ -426,7 +426,7 @@
       GPS-350 level tournaments in WAP for Women 👩<br/>       
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>      
       Signup and more information in event details link.
-- name: GPS 100 Men 🧔
+- name: CUPRA GPS 100 (Beginners) Men Edition 🧔
   id: gps100
   date: 2025-06-12
   registration_till: 2025-06-06T22:00+02:00
