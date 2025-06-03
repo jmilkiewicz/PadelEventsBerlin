@@ -130,23 +130,24 @@
       This women-only event promises top-tier competition and thrilling matches—don’t miss your opportunity to be part of this prestigious tournament.<br/><br/>
 
       Click the event details link to sign up and learn more.
-- name: GPS 500 Mixed Edition 👩🧔
-  date: 2024-07-21
+- name: CUPRA GPS 500 Mixed Edition 👩🧔
+  date: 2025-07-13
   id: gps500Mixed
-  registration_till: 2024-06-24T22:00+02:00
-  link: https://rankedin.com/en/tournament/41621/gps-500-mixed-wap-berlin
+  registration_till: 2025-07-07T22:00+02:00
+  link: https://rankedin.com/en/tournament/53754/cupra-gps-500-mixed-padel-fc-berlin
   type: tournament
-  location: wap
+  location: padelFC
   description:
     en: >
-      The GPS 500 Padel Tournament in Berlin offers women the opportunity to compete at an elevated level.<br/>       
-      With top-tier players and intense matches assured, we encourage you to secure your place now to partake in this prestigious tournament.<br/><br/>       
-      Sign up and find more information at the event details link.
+      The GPS 500 Padel Tournament in Berlin is open to mixed teams — one woman and one man per team — competing at a strong level.<br/>
+      Join other skilled players and sign up now to take part.<br/><br/>
+
+      Find all details and registration info at the event link.
 - name: CUPRA GPS 100 (Beginners) Women Edition 👩
   date: 2025-06-26
   id: gps100Women
   registration_till: 2025-06-20T22:00+02:00
-  link: https://rankedin.com/en/tournament/41617/gps-100-damen-wap-berlin
+  link: https://rankedin.com/en/tournament/53623/cupra-gps-100-damen-padel-fc-berlin
   type: tournament
   location: padelFC
   description:
@@ -167,7 +168,7 @@
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
 
-- name: GPS 500 Men 🧔
+- name: CUPRA GPS 500 Men 🧔
   date: 2025-06-15
   id: gps500Men
   registration_till: 2025-06-09T22:00+02:00
@@ -389,17 +390,17 @@
       Padel Lankwitz, in partnership with Nox, is hosting a Nox padel racket test event starting at 14:00, featuring Americano. It's the perfect opportunity to see these new rackets in action!<br/><br/>
       Signup for americano on playtomic.<br/>
       For further details and inquiries, please contact Eddie at +4915782304902.
-- name: GPS 350 Men 👨
+- name: CUPRA GPS 350 Men 👨
   id: gps350menPadelFC
-  date: 2025-06-02
-  registration_till: 2025-05-30T22:00+02:00
+  date: 2025-07-05
+  registration_till: 2025-06-30T22:00+02:00
   type: tournament
   location: padelFC
-  link: https://rankedin.com/en/tournament/53619/cupra-gps-350-herren-padel-fc-berlin
+  link: https://rankedin.com/en/tournament/53751/cupra-gps-350-herren-padel-fc-berlin
   description:
     en: >
-      GPS-350 level tournaments in Padel FC! 🌟<br/>
-      Earn DPV ranking points in this official series by the German Padel Federation.<br/>
+      Earn your tour DPV points and soak up the tournament atmosphere at Padel FC.
+      A great chance for you and your partner to gain experience and battle it out on court.<br/>
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
 - name: Men GPS 350 in WAP
