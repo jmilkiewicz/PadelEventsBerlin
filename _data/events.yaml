@@ -17,58 +17,58 @@
       <br/><br/>
       Lass es uns zusammen realisieren! Ich stehe dir zur Seite, um deine Veranstaltung zu bewerben. 🚀<br/>
       Klicke auf den Link für die Veranstaltungsdetails ☝️, fülle das Formular aus, und voilà!
-- name: Padel Coach category C training.
-  id: coach_c
-  date: 2024-06-08
-  registration_till: 2024-05-22T20:00+02:00
-  type: course
-  location: padelFC
-  link: https://www.dpv-padel.de/trainerausbildung/
-  description:
-    en: >
-      Join the Deutscher Padel Verband (DPV) in Berlin on June 8-9 for an exciting opportunity to kickstart your journey as a padel coach! 🎾<br/><br/>
-      Hosted at PadelFC, this training program offers a comprehensive curriculum designed to equip participants with the skills and knowledge needed to excel in coaching padel.
-      <br/><br/>
-      📅 With limited spots available, aspiring coaches are encouraged to secure their spot soon.<br/> 
-      🔒 For further details and registration, click on event details link.🌟
-- name: Court Collective Open #1
-  date: 2025-04-12
-  id: collective1
-  registration_till: 2025-04-11T12:00+02:00
-  link: https://lu.ma/crtcollectiveopen1
-  type: tournament
-  location: padelFC
-  description:
-    en: >
-      Berlin’s padel scene is heating up! On April 12, 2025, Padel FC Berlin will host an electrifying tournament where 16 top teams battle for glory!<br/><br/>
-      🏆 Two competitive brackets – matched to your skill level<br/>
-      🎤 Live commentary & music – feel the energy<br/>
-      ⚡ Fast-paced action – group stages, semifinals & finals<br/>
-      👥 Limited spots – secure yours now!<br/><br/>
-      
-      👀 Want to watch the action live?
-      <a href="https://lu.ma/zuschauer-crtcollectiveopen1">Spectator registration</a><br/><br/>
-      🎟️ Player registration in event link
-- name: Golden Court Beginners 🎾
-  date: 2024-08-17
-  id: gold1
-  registration_till: 2024-08-16T20:00+02:00
-  type: tournament
-  location: wap
-  description:
-    en: >
-      Golden court tournament for beginner players on Saturday afternoon: 12:30-14:30<br/><br/>      
-      To reserve your spot, contact Julian from WAP at (+49 176 68266671)
-- name: Golden Court Intermediate 🎾
-  date: 2024-08-18
-  id: gold2
-  registration_till: 2024-08-17T20:00+02:00
-  type: tournament
-  location: wap
-  description:
-    en: >
-      Golden court tournament for intermediate players on Sunday afternoon: 12:30-14:30<br/><br/>      
-      To reserve your spot, contact Julian from WAP at (+49 176 68266671)
+#- name: Padel Coach category C training.
+#  id: coach_c
+#  date: 2024-06-08
+#  registration_till: 2024-05-22T20:00+02:00
+#  type: course
+#  location: padelFC
+#  link: https://www.dpv-padel.de/trainerausbildung/
+#  description:
+#    en: >
+#      Join the Deutscher Padel Verband (DPV) in Berlin on June 8-9 for an exciting opportunity to kickstart your journey as a padel coach! 🎾<br/><br/>
+#      Hosted at PadelFC, this training program offers a comprehensive curriculum designed to equip participants with the skills and knowledge needed to excel in coaching padel.
+#      <br/><br/>
+#      📅 With limited spots available, aspiring coaches are encouraged to secure their spot soon.<br/>
+#      🔒 For further details and registration, click on event details link.🌟
+#- name: Court Collective Open #1
+#  date: 2025-04-12
+#  id: collective1
+#  registration_till: 2025-04-11T12:00+02:00
+#  link: https://lu.ma/crtcollectiveopen1
+#  type: tournament
+#  location: padelFC
+#  description:
+#    en: >
+#      Berlin’s padel scene is heating up! On April 12, 2025, Padel FC Berlin will host an electrifying tournament where 16 top teams battle for glory!<br/><br/>
+#      🏆 Two competitive brackets – matched to your skill level<br/>
+#      🎤 Live commentary & music – feel the energy<br/>
+#      ⚡ Fast-paced action – group stages, semifinals & finals<br/>
+#      👥 Limited spots – secure yours now!<br/><br/>
+#
+#      👀 Want to watch the action live?
+#      <a href="https://lu.ma/zuschauer-crtcollectiveopen1">Spectator registration</a><br/><br/>
+#      🎟️ Player registration in event link
+#- name: Golden Court Beginners 🎾
+#  date: 2024-08-17
+#  id: gold1
+#  registration_till: 2024-08-16T20:00+02:00
+#  type: tournament
+#  location: wap
+#  description:
+#    en: >
+#      Golden court tournament for beginner players on Saturday afternoon: 12:30-14:30<br/><br/>
+#      To reserve your spot, contact Julian from WAP at (+49 176 68266671)
+#- name: Golden Court Intermediate 🎾
+#  date: 2024-08-18
+#  id: gold2
+#  registration_till: 2024-08-17T20:00+02:00
+#  type: tournament
+#  location: wap
+#  description:
+#    en: >
+#      Golden court tournament for intermediate players on Sunday afternoon: 12:30-14:30<br/><br/>
+#      To reserve your spot, contact Julian from WAP at (+49 176 68266671)
 - name: GPS 350 Teams (🧔‍/👩)
   date: 2025-08-30
   id: gps350mixed
@@ -92,173 +92,115 @@
     en: >
       🚀 Smash & Share brings founders together for padel, drinks, and real conversations about the wins, roadblocks, and energy it takes to build for the long haul. 🎾🥂💡<br/> 
       Come for the game, stay for the circle of builders who truly get the journey.
-- name: Tropical Padel Event 🌴
-  date: 2024-09-07
-  id: tropicalPadelEvent
-  registration_till: 2024-09-06T16:00+02:00
-  link: https://project9857215.tilda.ws/
-  type: tournament
-  location: wap
-  description:
-    en: >
-      Join us on September 7th for the Americano Tournament Tropical 🌴 Padel Event. <br> Featuring mixed Americano (🧔‍/👩) tournaments for all skill levels, 
-      exciting prizes, and fun activities including a costume contest, raffle, and flea market. <br/><br/> 
-      Enjoy a day of padel, delicious breakfast, and tropical vibes starting at 9:00 am.
-- name: GPS 350 Teams (🧔‍/👩)
-  date: 2025-05-31
-  id: gps350mixed
-  registration_till: 2025-05-26T22:00+02:00
-  link: https://rankedin.com/en/tournament/52751/cupra-gps-350-mixed-padel-fc-berlin
-  type: tournament
-  location: padelFC
-  description:
-    en: >
-      GPS level tournament for mixed teams(♂️ and ♀️) on Saturday evening.<br/>
-      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
-      Signup and more information in event details link.
-- name: CUPRA GPS 500 Women Edition 👩
-  date: 2025-06-22
-  id: gps500Women
-  registration_till: 2025-06-16T22:00+02:00
-  link: https://rankedin.com/en/tournament/53752/cupra-gps-500-damen-padel-fc-berlin
-  type: tournament
-  location: padelFC
-  description:
-    en: >
-      Join the GPS 500 Women’s Padel Tournament in Berlin on Sunday evening for a chance to compete at a higher level.<br/>
-      This women-only event promises top-tier competition and thrilling matches—don’t miss your opportunity to be part of this prestigious tournament.<br/><br/>
+#- name: Tropical Padel Event 🌴
+#  date: 2024-09-07
+#  id: tropicalPadelEvent
+#  registration_till: 2024-09-06T16:00+02:00
+#  link: https://project9857215.tilda.ws/
+#  type: tournament
+#  location: wap
+#  description:
+#    en: >
+#      Join us on September 7th for the Americano Tournament Tropical 🌴 Padel Event. <br> Featuring mixed Americano (🧔‍/👩) tournaments for all skill levels,
+#      exciting prizes, and fun activities including a costume contest, raffle, and flea market. <br/><br/>
+#      Enjoy a day of padel, delicious breakfast, and tropical vibes starting at 9:00 am.
+#- name: CUPRA GPS 500 Women Edition 👩
+#  date: 2025-06-22
+#  id: gps500Women
+#  registration_till: 2025-06-16T22:00+02:00
+#  link: https://rankedin.com/en/tournament/53752/cupra-gps-500-damen-padel-fc-berlin
+#  type: tournament
+#  location: padelFC
+#  description:
+#    en: >
+#      Join the GPS 500 Women’s Padel Tournament in Berlin on Sunday evening for a chance to compete at a higher level.<br/>
+#      This women-only event promises top-tier competition and thrilling matches—don’t miss your opportunity to be part of this prestigious tournament.<br/><br/>
+#
+#      Click the event details link to sign up and learn more.
+#- name: CUPRA GPS 500 Mixed Edition 👩🧔
+#  date: 2025-07-13
+#  id: gps500Mixed
+#  registration_till: 2025-07-07T22:00+02:00
+#  link: https://rankedin.com/en/tournament/53754/cupra-gps-500-mixed-padel-fc-berlin
+#  type: tournament
+#  location: padelFC
+#  description:
+#    en: >
+#      The GPS 500 Padel Tournament in Berlin is open to mixed teams — one woman and one man per team — competing at a strong level.<br/>
+#      Join other skilled players and sign up now to take part.<br/><br/>
+#
+#      Find all details and registration info at the event link.
+#- name: CUPRA GPS 100 (Beginners) Women Edition 👩
+#  date: 2025-06-26
+#  id: gps100Women
+#  registration_till: 2025-06-20T22:00+02:00
+#  link: https://rankedin.com/en/tournament/53623/cupra-gps-100-damen-padel-fc-berlin
+#  type: tournament
+#  location: padelFC
+#  description:
+#    en: >
+#      GPS level 100 (beginners) tournament for women ♀ on Thursday  evening.<br/>
+#      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+#      Signup and more information in event details link.
+#- name: GPS 500 Women 👩
+#  date: 2024-10-13
+#  id: gps500Women
+#  registration_till: 2024-10-07T22:00+02:00
+#  link: https://rankedin.com/en/tournament/43161/gps-500-damen-wap-berlin
+#  type: tournament
+#  location: wap
+#  description:
+#    en: >
+#      GPS level 500 tournament for women ♀️ on Sunday afternoon.<br/>
+#      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+#      Signup and more information in event details link.
 
-      Click the event details link to sign up and learn more.
-- name: CUPRA GPS 500 Mixed Edition 👩🧔
-  date: 2025-07-13
-  id: gps500Mixed
-  registration_till: 2025-07-07T22:00+02:00
-  link: https://rankedin.com/en/tournament/53754/cupra-gps-500-mixed-padel-fc-berlin
-  type: tournament
-  location: padelFC
-  description:
-    en: >
-      The GPS 500 Padel Tournament in Berlin is open to mixed teams — one woman and one man per team — competing at a strong level.<br/>
-      Join other skilled players and sign up now to take part.<br/><br/>
-
-      Find all details and registration info at the event link.
-- name: CUPRA GPS 100 (Beginners) Women Edition 👩
-  date: 2025-06-26
-  id: gps100Women
-  registration_till: 2025-06-20T22:00+02:00
-  link: https://rankedin.com/en/tournament/53623/cupra-gps-100-damen-padel-fc-berlin
-  type: tournament
-  location: padelFC
-  description:
-    en: >
-      GPS level 100 (beginners) tournament for women ♀ on Thursday  evening.<br/>
-      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
-      Signup and more information in event details link.
-- name: GPS 500 Women 👩
-  date: 2024-10-13
-  id: gps500Women
-  registration_till: 2024-10-07T22:00+02:00
-  link: https://rankedin.com/en/tournament/43161/gps-500-damen-wap-berlin
-  type: tournament
-  location: wap
-  description:
-    en: >
-      GPS level 500 tournament for women ♀️ on Sunday afternoon.<br/>
-      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
-      Signup and more information in event details link.
-
-- name: CUPRA GPS 500 Men 🧔
-  date: 2025-06-15
-  id: gps500Men
-  registration_till: 2025-06-09T22:00+02:00
-  link: https://rankedin.com/en/tournament/53816/cupra-gps-500-herren-wap-berlin
-  type: tournament
-  location: wap
-  description:
-    en: >
-      GPS level 500 tournament for men️ on Sunday afternoon in WAP<br/>
-      This time a chance to compete to compete at a higher level.<br/><br/>
-      
-      Signup and more information in event details link.
-- name: GPS 100 (Beginners) Herren WAP Berlin Open
-  date: 2024-07-06
-  id: gps100mwap1
-  registration_till: 2024-07-01T22:00+02:00
-  type: tournament
-  location: wap
-  link: https://rankedin.com/en/tournament/41616/gps-100-herren-wap-berlin
-  description:
-    en: >
-      Get ready for the July, GPS Padel Tournament (part of the German Padel Series) for beginners in Berlin WAP! 🏆🎉<br/>
-      This round, we encourage less experienced players to join and showcase their skills.<br/>
-      Participation is open exclusively to licensed players, so make sure you have your license ready!📋🎫<br/><br/>      
-      Signup and more information in event details link.
-- name: GPS 250 Herren WAP Berlin Open
-  date: 2024-08-24
-  id: gps250wapMen
-  registration_till: 2024-08-19T22:00+02:00
-  type: tournament
-  location: wap
-  link: https://rankedin.com/en/tournament/42616/gps-250-herren-wap-berlin
-  description:
-    en: >
-      Gear up for the Saturday edition of the GPS Padel Tournament 250, a part of the German Padel Series, happening in Berlin at WAP!🏆🎉<br/><br/>
-      Signup and more information in event details link. 📋🎫
-- name: GPS 250 Herren WAP Berlin Open
-  date: 2024-09-07
-  id: gps250wapMen2
-  registration_till: 2024-09-02T22:00+02:00
-  type: tournament
-  location: wap
-  link: https://rankedin.com/en/tournament/43155/gps-250-herren
-  description:
-    en: >
-      Gear up for the Saturday edition of the GPS Padel Tournament 250, a part of the German Padel Series, happening in Berlin at WAP!🏆🎉<br/><br/>
-      Signup and more information in event details link. 📋🎫
-- name: GPS 250 Herren WAP Berlin Open
-  date: 2024-09-21
-  id: gps250wapMen2
-  registration_till: 2024-09-16T22:00+02:00
-  type: tournament
-  location: wap
-  link: https://rankedin.com/en/tournament/43159/gps-250-herren
-  description:
-    en: >
-      Gear up for another September edition of the GPS Padel Tournament 250, a part of the German Padel Series, happening in Berlin at WAP!🏆🎉<br/><br/>
-      Signup and more information in event details link. 📋🎫
-- name: GPS 250 Damen WAP Berlin Open
-  date: 2024-08-31
-  id: gps250wapWomen
-  registration_till: 2024-08-26T22:00+02:00
-  type: tournament
-  location: wap
-  link: https://rankedin.com/en/tournament/42615/gps-250-damen-wap-berlin
-  description:
-    en: >
-      Join us for the GPS 250 Padel Tournament for women, taking place in Berlin at WAP! 🏆🎉 🏆🎉<br/><br/>
-      Just a quick reminder: Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫
-- name: GPS 250 Damen WAP Berlin Open
-  date: 2024-09-08
-  id: gps250wapWomen
-  registration_till: 2024-09-02T22:00+02:00
-  type: tournament
-  location: wap
-  link: https://rankedin.com/en/tournament/43156/gps-250-damen
-  description:
-    en: >
-      Join us for the GPS 250 Padel Tournament for women, taking place in Berlin at WAP! 🏆🎉 🏆🎉<br/><br/>
-      Just a quick reminder: Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫
-- name: GPS 250 Damen WAP Berlin Open
-  date: 2024-09-22
-  id: gps250wapWomen2
-  registration_till: 2024-09-16T22:00+02:00
-  type: tournament
-  location: wap
-  link: https://rankedin.com/en/tournament/43157/gps-250-damen
-  description:
-    en: >
-      Join us for another edition of the GPS 250 Padel Tournament for women, taking place in Berlin at WAP! 🏆🎉 🏆🎉<br/><br/>
-      Just a quick reminder: Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫
+#- name: CUPRA GPS 500 Men 🧔
+#  date: 2025-06-15
+#  id: gps500Men
+#  registration_till: 2025-06-09T22:00+02:00
+#  link: https://rankedin.com/en/tournament/53816/cupra-gps-500-herren-wap-berlin
+#  type: tournament
+#  location: wap
+#  description:
+#    en: >
+#      GPS level 500 tournament for men️ on Sunday afternoon in WAP<br/>
+#      This time a chance to compete to compete at a higher level.<br/><br/>
+#
+#      Signup and more information in event details link.
+#- name: GPS 250 Herren WAP Berlin Open
+#  date: 2024-08-24
+#  id: gps250wapMen
+#  registration_till: 2024-08-19T22:00+02:00
+#  type: tournament
+#  location: wap
+#  link: https://rankedin.com/en/tournament/42616/gps-250-herren-wap-berlin
+#  description:
+#    en: >
+#      Gear up for the Saturday edition of the GPS Padel Tournament 250, a part of the German Padel Series, happening in Berlin at WAP!🏆🎉<br/><br/>
+#      Signup and more information in event details link. 📋🎫
+#- name: GPS 250 Herren WAP Berlin Open
+#  date: 2024-09-21
+#  id: gps250wapMen2
+#  registration_till: 2024-09-16T22:00+02:00
+#  type: tournament
+#  location: wap
+#  link: https://rankedin.com/en/tournament/43159/gps-250-herren
+#  description:
+#    en: >
+#      Gear up for another September edition of the GPS Padel Tournament 250, a part of the German Padel Series, happening in Berlin at WAP!🏆🎉<br/><br/>
+#      Signup and more information in event details link. 📋🎫
+#- name: GPS 250 Damen WAP Berlin Open
+#  date: 2024-08-31
+#  id: gps250wapWomen
+#  registration_till: 2024-08-26T22:00+02:00
+#  type: tournament
+#  location: wap
+#  link: https://rankedin.com/en/tournament/42615/gps-250-damen-wap-berlin
+#  description:
+#    en: >
+#      Join us for the GPS 250 Padel Tournament for women, taking place in Berlin at WAP! 🏆🎉 🏆🎉<br/><br/>
+#      Just a quick reminder: Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫
 #- name: Hiring Trainers for 2024 Summer Season in Padel Lankwitz
 #  date: 2024-04-01
 #  id: plTrain
@@ -284,186 +226,174 @@
       - 20:00-22:00 ⏰<br/><br/>
       Don't miss this chance to play, socialize and have fun! 💪<br/><br/>    
       To participate, sign up via Playtomic (Padel Lankwitz/Competitions). 📝
-- name: Early bird Americano
-  id: earlyAmericano
-  date: 2024-12-13
-  registration_till: 2024-12-11T16:00+02:00
-  type: tournament
-  location: padelFC
-  description:
-    en: >
-      Early bird Americano tournament for :<br/>
-      - lvl 📈 0.5-2  10:00-12:00 ⏰<br/>
-      - lvl 📈 2.0-3.5  12:00-14:00 ⏰<br/>                        
-      📝Registrations via playtomic: PadelFC -> Competitions
-- name: Back In Shape Tournament
-  id: backInShape
-  date: 2025-01-11
-  link: https://forms.gle/Q3rQU5MkHrc2FJs98
-  registration_till: 2025-01-10T16:00+02:00
-  type: tournament
-  location: wap
-  description:
-    en: >
-      Padel Tournament in WAP:<br/>
-      - Open Group: 4 teams 🌟<br/>
-      - Women’s Group: 6 teams 💪<br/>
-      - Men’s Group: 4 teams 🏆<br/>
-      - 💰 Entry Fee: 60 EUR<br/><br/>
+#- name: Early bird Americano
+#  id: earlyAmericano
+#  date: 2024-12-13
+#  registration_till: 2024-12-11T16:00+02:00
+#  type: tournament
+#  location: padelFC
+#  description:
+#    en: >
+#      Early bird Americano tournament for :<br/>
+#      - lvl 📈 0.5-2  10:00-12:00 ⏰<br/>
+#      - lvl 📈 2.0-3.5  12:00-14:00 ⏰<br/>
+#      📝Registrations via playtomic: PadelFC -> Competitions
+#- name: Back In Shape Tournament
+#  id: backInShape
+#  date: 2025-01-11
+#  link: https://forms.gle/Q3rQU5MkHrc2FJs98
+#  registration_till: 2025-01-10T16:00+02:00
+#  type: tournament
+#  location: wap
+#  description:
+#    en: >
+#      Padel Tournament in WAP:<br/>
+#      - Open Group: 4 teams 🌟<br/>
+#      - Women’s Group: 6 teams 💪<br/>
+#      - Men’s Group: 4 teams 🏆<br/>
+#      - 💰 Entry Fee: 60 EUR<br/><br/>
+#
+#      Includes: 3 matches 🎯, prizes 🏅, snacks 🥪, drinks 🥤, and a mini afterparty 🎉"
 
-      Includes: 3 matches 🎯, prizes 🏅, snacks 🥪, drinks 🥤, and a mini afterparty 🎉"
-
-- name: Valentine's Day Tournament 💕
-  id: valentine
-  date: 2025-02-15
-  link: https://forms.gle/7rJuUU8hgt3hvYfGA
-  registration_till: 2025-02-15T16:00+02:00
-  type: tournament
-  location: wap
-  description:
-    en: >
-      Special Valentine's-themed Padel event hosted by Padelista:<br/>
-      - Delicious snacks <br/>
-      - Trophies & exciting gifts for the winners <br/>
-      - Drinks & water <br/>      
-      - Professional photographer & stunning photos <br/>
-      - Entry Fee: €60 <br/><br/>
-- name: Padel bundesliga in WAP
-  id: bundesliga
-  date: 2024-11-23
-  registration_till: 2024-11-24T16:00+02:00
-  type: other
-  location: wap
-  description:
-    en: >
-      Join us and cheer on the Berlin Men's Team as they compete in an exciting 2-day event at WAP! <br/>
-      Matches take place daily from 10:00 to 19:00 at WAP. <br/>Don't miss it! 📅🔥
-- name: Padel Campus Berlin
-  id: campus
-  date: 2025-01-17
-  registration_till: 2025-01-16T16:00+02:00
-  link: https://worldenjoyerpadel.com/evento/campus-padel-berlin/
-  type: course
-  location: wap
-  description:
-    en: >
-      The 2nd edition of Padel Campus Berlin returns from January 17 to 19, 2025, offering an 8-hour intensive course at We Are Padel Berlin. <br/>
-      This weekend event focuses on refining your technique, strategy, movement, and mental preparation, helping you build confidence for competitive play. 💪✨🏆
-- name: Slice & Slices 🍕🎾
-  id: sliceSlices
-  date: 2025-03-02
-  registration_till: 2025-02-26T10:00+02:00
-  type: tournament
-  location: padelFC
-  link: https://padel-tournament.com/en/tournament/9fd755cb-419a-4654-8b91-8d4123c65473
-  description:
-    en: >
-      Enjoy two hours of Padel on Sunday afternoon:<br/>
-      - beginners (lvl 1-2) (4:00-6:00 PM) with Golden Court <br/>
-      - intermediate (lvl 2.5-3.5) (6:00-8:00 PM) with Team Americano <br/><br/>
-      
-      All followed by a relaxed sit-down with delicious pizza included. Don’t miss out on fun matches, great company, and tasty slices 🍕!
-- name: Morning Americano
-  id: morAmer
-  date: 2025-02-21
-  registration_till: 2025-02-20T10:00+02:00
-  type: tournament
-  location: padelFC
-  description:
-    en: >
-      The "Morning Americano Tournament" at PadelFC. Fresh Coffee or warm Tea are included on (probably) cold day🥶.<br/>           
-      Categories:<br/>
-      🥉 Bronze (0.5-1.8) – 8:00 AM <br/>
-      🥈 Silver (1.8-2.8) – 10:00 AM <br/>
-      🥇 Gold+ (3.8+) – 12:00 PM <br/><br/>  
-      📝Registrations via playtomic: PadelFC -> Competitions
-- name: Pádel Lankwitz Nox rackets testout
-  id: noxtestout
-  date: 2024-05-25
-  registration_till: 2024-05-25T16:00+02:00
-  type: testout
-  location: pl
-  description:
-    en: >
-      Thinking about getting a new padel racket? Wouldn't it be nice to try it out before buying? <br/> 
-      Padel Lankwitz, in partnership with Nox, is hosting a Nox padel racket test event starting at 14:00, featuring Americano. It's the perfect opportunity to see these new rackets in action!<br/><br/>
-      Signup for americano on playtomic.<br/>
-      For further details and inquiries, please contact Eddie at +4915782304902.
-- name: CUPRA GPS 350 Men 👨
-  id: gps350menPadelFC
-  date: 2025-07-05
-  registration_till: 2025-06-30T22:00+02:00
-  type: tournament
-  location: padelFC
-  link: https://rankedin.com/en/tournament/53751/cupra-gps-350-herren-padel-fc-berlin
-  description:
-    en: >
-      Earn your tour DPV points and soak up the tournament atmosphere at Padel FC.
-      A great chance for you and your partner to gain experience and battle it out on court.<br/>
-      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
-      Signup and more information in event details link.
-- name: Men GPS 350 in WAP
-  id: gps350menWAP
-  date: 2025-03-08
-  registration_till: 2025-03-03T22:00+02:00
-  type: tournament
-  location: WAP
-  link: https://rankedin.com/en/tournament/49781/gps-350-herren-wap-berlin
-  description:
-    en: >
-      GPS-350 level tournaments in WAP for Men 👨<br/>       
-      ⚠️ Participation is based on the total ranking points of the team – make sure to check your standings!<br/><br/>      
-      Signup and more information in event details link.
-- name: GPS 350 Women 👩
-  id: gps350womenWAP
-  date: 2025-06-05
-  registration_till: 2025-05-30T22:00+02:00
-  type: tournament
-  location: padelFC
-  link: https://rankedin.com/en/tournament/53620/cupra-gps-350-damen-padel-fc-berlin
-  description:
-    en: >
-      GPS-350 level tournaments in WAP for Women 👩<br/>       
-      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>      
-      Signup and more information in event details link.
-- name: CUPRA GPS 100 (Beginners) Men Edition 🧔
-  id: gps100
-  date: 2025-06-12
-  registration_till: 2025-06-06T22:00+02:00
-  type: tournament
-  location: padelFC
-  link: https://rankedin.com/en/tournament/53621/cupra-gps-100-herren-padel-fc-berlin
-  description:
-    en: >    
-      Join the GPS100 (beginner level) Men's Tournaments - the best way to start earning your DPV points!<br/><br/>      
-      
-      Signup and more information in event details link.
-- name: Men GPS 250
-  id: gps250men
-  date: 2025-02-22
-  registration_till: 2025-02-17T22:00+02:00
-  type: tournament
-  location: WAP
-  link: https://rankedin.com/en/tournament/49472/gps-250-herren-wap-berlin
-  description:
-    en: >
-      GPS-level tournaments are back to WAP! 🌟<br/>
-      Earn DPV ranking points in this official series by the German Padel Federation.<br/>
-      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
-      Signup and more information in event details link.
-- name: Women GPS 50
-  id: gps50women
-  date: 2025-04-21
-  registration_till: 2025-04-27T22:00+02:00
-  type: tournament
-  location: wap
-  link: https://rankedin.com/en/tournament/51448/gps-50-women-wap-berlin
-  description:
-    en: >
-      Entry level GPS tournament for women in WAP<br/>
-      Earn your first DPV ranking points in this official series by the German Padel Federation.<br/>      
-      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
-      Signup and more information in event details link.
+#- name: Valentine's Day Tournament 💕
+#  id: valentine
+#  date: 2025-02-15
+#  link: https://forms.gle/7rJuUU8hgt3hvYfGA
+#  registration_till: 2025-02-15T16:00+02:00
+#  type: tournament
+#  location: wap
+#  description:
+#    en: >
+#      Special Valentine's-themed Padel event hosted by Padelista:<br/>
+#      - Delicious snacks <br/>
+#      - Trophies & exciting gifts for the winners <br/>
+#      - Drinks & water <br/>
+#      - Professional photographer & stunning photos <br/>
+#      - Entry Fee: €60 <br/><br/>
+#- name: Padel bundesliga in WAP
+#  id: bundesliga
+#  date: 2024-11-23
+#  registration_till: 2024-11-24T16:00+02:00
+#  type: other
+#  location: wap
+#  description:
+#    en: >
+#      Join us and cheer on the Berlin Men's Team as they compete in an exciting 2-day event at WAP! <br/>
+#      Matches take place daily from 10:00 to 19:00 at WAP. <br/>Don't miss it! 📅🔥
+#- name: Padel Campus Berlin
+#  id: campus
+#  date: 2025-01-17
+#  registration_till: 2025-01-16T16:00+02:00
+#  link: https://worldenjoyerpadel.com/evento/campus-padel-berlin/
+#  type: course
+#  location: wap
+#  description:
+#    en: >
+#      The 2nd edition of Padel Campus Berlin returns from January 17 to 19, 2025, offering an 8-hour intensive course at We Are Padel Berlin. <br/>
+#      This weekend event focuses on refining your technique, strategy, movement, and mental preparation, helping you build confidence for competitive play. 💪✨🏆
+#- name: Slice & Slices 🍕🎾
+#  id: sliceSlices
+#  date: 2025-03-02
+#  registration_till: 2025-02-26T10:00+02:00
+#  type: tournament
+#  location: padelFC
+#  link: https://padel-tournament.com/en/tournament/9fd755cb-419a-4654-8b91-8d4123c65473
+#  description:
+#    en: >
+#      Enjoy two hours of Padel on Sunday afternoon:<br/>
+#      - beginners (lvl 1-2) (4:00-6:00 PM) with Golden Court <br/>
+#      - intermediate (lvl 2.5-3.5) (6:00-8:00 PM) with Team Americano <br/><br/>
+#
+#      All followed by a relaxed sit-down with delicious pizza included. Don’t miss out on fun matches, great company, and tasty slices 🍕!
+#- name: Morning Americano
+#  id: morAmer
+#  date: 2025-02-21
+#  registration_till: 2025-02-20T10:00+02:00
+#  type: tournament
+#  location: padelFC
+#  description:
+#    en: >
+#      The "Morning Americano Tournament" at PadelFC. Fresh Coffee or warm Tea are included on (probably) cold day🥶.<br/>
+#      Categories:<br/>
+#      🥉 Bronze (0.5-1.8) – 8:00 AM <br/>
+#      🥈 Silver (1.8-2.8) – 10:00 AM <br/>
+#      🥇 Gold+ (3.8+) – 12:00 PM <br/><br/>
+#      📝Registrations via playtomic: PadelFC -> Competitions
+#- name: Pádel Lankwitz Nox rackets testout
+#  id: noxtestout
+#  date: 2024-05-25
+#  registration_till: 2024-05-25T16:00+02:00
+#  type: testout
+#  location: pl
+#  description:
+#    en: >
+#      Thinking about getting a new padel racket? Wouldn't it be nice to try it out before buying? <br/>
+#      Padel Lankwitz, in partnership with Nox, is hosting a Nox padel racket test event starting at 14:00, featuring Americano. It's the perfect opportunity to see these new rackets in action!<br/><br/>
+#      Signup for americano on playtomic.<br/>
+#      For further details and inquiries, please contact Eddie at +4915782304902.
+#- name: CUPRA GPS 350 Men 👨
+#  id: gps350menPadelFC
+#  date: 2025-07-05
+#  registration_till: 2025-06-30T22:00+02:00
+#  type: tournament
+#  location: padelFC
+#  link: https://rankedin.com/en/tournament/53751/cupra-gps-350-herren-padel-fc-berlin
+#  description:
+#    en: >
+#      Earn your tour DPV points and soak up the tournament atmosphere at Padel FC.
+#      A great chance for you and your partner to gain experience and battle it out on court.<br/>
+#      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+#      Signup and more information in event details link.
+#- name: GPS 350 Women 👩
+#  id: gps350womenWAP
+#  date: 2025-06-05
+#  registration_till: 2025-05-30T22:00+02:00
+#  type: tournament
+#  location: padelFC
+#  link: https://rankedin.com/en/tournament/53620/cupra-gps-350-damen-padel-fc-berlin
+#  description:
+#    en: >
+#      GPS-350 level tournaments in WAP for Women 👩<br/>
+#      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+#      Signup and more information in event details link.
+#- name: CUPRA GPS 100 (Beginners) Men Edition 🧔
+#  id: gps100
+#  date: 2025-06-12
+#  registration_till: 2025-06-06T22:00+02:00
+#  type: tournament
+#  location: padelFC
+#  link: https://rankedin.com/en/tournament/53621/cupra-gps-100-herren-padel-fc-berlin
+#  description:
+#    en: >
+#      Join the GPS100 (beginner level) Men's Tournaments - the best way to start earning your DPV points!<br/><br/>
+#
+#      Signup and more information in event details link.
+#- name: Men GPS 250
+#  id: gps250men
+#  date: 2025-02-22
+#  registration_till: 2025-02-17T22:00+02:00
+#  type: tournament
+#  location: WAP
+#  link: https://rankedin.com/en/tournament/49472/gps-250-herren-wap-berlin
+#  description:
+#    en: >
+#      GPS-level tournaments are back to WAP! 🌟<br/>
+#      Earn DPV ranking points in this official series by the German Padel Federation.<br/>
+#      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+#      Signup and more information in event details link.
+#- name: Women GPS 50
+#  id: gps50women
+#  date: 2025-04-21
+#  registration_till: 2025-04-27T22:00+02:00
+#  type: tournament
+#  location: wap
+#  link: https://rankedin.com/en/tournament/51448/gps-50-women-wap-berlin
+#  description:
+#    en: >
+#      Entry level GPS tournament for women in WAP<br/>
+#      Earn your first DPV ranking points in this official series by the German Padel Federation.<br/>
+#      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+#      Signup and more information in event details link.
 - name: Padel Workshop by Manu Soler 🎾
   id: manuSeptember
   date: 2024-09-05
@@ -479,98 +409,84 @@
       📅Training will start on 5th September (4 days) or 7th September (3 days), depending on the course.<br/><br/>
       🌐 Explore the event page to unveil the comprehensive training plan, detailed schedule, and the skills, experiences, and enhancements you'll gain.<br/>
   link: https://www.manupadel.com/signups/
-- name: Padel Master Class WAP Berlin  🎾
-  id: weekendWAP
-  date: 2024-09-13
-  registration_till: 2024-09-12T22:00+02:00
-  type: course
-  location: wap
-  description:
-    en: >
-      🎾 Join the Padel Master Class in Berlin on September 13-15, 2024, for 575€, including 7 hours of padel, 3 hours of fitness training, 1 hour of recovery, and more.<br/>   
-      🌟 Led by top coaches Joël Losana Lopez and Riccardo Piras, this exclusive event has only 4 spots left!<br/>   
-      Use promo code MASTERCLASS0824 for a 50€ discount, valid until August 31st for PadelEventsBerlin users.
-  link: https://www.padelmatchevents.com/en/product-page/padel-weekend-berlin
-- name: Minerva Padel Clinic 2024 🎾
-  id: minerva
-  date: 2024-09-08
-  registration_till: 2024-09-05T09:00+02:00
-  type: course
-  location: minerva
-  description:
-    en: >
-      Join us at the Minerva Padel Clinic, a holiday resort in Italy 🇮🇹, from 8th - 15th September 2024 for daily professional lessons and athletic training with bilingual instructors 🎾💪.<br/> 
-      Enjoy world-class facilities including padel courts, tennis courts, a lagoon swimming pool, and more 🏊‍♂️🏖️.<br/><br/> 
-      Special <a href="/assets/doc/Minerva Padel Clinic_Berlino2024.docx.pdf" target="_blank">discount code</a> for the Berlin padel community 🏨
-  link: /assets/doc/A5_MInerva_PadelClinicWeek_rev02_ENG_rev01.pdf
-- name: KST Padel Final
-  id: kst
-  date: 2024-08-25
-  registration_till: 2024-08-25T18:00+02:00
-  type: other
-  location: tio
-  description:
-    en: >
-      🎾 KST Padel Final Day on Sunday August 25, 2024, is the ultimate event for padel enthusiasts!<br/><br/> 
-      Watch the finals of the KST League and KST Premier 🏆, test Babolat rackets 🎾, join in on skill challenges, free play and more!<br/> 
-      🎉 Enjoy a day filled with delicious drinks and barbecue 🍔, exciting raffles 🎁, and live streaming on YouTube 📺. Bring your family and friends for a fun-filled day at Tio Tio Social Sports in Berlin! 🇩🇪<br/><br/>
-      See the event details link ☝️ for the detailed schedule and all attractions.
-  link: /assets/doc/kst-final.jpg
-- name: Playtomic Level Evaluation 📈
-  date: 2024-01-30
-  id: levelEval
-  registration_till: 2024-01-28T09:00+02:00
-  type: other
-  location: padelFC
-  description:
-    en: >
-      If you think you perform at a higher level than your current Playtomic rating, there's an opportunity to adjust it easily! <br/><br/>
-      PadelFC offers Playtomic Level Evaluation sessions 📈 where your level can be calibrated. <br/>
-      This session, led by a certified coach, accommodates three players and includes 30 minutes of ball feeding 🎾 and 30 minutes of gameplay 🏆.<br/><br/>
-      To participate, sign up via Playtomic (Padel FC/Activities/Leveling Evaluation). 📝<br/>
-      Expecxt more evaluation session to be open soon. ⏰
-- name: Coaching with Pablo Franco Duran
-  id: pabloDuran
-  date: 2024-09-23
-  registration_till: 2024-09-23T18:00+02:00
-  type: course
-  location: padelFC
-  description:
-    en: >
-      Ready to take your padel skills to the next level, or just starting out? <br/><br/>
-      Join for an exciting week of training at Padel FC from September 23-27, 
-      where coach Pablo Pablo Franco Duran will help elevate your game! 
-      Enjoy 2 hours of top-level training each day with flexible booking options and the chance for private lessons <br/><br/>          
-      📝Registrations via playtomic: PadelFC -> Academy -> Courses
-- name: Smash & Grill
-  id: smashGrill
-  date: 2025-06-08
-  registration_till: 2025-06-07T10:00+02:00
-  type: tournament
-  location: tio
-  link: https://www.outbyfour.de/products/smash-grill-no-3
-  description:
-    en: >
-      Smash & Grill Americano tournament.<br/>
-      Schedule:<br/> 
-      - Intermediate Low (1.5 - 2.5): 16:00-18:00<br/>
-      - Intermediate High (2.5 - 3.5): 18:00-20:00<br/><br/>
-      Enjoy two hours of Padel and BBQ afterwards
-- name: WAP League
-  id: wapLeague
-  date: 2024-09-29
-  registration_till: 2024-09-28T18:00+02:00
-  type: tournament
-  location: wap
-  description:
-    en: >
-      WAP Padel league divided into 3 levels: Beginner (0-2.5), Intermediate (2.5-4), and Advanced (4+). Each level will have 12 teams, split into 2 groups of 6 teams. Every team will play 5 matches (one per week), and the top teams will advance to the semifinals and finals! The league will run simultaneously across WAP locations: Berlin, Düsseldorf, Essen, Münster & Mülheim.
-      <br/><br/>
-      ✅ Add a substitute player to ensure matches stay on schedule.<br/>  
-      📆 Matches will be organized through our app in fixed slots, so you'll know your schedule throughout the league. Teams playing at assigned slots will receive exclusive benefits (€€).<br/>  
-      💰 Cost: €100 per team for registration. Court fees will be shared between players.  <br/>
-      🏆 Prizes: Winners from each city will compete in the Finals in Düsseldorf on 30.11! €200 travel budget and a chance to become WAP Country Champions. Winners also earn DPV points and a monetary prize!<br/>  
-      ⚠️ Teams will be evaluated to ensure fair play and matched skill levels.<br/>  
-      ❗️ Note: Teams may only participate in one city!<br/><br/>
-
-      Register via the LeDap app: Tournament is set on 29.09 -last day to sign up!<br/> Matches and schedules will be managed through the Playinga platform.
+#- name: Padel Master Class WAP Berlin  🎾
+#  id: weekendWAP
+#  date: 2024-09-13
+#  registration_till: 2024-09-12T22:00+02:00
+#  type: course
+#  location: wap
+#  description:
+#    en: >
+#      🎾 Join the Padel Master Class in Berlin on September 13-15, 2024, for 575€, including 7 hours of padel, 3 hours of fitness training, 1 hour of recovery, and more.<br/>
+#      🌟 Led by top coaches Joël Losana Lopez and Riccardo Piras, this exclusive event has only 4 spots left!<br/>
+#      Use promo code MASTERCLASS0824 for a 50€ discount, valid until August 31st for PadelEventsBerlin users.
+#  link: https://www.padelmatchevents.com/en/product-page/padel-weekend-berlin
+#- name: Minerva Padel Clinic 2024 🎾
+#  id: minerva
+#  date: 2024-09-08
+#  registration_till: 2024-09-05T09:00+02:00
+#  type: course
+#  location: minerva
+#  description:
+#    en: >
+#      Join us at the Minerva Padel Clinic, a holiday resort in Italy 🇮🇹, from 8th - 15th September 2024 for daily professional lessons and athletic training with bilingual instructors 🎾💪.<br/>
+#      Enjoy world-class facilities including padel courts, tennis courts, a lagoon swimming pool, and more 🏊‍♂️🏖️.<br/><br/>
+#      Special <a href="/assets/doc/Minerva Padel Clinic_Berlino2024.docx.pdf" target="_blank">discount code</a> for the Berlin padel community 🏨
+#  link: /assets/doc/A5_MInerva_PadelClinicWeek_rev02_ENG_rev01.pdf
+#- name: KST Padel Final
+#  id: kst
+#  date: 2024-08-25
+#  registration_till: 2024-08-25T18:00+02:00
+#  type: other
+#  location: tio
+#  description:
+#    en: >
+#      🎾 KST Padel Final Day on Sunday August 25, 2024, is the ultimate event for padel enthusiasts!<br/><br/>
+#      Watch the finals of the KST League and KST Premier 🏆, test Babolat rackets 🎾, join in on skill challenges, free play and more!<br/>
+#      🎉 Enjoy a day filled with delicious drinks and barbecue 🍔, exciting raffles 🎁, and live streaming on YouTube 📺. Bring your family and friends for a fun-filled day at Tio Tio Social Sports in Berlin! 🇩🇪<br/><br/>
+#      See the event details link ☝️ for the detailed schedule and all attractions.
+#  link: /assets/doc/kst-final.jpg
+#- name: Playtomic Level Evaluation 📈
+#  date: 2024-01-30
+#  id: levelEval
+#  registration_till: 2024-01-28T09:00+02:00
+#  type: other
+#  location: padelFC
+#  description:
+#    en: >
+#      If you think you perform at a higher level than your current Playtomic rating, there's an opportunity to adjust it easily! <br/><br/>
+#      PadelFC offers Playtomic Level Evaluation sessions 📈 where your level can be calibrated. <br/>
+#      This session, led by a certified coach, accommodates three players and includes 30 minutes of ball feeding 🎾 and 30 minutes of gameplay 🏆.<br/><br/>
+#      To participate, sign up via Playtomic (Padel FC/Activities/Leveling Evaluation). 📝<br/>
+#      Expecxt more evaluation session to be open soon. ⏰
+#- name: Coaching with Pablo Franco Duran
+#  id: pabloDuran
+#  date: 2024-09-23
+#  registration_till: 2024-09-23T18:00+02:00
+#  type: course
+#  location: padelFC
+#  description:
+#    en: >
+#      Ready to take your padel skills to the next level, or just starting out? <br/><br/>
+#      Join for an exciting week of training at Padel FC from September 23-27,
+#      where coach Pablo Pablo Franco Duran will help elevate your game!
+#      Enjoy 2 hours of top-level training each day with flexible booking options and the chance for private lessons <br/><br/>
+#      📝Registrations via playtomic: PadelFC -> Academy -> Courses
+#- name: WAP League
+#  id: wapLeague
+#  date: 2024-09-29
+#  registration_till: 2024-09-28T18:00+02:00
+#  type: tournament
+#  location: wap
+#  description:
+#    en: >
+#      WAP Padel league divided into 3 levels: Beginner (0-2.5), Intermediate (2.5-4), and Advanced (4+). Each level will have 12 teams, split into 2 groups of 6 teams. Every team will play 5 matches (one per week), and the top teams will advance to the semifinals and finals! The league will run simultaneously across WAP locations: Berlin, Düsseldorf, Essen, Münster & Mülheim.
+#      <br/><br/>
+#      ✅ Add a substitute player to ensure matches stay on schedule.<br/>
+#      📆 Matches will be organized through our app in fixed slots, so you'll know your schedule throughout the league. Teams playing at assigned slots will receive exclusive benefits (€€).<br/>
+#      💰 Cost: €100 per team for registration. Court fees will be shared between players.  <br/>
+#      🏆 Prizes: Winners from each city will compete in the Finals in Düsseldorf on 30.11! €200 travel budget and a chance to become WAP Country Champions. Winners also earn DPV points and a monetary prize!<br/>
+#      ⚠️ Teams will be evaluated to ensure fair play and matched skill levels.<br/>
+#      ❗️ Note: Teams may only participate in one city!<br/><br/>
+#
+#      Register via the LeDap app: Tournament is set on 29.09 -last day to sign up!<br/> Matches and schedules will be managed through the Playinga platform.
