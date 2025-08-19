@@ -69,30 +69,29 @@
     en: >
       Golden court tournament for intermediate players on Sunday afternoon: 12:30-14:30<br/><br/>      
       To reserve your spot, contact Julian from WAP at (+49 176 68266671)
-- name: GPS 250 Teams (🧔‍/👩)
-  date: 2025-04-13
-  id: gps250mixed
-  registration_till: 2025-04-07T22:00+02:00
-  link: https://rankedin.com/en/tournament/50589/gps-250-mixed-padel-fc-berlin
+- name: GPS 350 Teams (🧔‍/👩)
+  date: 2025-08-30
+  id: gps350mixed
+  registration_till: 2025-08-25T22:00+02:00
+  link: https://rankedin.com/en/tournament/56657/cupra-gps-350-damen-herren-mitte-charlotte
   type: tournament
-  location: padelFC
+  location: mitte
   description:
     en: >
-      GPS level tournament for mixed teams(♂️ and ♀️) on Sunday evening.<br/>
+      GPS level tournament for mixed teams(♂️ and ♀️) on Saturday evening.<br/>
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
-- name: Super Smash
-  date: 2024-09-28
+- name: Padel & Founder Circle
+  date: 2025-08-21
   id: superSmash
-  registration_till: 2024-09-27T16:00+02:00
-  link: https://bit.ly/3XcD6t7
+  registration_till: 2025-08-21T16:00+02:00
+  link: https://lu.ma/os35eeqm
   type: tournament
-  location: wap
+  location: beachMitte
   description:
     en: >
-      2-day Padel event with 3 Categories tournament.  
-      Get ready for a weekend full of Padel, live music, delicious food and retro-arcade games to beat your friends on 
-      and off the court! 🏆
+      🚀 Smash & Share brings founders together for padel, drinks, and real conversations about the wins, roadblocks, and energy it takes to build for the long haul. 🎾🥂💡<br/> 
+      Come for the game, stay for the circle of builders who truly get the journey.
 - name: Tropical Padel Event 🌴
   date: 2024-09-07
   id: tropicalPadelEvent

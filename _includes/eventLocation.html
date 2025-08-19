@@ -30,5 +30,9 @@
         {% assign locationName = "Tio Tio Social Sports" %}
         {% assign locationLink = "https://tiotio.club/" %}
     {% endif %}
+    {% if include.id == "mitte" %}
+        {% assign locationName = "mitte — Charlotte" %}
+        {% assign locationLink = "https://www.instagram.com/mittepadel/" %}
+    {% endif %}
 
     <a href="{{locationLink}}" target="_blank" class="event-location">📍 {{locationName}}</a>
