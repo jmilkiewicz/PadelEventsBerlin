@@ -81,21 +81,21 @@
       GPS level tournament for mixed teams(♂️ and ♀️) on Saturday evening.<br/>
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
-- name: First Date @ Berlin Padel Circuit
-  date: 2025-09-20
-  id: firstDate
-  registration_till: 2025-09-19T16:00+02:00
-  link: https://www.canva.com/design/DAGw6KDg5EM/x-F_99pL8fLgZIv3JnFcVA/edit
-  type: tournament
-  location: mitte
-  description:
-    en: >
-      🎾 On Saturday, September 20th, 2025, the 1st Amateur Padel Tournament at the brand-new Mitte | Charlotte Club 🏆<br/>
-      - Categories: 👨‍🦱Men’s >3.0, 👨‍🦱 Men’s 1.5–3.0, 👩Women’s 1.5–3.0 (max 9–10 pairs per category)<br/>
-      - Matches: ⏱️min. 2 matches / player<br/>
-      - Perks: balls, refreshments, partner discounts, prizes, Berlin Amateur Padel Ranking<br/>
-      - Special: 🎉 Launch of the <a href="https://vola.plus/" target="_blank">VOLA</a> app in Germany! 🇩🇪<br/><br/>
-      Signup and more information in event details link.
+#- name: First Date @ Berlin Padel Circuit
+#  date: 2025-09-20
+#  id: firstDate
+#  registration_till: 2025-09-19T16:00+02:00
+#  link: https://www.canva.com/design/DAGw6KDg5EM/x-F_99pL8fLgZIv3JnFcVA/edit
+#  type: tournament
+#  location: mitte
+#  description:
+#    en: >
+#      🎾 On Saturday, September 20th, 2025, the 1st Amateur Padel Tournament at the brand-new Mitte | Charlotte Club 🏆<br/>
+#      - Categories: 👨‍🦱Men’s >3.0, 👨‍🦱 Men’s 1.5–3.0, 👩Women’s 1.5–3.0 (max 9–10 pairs per category)<br/>
+#      - Matches: ⏱️min. 2 matches / player<br/>
+#      - Perks: balls, refreshments, partner discounts, prizes, Berlin Amateur Padel Ranking<br/>
+#      - Special: 🎉 Launch of the <a href="https://vola.plus/" target="_blank">VOLA</a> app in Germany! 🇩🇪<br/><br/>
+#      Signup and more information in event details link.
 #- name: Padel & Founder Circle
 #  date: 2025-08-21
 #  id: founder
