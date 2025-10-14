@@ -107,6 +107,17 @@
 #    en: >
 #      🚀 Smash & Share brings founders together for padel, drinks, and real conversations about the wins, roadblocks, and energy it takes to build for the long haul. 🎾🥂💡<br/>
 #      Come for the game, stay for the circle of builders who truly get the journey.
+- name: Accelerate Padel Social
+  date: 2025-10-30
+  id: AcceleratePadelSocial
+  registration_till: 2025-10-30T17:00+02:00
+  link: https://luma.com/4nwt7ul4
+  type: other
+  location: mitte
+  description:
+    en: >
+      Join Accelerate Padel Social 🎾 — a movement-driven event where founders and startup operators recharge, connect, and play.<br/>
+      Hit the court 💪, share the energy ⚡, and unwind afterwards over drinks 🍹 and good conversations that fuel what’s next.
 #- name: Tropical Padel Event 🌴
 #  date: 2024-09-07
 #  id: tropicalPadelEvent
