@@ -69,7 +69,7 @@
 #    en: >
 #      Golden court tournament for intermediate players on Sunday afternoon: 12:30-14:30<br/><br/>
 #      To reserve your spot, contact Julian from WAP at (+49 176 68266671)
-- name: GPS 350 Teams (🧔‍/👩)
+- name: CUPRA GPS 350 Teams (🧔‍/👩)
   date: 2025-12-07
   id: gps350mixed
   registration_till: 2025-12-01T22:00+02:00
@@ -368,8 +368,8 @@
 #      A great chance for you and your partner to gain experience and battle it out on court.<br/>
 #      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
 #      Signup and more information in event details link.
-- name: GPS 350 Women 👩
-  id: gps350womenWAP
+- name: CUPRA GPS 350 Women 👩
+  id: gps350women
   date: 2025-11-30
   registration_till: 2025-11-24T22:00+02:00
   type: tournament
