@@ -252,18 +252,16 @@
       - 20:00-22:00 ⏰<br/><br/>
       Don't miss this chance to play, socialize and have fun! 💪<br/><br/>    
       To participate, sign up via Playtomic (Padel Lankwitz/Competitions). 📝
-#- name: Early bird Americano
-#  id: earlyAmericano
-#  date: 2024-12-13
-#  registration_till: 2024-12-11T16:00+02:00
-#  type: tournament
-#  location: padelFC
-#  description:
-#    en: >
-#      Early bird Americano tournament for :<br/>
-#      - lvl 📈 0.5-2  10:00-12:00 ⏰<br/>
-#      - lvl 📈 2.0-3.5  12:00-14:00 ⏰<br/>
-#      📝Registrations via playtomic: PadelFC -> Competitions
+- name: Early bird Americano
+  id: earlyAmericano
+  date: 2025-11-14
+  registration_till: 2025-11-13T16:00+02:00
+  type: tournament
+  location: padelFC
+  description:
+    en: >
+      Early bird Americano tournament for lvl 📈 1.0-2.5  9:30-12:00 ⏰<br/><br/>      
+      📝Registrations via playtomic: PadelFC -> Competitions
 #- name: Back In Shape Tournament
 #  id: backInShape
 #  date: 2025-01-11
@@ -370,30 +368,30 @@
 #      A great chance for you and your partner to gain experience and battle it out on court.<br/>
 #      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
 #      Signup and more information in event details link.
-#- name: GPS 350 Women 👩
-#  id: gps350womenWAP
-#  date: 2025-06-05
-#  registration_till: 2025-05-30T22:00+02:00
-#  type: tournament
-#  location: padelFC
-#  link: https://rankedin.com/en/tournament/53620/cupra-gps-350-damen-padel-fc-berlin
-#  description:
-#    en: >
-#      GPS-350 level tournaments in WAP for Women 👩<br/>
-#      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
-#      Signup and more information in event details link.
-#- name: CUPRA GPS 100 (Beginners) Men Edition 🧔
-#  id: gps100
-#  date: 2025-06-12
-#  registration_till: 2025-06-06T22:00+02:00
-#  type: tournament
-#  location: padelFC
-#  link: https://rankedin.com/en/tournament/53621/cupra-gps-100-herren-padel-fc-berlin
-#  description:
-#    en: >
-#      Join the GPS100 (beginner level) Men's Tournaments - the best way to start earning your DPV points!<br/><br/>
-#
-#      Signup and more information in event details link.
+- name: GPS 350 Women 👩
+  id: gps350womenWAP
+  date: 2025-11-30
+  registration_till: 2025-11-24T22:00+02:00
+  type: tournament
+  location: padelFC
+  link: https://rankedin.com/en/tournament/60693/cupra-gps-350-damen-padel-fc-berlin
+  description:
+    en: >
+      GPS-350 level tournaments in WAP for Women 👩<br/>
+      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+      Signup and more information in event details link.
+- name: CUPRA GPS 100 (Beginners) Men Edition 🧔
+  id: gps100
+  date: 2025-11-23
+  registration_till: 2025-11-17T22:00+02:00
+  type: tournament
+  location: padelFC
+  link: https://rankedin.com/en/tournament/60692/cupra-gps-100-herren-padel-fc-berlin
+  description:
+    en: >
+      Join the GPS100 (beginner level) Men's Tournaments - the best way to start earning your DPV points!<br/><br/>
+
+      Signup and more information in event details link.
 #- name: Men GPS 250
 #  id: gps250men
 #  date: 2025-02-22
