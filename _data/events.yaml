@@ -118,6 +118,25 @@
     en: >
       Join Accelerate Padel Social 🎾 — a movement-driven event where founders and startup operators recharge, connect, and play.<br/>
       Hit the court 💪, share the energy ⚡, and unwind afterwards over drinks 🍹 and good conversations that fuel what’s next.
+- name: 🎾 PADEL LUDWIGSFELDE OPENING – FRIDAY, DECEMBER 5! 🎾
+  date: 2025-12-05
+  id: LudwigsfeldeGrandOpening
+  registration_till: 2025-12-05T17:00+02:00
+  type: other
+  location: padel-lu
+  description:
+    en: >
+      Get ready for an unforgettable <a href="/assets/doc/opening.jpeg" target="_blank">evening of padel, music, and community!</a><br/>
+      📅 Friday · December 5<br/>
+      <b>6 PM - 7 PM</b> <s>Padel Clinics</s><br/>
+      <s>Exclusive training with four pro-level players + additional coaches</s>
+      <br/>
+      <b>8 PM - 9 PM</b> <a href="/assets/doc/stars.jpeg" target="_blank">Pro Showmatch</a><br/>    
+      ⭐Juan Tello⭐/⭐Javi Leal⭐/⭐Pablo García⭐/⭐Agustín Reca⭐<br/>
+      <b>9 PM – 11 PM</b> Open Play & After-Show Party<br/>
+      Play freely on the courts 🎾. Dance to beats from the DJ 🎶💃. Enjoy padel, music, community 🤝, and food 🍔🥤<br/><br/>
+    
+      Don’t miss this epic night – from clinics to showmatch to party! 🥳
 #- name: Tropical Padel Event 🌴
 #  date: 2024-09-07
 #  id: tropicalPadelEvent
@@ -130,19 +149,48 @@
 #      Join us on September 7th for the Americano Tournament Tropical 🌴 Padel Event. <br> Featuring mixed Americano (🧔‍/👩) tournaments for all skill levels,
 #      exciting prizes, and fun activities including a costume contest, raffle, and flea market. <br/><br/>
 #      Enjoy a day of padel, delicious breakfast, and tropical vibes starting at 9:00 am.
-#- name: CUPRA GPS 500 Women Edition 👩
-#  date: 2025-06-22
-#  id: gps500Women
-#  registration_till: 2025-06-16T22:00+02:00
-#  link: https://rankedin.com/en/tournament/53752/cupra-gps-500-damen-padel-fc-berlin
-#  type: tournament
-#  location: padelFC
-#  description:
-#    en: >
-#      Join the GPS 500 Women’s Padel Tournament in Berlin on Sunday evening for a chance to compete at a higher level.<br/>
-#      This women-only event promises top-tier competition and thrilling matches—don’t miss your opportunity to be part of this prestigious tournament.<br/><br/>
-#
-#      Click the event details link to sign up and learn more.
+- name: CUPRA GPS 100/250/500 Men Edition🧔
+  date: 2025-12-06
+  id: gps06m
+  registration_till: 2025-12-01T22:00+02:00
+  link: https://www.rankedin.com/en/tournament/60608/cupra-gps-100-h00-d00-m00-gps-250-h00-gps-500-h00-padel-ludwigsfelde
+  type: tournament
+  location: padel-lu
+  description:
+    en: >
+      Step onto the courts of the brand-new club in Ludwigsfelde for the CUPRA GPS 100/250/500 Men Edition 🧔 tournament!<br>
+      This men-only event promises fierce competition and adrenaline-pumping matches—your chance to test your skills at a higher level.<br/><br/>
+
+      Don’t miss out—click the event details link to sign up and learn more.
+
+      Click the event details link to sign up and learn more.
+- name: CUPRA GPS 100 Mixed 👩🧔
+  date: 2025-12-06
+  id: gps06mixed
+  registration_till: 2025-12-01T22:00+02:00
+  link: https://www.rankedin.com/en/tournament/60608/cupra-gps-100-h00-d00-m00-gps-250-h00-gps-500-h00-padel-ludwigsfelde
+  type: tournament
+  location: padel-lu
+  description:
+    en: >
+      Get ready for some fun and friendly competition at the brand-new Ludwigsfelde club with the CUPRA GPS 100 Mixed Edition! 🤝
+      This mixed-level event (men 🧔 + women 👩) is perfect for players looking to enjoy exciting matches in a welcoming atmosphere.
+
+      Sign up and check out all the details by clicking the event link!
+
+      Click the event details link to sign up and learn more.
+- name: CUPRA GPS 100 Women 👩
+  date: 2025-12-06
+  id: gps06w
+  registration_till: 2025-12-01T22:00+02:00
+  link: https://www.rankedin.com/en/tournament/60608/cupra-gps-100-h00-d00-m00-gps-250-h00-gps-500-h00-padel-ludwigsfelde
+  type: tournament
+  location: padel-lu
+  description:
+    en: >
+      Celebrate the opening of the new Ludwigsfelde club and join the CUPRA GPS 100 Women’s Edition! 🌟<br/>
+      Whether you’re aiming to sharpen your game or just enjoy some friendly competition, this women-only tournament is the perfect chance to hit the courts and have fun.<br/><br/>
+      Reserve your spot and see all the details through the event link!
 #- name: CUPRA GPS 500 Mixed Edition 👩🧔
 #  date: 2025-07-13
 #  id: gps500Mixed

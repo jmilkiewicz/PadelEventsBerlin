@@ -34,5 +34,9 @@
         {% assign locationName = "mitte — Charlotte" %}
         {% assign locationLink = "https://www.instagram.com/mittepadel/" %}
     {% endif %}
+    {% if include.id == "padel-lu" %}
+        {% assign locationName = "Padel Ludwigsfelde" %}
+        {% assign locationLink = "https://padel-lu.de/" %}
+    {% endif %}
 
     <a href="{{locationLink}}" target="_blank" class="event-location">📍 {{locationName}}</a>
