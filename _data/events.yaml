@@ -1,6 +1,6 @@
 - name: Your Padel event 🫵
   id: yourOwnEvent
-  date: 2025-12-31
+  date: 2026-12-31
   type: other
   location: other
   link: /addEvent.html
@@ -69,6 +69,27 @@
 #    en: >
 #      Golden court tournament for intermediate players on Sunday afternoon: 12:30-14:30<br/><br/>
 #      To reserve your spot, contact Julian from WAP at (+49 176 68266671)
+- name: Challengers Cup Berlin 🎾
+  date: 2026-04-18
+  id: challenger
+  registration_till: 2026-04-17T22:00+02:00
+  link: https://luma.com/c9aq4icf
+  type: other
+  location: padelBros
+  description:
+    en: >
+      A full-day padel experience in Berlin combining competition, coaching, and community.<br/><br/>
+      
+      What to expect:<br/>
+      - 🏆 3 community tournaments (all levels & genders)<br/>
+      - 🎓 Clinics with experienced coaches & top-level players<br/>
+      - 🎾 Multiple guaranteed matches + knockout stage<br/>
+      - 🎧 DJs, music & lounge atmosphere<br/>
+      - 🍔 Food, drinks & indoor courts<br/>
+      - 🎁 Goodie bags & prizes for participants<br/>            
+      - 🙌 Open event access for spectators & networking<br/><br/>
+      
+      👉 A mix of sport, learning, and community — with limited spots available.
 - name: CUPRA GPS 350 Teams (🧔‍/👩)
   date: 2025-12-07
   id: gps350mixed
@@ -216,19 +237,18 @@
 #      GPS level 100 (beginners) tournament for women ♀ on Thursday  evening.<br/>
 #      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
 #      Signup and more information in event details link.
-#- name: GPS 500 Women 👩
-#  date: 2024-10-13
-#  id: gps500Women
-#  registration_till: 2024-10-07T22:00+02:00
-#  link: https://rankedin.com/en/tournament/43161/gps-500-damen-wap-berlin
-#  type: tournament
-#  location: wap
-#  description:
-#    en: >
-#      GPS level 500 tournament for women ♀️ on Sunday afternoon.<br/>
-#      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
-#      Signup and more information in event details link.
-
+- name: GPS 500 Women 👩 and Men 🧔
+  date: 2026-04-12
+  id: gps500
+  registration_till: 2026-04-06T22:00+02:00
+  link: https://www.rankedin.com/en/tournament/66185/gps-500-d00-h00-mitte-charlotte
+  type: tournament
+  location: mitte
+  description:
+    en: >
+      GPS level 500 tournament for women ♀️ and men on Sunday 16th of Arpil.<br/>
+      Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
+      Signup and more information in event details link.
 #- name: CUPRA GPS 500 Men 🧔
 #  date: 2025-06-15
 #  id: gps500Men
