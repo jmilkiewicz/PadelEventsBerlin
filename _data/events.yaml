@@ -457,9 +457,12 @@
   link: https://www.rankedin.com/en/tournament/68250/cupra-gps-100-herren-padelbros
   description:
     en: >
-      Join the GPS100 (beginner level) Men's Tournaments - the best way to start earning your points!<br/><br/>
+      Earn ranking points and start your tournament journey at the official GPS100 Men's Tournament – perfect for beginner level players! 🧔<br/><br/>
+
+      Great atmosphere, competitive matches and the best way to collect your first points.<br/><br/>
 
       Signup and more information in event details link.
+      
       
 
 - name: CUPRA GPS 100 (Beginners) Women Edition 👩
@@ -471,10 +474,28 @@
   link: https://www.rankedin.com/en/tournament/68220/cupra-gps-100-damen-padelbros
   description:
     en: >
-      Join the GPS100 (beginner level) Women's Tournaments - the best way to start earning your points!<br/>
-      Registration finishes soon!<br/><br/>
+      Join the official GPS100 Women's Tournament 👩 and compete in a fun, welcoming environment designed for beginner level players.<br/><br/>
+
+      A great chance to gain match experience, meet other players and earn your first ranking points.<br/>
+      Registration closes soon!<br/><br/>
 
       Signup and more information in event details link.
+
+- name: GPS 100 🧔/👩/👩🧔, GPS 250 🧔, GPS 500 🧔 powered by mobitec
+  id: gpsALL
+  date: 2026-05-09
+  registration_till: 2026-05-04T22:00+02:00
+  type: tournament
+  location: padel-lu
+  link: https://www.rankedin.com/en/tournament/68195/gps-100-h00-d00-m00-gps-250-h00-gps-500-h00-powered-by-mobitec-padel-ludwigsfelde
+  description:
+    en: >
+      Earn ranking points for the German rankings and gain tournament experience at an official DPV event!<br/><br/>
+      Categories: GPS 100 Men / Women / Mixed, GPS 250 Men, GPS 500 Men.<br/><br/>
+      Limited spots available – first come, first served.<br/><br/>
+      Signup and more information in event details link.
+      
+
 #- name: Men GPS 250
 #  id: gps250men
 #  date: 2025-02-22
