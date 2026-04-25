@@ -449,15 +449,30 @@
       Only licensed players are eligible to participate, so ensure you have your license ready! 📋🎫<br/><br/>
       Signup and more information in event details link.
 - name: CUPRA GPS 100 (Beginners) Men Edition 🧔
-  id: gps100
-  date: 2025-11-23
-  registration_till: 2025-11-17T22:00+02:00
+  id: gps100Men
+  date: 2026-05-10
+  registration_till: 2026-05-05T22:00+02:00
   type: tournament
-  location: padelFC
-  link: https://rankedin.com/en/tournament/60692/cupra-gps-100-herren-padel-fc-berlin
+  location: padelBros
+  link: https://www.rankedin.com/en/tournament/68250/cupra-gps-100-herren-padelbros
   description:
     en: >
-      Join the GPS100 (beginner level) Men's Tournaments - the best way to start earning your DPV points!<br/><br/>
+      Join the GPS100 (beginner level) Men's Tournaments - the best way to start earning your points!<br/><br/>
+
+      Signup and more information in event details link.
+      
+
+- name: CUPRA GPS 100 (Beginners) Women Edition 👩
+  id: gps100Women
+  date: 2026-05-03
+  registration_till: 2026-04-27T22:00+02:00
+  type: tournament
+  location: padelBros
+  link: https://www.rankedin.com/en/tournament/68220/cupra-gps-100-damen-padelbros
+  description:
+    en: >
+      Join the GPS100 (beginner level) Women's Tournaments - the best way to start earning your points!<br/>
+      Registration finishes soon!<br/><br/>
 
       Signup and more information in event details link.
 #- name: Men GPS 250
