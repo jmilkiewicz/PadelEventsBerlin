@@ -494,6 +494,19 @@
       Categories: GPS 100 Men / Women / Mixed, GPS 250 Men, GPS 500 Men.<br/><br/>
       Limited spots available – first come, first served.<br/><br/>
       Signup and more information in event details link.
+
+- name: 🎾 Padel Lankwitz Season Opening – May 1
+  id: lankwitz
+  date: 2026-05-01
+  registration_till: 2026-05-01T22:00+02:00
+  type: other
+  location: pl
+  link: https://www.padellankwitz.de/
+  description:
+    en: >
+      Good news for the Berlin padel community – Pade  returns from 1st of May! 🎉<br/><br/>
+      After the winter break, the courts reopen with a brand new turf surface for an even better playing experience.<br/><br/>
+      Court bookings are already open now – secure your next match early.<br/><br/>            
       
 
 #- name: Men GPS 250
