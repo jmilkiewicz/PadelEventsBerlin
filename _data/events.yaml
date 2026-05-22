@@ -79,8 +79,33 @@
       Great atmosphere, competitive matches and the best way to collect your first points.<br/><br/>
 
       Signup and more information in event details link.
-      
-      
+- name: CERTINA GPT 100 (Beginners) Men Edition 🧔
+  id: certina100Men
+  date: 2026-06-25
+  registration_till: 2026-06-22T22:00+02:00
+  type: tournament
+  location: tio
+  link: https://www.rankedin.com/en/tournament/69654/certina-gpt-100-by-tio-tio-herren
+  description:
+    en: >
+      Earn ranking points and start your tournament journey at the official GPS100 Men's Tournament – perfect for beginner level players! 🧔<br/>      
+      Great atmosphere, competitive matches and the best way to collect your first points.<br/><br/>
+    
+      Signup and more information in event details link.
+
+- name: Vola Berlin Padel Tour
+  id: vola
+  date: 2026-09-20
+  registration_till: 2026-09-19T22:00+02:00
+  type: tournament
+  location: mitte
+  link: https://www.canva.com/design/DAGw6KDg5EM/x-F_99pL8fLgZIv3JnFcVA/edit
+  description:
+    en: >
+      🎾 Padel Circuit is launching the city’s first amateur padel tour with an exciting tournament at the brand-new Mitte | Charlotte Club on September 20, 2025<br/> 
+      🏆 Players of all levels can compete across multiple categories, enjoy guaranteed matches, live results 📲, premium player rewards 🎁, and the chance to join the first Berlin Amateur Padel Ranking ⭐<br/><br/>
+      Signup and more information in event details link.
+
 
 - name: CUPRA GPS 100 (Beginners) Women Edition 👩
   id: gps100Women
