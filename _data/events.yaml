@@ -159,7 +159,7 @@
     en: >
       Manu Soler🇪🇸 is back in Berlin at the beginning of September with power-packed training programs, designed for players ranging from beginner to advanced levels:<br/>
       - Padel Essentials 🎯<br/>
-      - Padel Oveheads 💥 <br/>
+      - Padel Overheads 💥 <br/>
       - Padel Tactics 🧠️<br/><br/>      
       📅Training will start on 5th September (4 days) or 7th September (3 days), depending on the course.<br/><br/>
       🌐 Explore the event page to unveil the comprehensive training plan, detailed schedule, and the skills, experiences, and enhancements you'll gain.<br/>
@@ -180,3 +180,15 @@
       Interested in joining with your company team? Contact the organizers directly for registration and details:<br/>
       - ✉️ bi@nci-consulting.de<br/>
       - ✉️ s.schmargon@roomys.de
+- name: World Enjoyer padel lessons Berlín 🎾
+  id: corporateCup
+  date: 2026-08-28
+  registration_till: 2026-08-30T22:00+02:00
+  type: course
+  location: wap
+  description:
+    en: >
+      📅 From August 27th to 30th, Sergi Puertolas 🇪🇸 will be at 4Padel Berlin offering private and group padel training sessions 🎾<br/><br/>
+      Whether you're looking to improve your technique 🎯, sharpen your tactical game 🧠, or simply enjoy a high-quality training session 💪, you can join individually or with your own group 👥.
+
+  link: https://www.4padel.de/berlin/tournois
